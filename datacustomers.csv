@@ -1,0 +1,501 @@
+customer_id,city,age,gender,preferred_channel,registration_date
+CUST0001,Ahmedabad,32,M,Store,2023-06-09
+CUST0002,Pune,34,F,Store,2023-07-13
+CUST0003,Pune,45,F,Website,2023-04-03
+CUST0004,Ahmedabad,40,M,Website,2023-08-06
+CUST0005,Chennai,31,F,Mobile App,2023-09-13
+CUST0006,Kolkata,28,M,Mobile App,2023-02-01
+CUST0007,Kolkata,47,M,Mobile App,2023-02-05
+CUST0008,Delhi,30,M,Mobile App,2023-02-24
+CUST0009,Mumbai,28,M,Mobile App,2023-04-10
+CUST0010,Bengaluru,33,M,Website,2023-04-03
+CUST0011,Bengaluru,52,F,Store,2023-08-22
+CUST0012,Kolkata,37,F,Mobile App,2023-03-26
+CUST0013,Ahmedabad,43,M,Mobile App,2023-09-24
+CUST0014,Mumbai,24,F,Mobile App,2023-08-15
+CUST0015,Hyderabad,33,F,Mobile App,2023-10-09
+CUST0016,Kolkata,48,M,Mobile App,2023-10-25
+CUST0017,Delhi,49,M,Website,2023-01-22
+CUST0018,Kolkata,42,F,Mobile App,2023-07-24
+CUST0019,Mumbai,53,M,Mobile App,2023-09-18
+CUST0020,Hyderabad,32,F,Mobile App,2023-01-10
+CUST0021,Kolkata,27,M,Website,2023-02-19
+CUST0022,Bengaluru,23,F,Mobile App,2023-03-31
+CUST0023,Bengaluru,28,M,Mobile App,2023-03-03
+CUST0024,Bengaluru,49,M,Mobile App,2023-08-29
+CUST0025,Pune,54,M,Store,2023-02-09
+CUST0026,Bengaluru,25,F,Mobile App,2023-10-05
+CUST0027,Ahmedabad,39,M,Website,2023-04-18
+CUST0028,Hyderabad,25,F,Mobile App,2023-06-28
+CUST0029,Hyderabad,52,M,Store,2023-05-03
+CUST0030,Chennai,25,M,Mobile App,2023-04-15
+CUST0031,Chennai,44,M,Mobile App,2023-09-17
+CUST0032,Chennai,24,M,Store,2023-04-17
+CUST0033,Chennai,48,M,Website,2023-10-21
+CUST0034,Ahmedabad,54,F,Mobile App,2023-07-10
+CUST0035,Kolkata,48,F,Mobile App,2023-04-18
+CUST0036,Kolkata,30,M,Store,2023-09-17
+CUST0037,Pune,52,M,Mobile App,2023-03-25
+CUST0038,Chennai,32,M,Mobile App,2023-04-13
+CUST0039,Bengaluru,48,F,Store,2023-09-24
+CUST0040,Ahmedabad,51,M,Mobile App,2023-02-27
+CUST0041,Hyderabad,38,F,Mobile App,2023-09-23
+CUST0042,Delhi,43,F,Mobile App,2023-01-01
+CUST0043,Kolkata,52,F,Mobile App,2023-01-03
+CUST0044,Delhi,27,F,Mobile App,2023-02-11
+CUST0045,Kolkata,21,F,Website,2023-07-04
+CUST0046,Chennai,37,M,Mobile App,2023-09-13
+CUST0047,Mumbai,27,M,Mobile App,2023-09-11
+CUST0048,Mumbai,53,M,Website,2023-07-07
+CUST0049,Hyderabad,53,M,Website,2023-07-12
+CUST0050,Mumbai,34,M,Website,2023-10-25
+CUST0051,Delhi,32,M,Mobile App,2023-10-12
+CUST0052,Chennai,47,F,Website,2023-01-21
+CUST0053,Ahmedabad,37,M,Website,2023-06-18
+CUST0054,Hyderabad,24,M,Mobile App,2023-04-20
+CUST0055,Kolkata,45,M,Store,2023-02-10
+CUST0056,Ahmedabad,47,M,Mobile App,2023-08-27
+CUST0057,Kolkata,23,F,Mobile App,2023-06-12
+CUST0058,Pune,49,M,Mobile App,2023-07-18
+CUST0059,Hyderabad,40,M,Website,2023-06-04
+CUST0060,Chennai,51,M,Website,2023-01-21
+CUST0061,Bengaluru,52,M,Website,2023-09-18
+CUST0062,Hyderabad,45,M,Mobile App,2023-05-01
+CUST0063,Hyderabad,33,M,Store,2023-03-07
+CUST0064,Delhi,34,M,Website,2023-07-11
+CUST0065,Ahmedabad,47,M,Mobile App,2023-04-02
+CUST0066,Mumbai,23,F,Mobile App,2023-07-26
+CUST0067,Mumbai,29,M,Website,2023-06-03
+CUST0068,Delhi,40,F,Mobile App,2023-05-16
+CUST0069,Ahmedabad,55,M,Website,2023-01-30
+CUST0070,Pune,49,M,Website,2023-02-26
+CUST0071,Ahmedabad,51,F,Mobile App,2023-09-17
+CUST0072,Delhi,28,M,Store,2023-10-17
+CUST0073,Pune,31,F,Mobile App,2023-06-15
+CUST0074,Bengaluru,30,F,Mobile App,2023-05-20
+CUST0075,Hyderabad,48,F,Mobile App,2023-02-23
+CUST0076,Mumbai,40,M,Store,2023-08-04
+CUST0077,Chennai,28,F,Mobile App,2023-07-14
+CUST0078,Kolkata,48,F,Website,2023-06-10
+CUST0079,Pune,44,F,Mobile App,2023-03-22
+CUST0080,Delhi,54,M,Store,2023-01-25
+CUST0081,Chennai,41,F,Store,2023-10-18
+CUST0082,Bengaluru,25,F,Mobile App,2023-03-13
+CUST0083,Ahmedabad,53,M,Store,2023-07-15
+CUST0084,Ahmedabad,27,M,Website,2023-01-19
+CUST0085,Delhi,23,M,Mobile App,2023-07-24
+CUST0086,Chennai,50,F,Mobile App,2023-02-27
+CUST0087,Ahmedabad,37,F,Mobile App,2023-07-29
+CUST0088,Kolkata,44,F,Website,2023-03-02
+CUST0089,Pune,25,F,Mobile App,2023-05-29
+CUST0090,Pune,47,F,Mobile App,2023-05-05
+CUST0091,Mumbai,35,F,Mobile App,2023-06-03
+CUST0092,Pune,57,F,Website,2023-04-07
+CUST0093,Hyderabad,44,F,Website,2023-04-12
+CUST0094,Mumbai,55,F,Store,2023-04-19
+CUST0095,Delhi,50,M,Mobile App,2023-07-11
+CUST0096,Chennai,52,M,Website,2023-09-03
+CUST0097,Pune,24,M,Mobile App,2023-04-20
+CUST0098,Chennai,49,F,Mobile App,2023-01-07
+CUST0099,Chennai,43,F,Store,2023-02-28
+CUST0100,Kolkata,35,M,Mobile App,2023-02-01
+CUST0101,Pune,32,F,Store,2023-07-08
+CUST0102,Bengaluru,44,F,Website,2023-08-31
+CUST0103,Pune,28,M,Mobile App,2023-03-05
+CUST0104,Chennai,27,M,Website,2023-06-10
+CUST0105,Mumbai,53,M,Mobile App,2023-05-24
+CUST0106,Mumbai,49,M,Store,2023-05-12
+CUST0107,Pune,42,M,Mobile App,2023-09-23
+CUST0108,Hyderabad,49,M,Mobile App,2023-03-22
+CUST0109,Chennai,32,F,Website,2023-07-07
+CUST0110,Bengaluru,47,M,Mobile App,2023-06-12
+CUST0111,Delhi,28,F,Mobile App,2023-09-20
+CUST0112,Delhi,37,F,Mobile App,2023-03-08
+CUST0113,Hyderabad,26,F,Mobile App,2023-10-08
+CUST0114,Kolkata,34,M,Website,2023-09-15
+CUST0115,Hyderabad,33,M,Website,2023-05-15
+CUST0116,Hyderabad,36,F,Store,2023-09-05
+CUST0117,Chennai,38,M,Mobile App,2023-07-14
+CUST0118,Ahmedabad,22,M,Website,2023-04-07
+CUST0119,Hyderabad,33,F,Store,2023-09-13
+CUST0120,Chennai,52,F,Mobile App,2023-01-08
+CUST0121,Hyderabad,37,M,Website,2023-02-11
+CUST0122,Chennai,41,M,Mobile App,2023-09-24
+CUST0123,Hyderabad,24,F,Store,2023-08-26
+CUST0124,Pune,35,M,Website,2023-03-31
+CUST0125,Chennai,56,F,Store,2023-10-23
+CUST0126,Pune,41,M,Website,2023-07-17
+CUST0127,Ahmedabad,21,F,Store,2023-03-14
+CUST0128,Delhi,47,M,Mobile App,2023-09-15
+CUST0129,Chennai,49,M,Website,2023-10-25
+CUST0130,Hyderabad,35,M,Mobile App,2023-08-28
+CUST0131,Bengaluru,22,F,Mobile App,2023-07-07
+CUST0132,Delhi,51,F,Mobile App,2023-09-16
+CUST0133,Mumbai,30,M,Website,2023-08-30
+CUST0134,Hyderabad,55,M,Website,2023-05-27
+CUST0135,Kolkata,34,F,Store,2023-08-16
+CUST0136,Mumbai,35,F,Mobile App,2023-09-10
+CUST0137,Hyderabad,50,M,Mobile App,2023-01-10
+CUST0138,Ahmedabad,26,F,Mobile App,2023-05-19
+CUST0139,Ahmedabad,22,M,Website,2023-10-08
+CUST0140,Delhi,49,F,Website,2023-03-21
+CUST0141,Mumbai,55,M,Mobile App,2023-07-04
+CUST0142,Pune,57,F,Website,2023-05-25
+CUST0143,Mumbai,25,F,Website,2023-06-25
+CUST0144,Bengaluru,26,F,Mobile App,2023-04-11
+CUST0145,Hyderabad,33,M,Mobile App,2023-07-11
+CUST0146,Kolkata,47,F,Mobile App,2023-08-19
+CUST0147,Mumbai,54,F,Store,2023-08-10
+CUST0148,Pune,51,M,Website,2023-09-07
+CUST0149,Chennai,34,M,Mobile App,2023-03-17
+CUST0150,Delhi,55,F,Mobile App,2023-02-12
+CUST0151,Kolkata,30,F,Mobile App,2023-06-12
+CUST0152,Kolkata,25,M,Website,2023-02-19
+CUST0153,Hyderabad,37,F,Website,2023-07-08
+CUST0154,Ahmedabad,24,M,Store,2023-04-26
+CUST0155,Chennai,46,M,Mobile App,2023-08-04
+CUST0156,Ahmedabad,57,F,Mobile App,2023-05-19
+CUST0157,Ahmedabad,24,M,Website,2023-06-18
+CUST0158,Chennai,25,M,Store,2023-10-14
+CUST0159,Bengaluru,27,M,Website,2023-07-08
+CUST0160,Delhi,27,M,Mobile App,2023-10-10
+CUST0161,Chennai,40,M,Website,2023-03-14
+CUST0162,Delhi,42,M,Mobile App,2023-10-18
+CUST0163,Kolkata,56,M,Store,2023-03-06
+CUST0164,Ahmedabad,37,M,Mobile App,2023-08-07
+CUST0165,Delhi,55,M,Mobile App,2023-01-14
+CUST0166,Chennai,48,M,Store,2023-07-23
+CUST0167,Mumbai,52,F,Mobile App,2023-09-22
+CUST0168,Delhi,28,F,Store,2023-03-23
+CUST0169,Hyderabad,37,M,Website,2023-02-17
+CUST0170,Ahmedabad,54,F,Mobile App,2023-04-22
+CUST0171,Ahmedabad,48,M,Mobile App,2023-01-21
+CUST0172,Pune,29,M,Website,2023-01-01
+CUST0173,Chennai,52,M,Mobile App,2023-05-09
+CUST0174,Chennai,49,F,Store,2023-09-07
+CUST0175,Mumbai,26,M,Store,2023-05-01
+CUST0176,Hyderabad,23,F,Mobile App,2023-03-24
+CUST0177,Ahmedabad,30,M,Mobile App,2023-03-09
+CUST0178,Hyderabad,38,F,Store,2023-01-24
+CUST0179,Delhi,26,F,Mobile App,2023-04-29
+CUST0180,Delhi,22,F,Mobile App,2023-04-05
+CUST0181,Pune,25,M,Mobile App,2023-05-15
+CUST0182,Mumbai,32,M,Mobile App,2023-04-07
+CUST0183,Ahmedabad,35,M,Mobile App,2023-06-27
+CUST0184,Ahmedabad,32,F,Website,2023-08-06
+CUST0185,Chennai,37,M,Store,2023-01-04
+CUST0186,Hyderabad,47,M,Website,2023-01-02
+CUST0187,Kolkata,30,F,Mobile App,2023-03-25
+CUST0188,Chennai,37,M,Mobile App,2023-03-11
+CUST0189,Hyderabad,47,M,Mobile App,2023-01-27
+CUST0190,Bengaluru,23,F,Store,2023-09-26
+CUST0191,Hyderabad,55,M,Mobile App,2023-01-27
+CUST0192,Kolkata,57,M,Mobile App,2023-09-14
+CUST0193,Mumbai,31,M,Store,2023-01-20
+CUST0194,Mumbai,53,M,Mobile App,2023-07-08
+CUST0195,Pune,30,M,Mobile App,2023-04-25
+CUST0196,Bengaluru,54,F,Website,2023-06-17
+CUST0197,Kolkata,45,F,Mobile App,2023-06-06
+CUST0198,Mumbai,30,F,Store,2023-03-08
+CUST0199,Ahmedabad,23,F,Mobile App,2023-01-31
+CUST0200,Mumbai,35,M,Mobile App,2023-09-20
+CUST0201,Hyderabad,48,F,Mobile App,2023-08-07
+CUST0202,Ahmedabad,29,F,Website,2023-08-17
+CUST0203,Mumbai,40,F,Mobile App,2023-07-05
+CUST0204,Pune,25,F,Store,2023-06-03
+CUST0205,Pune,36,F,Store,2023-09-13
+CUST0206,Hyderabad,22,M,Store,2023-02-18
+CUST0207,Mumbai,57,F,Mobile App,2023-07-01
+CUST0208,Chennai,39,M,Mobile App,2023-03-06
+CUST0209,Hyderabad,52,M,Mobile App,2023-07-15
+CUST0210,Kolkata,25,F,Store,2023-04-24
+CUST0211,Pune,27,F,Website,2023-05-09
+CUST0212,Bengaluru,27,M,Mobile App,2023-04-10
+CUST0213,Mumbai,42,M,Website,2023-06-28
+CUST0214,Chennai,52,F,Store,2023-01-19
+CUST0215,Bengaluru,43,M,Store,2023-08-20
+CUST0216,Pune,38,M,Website,2023-05-02
+CUST0217,Kolkata,55,M,Store,2023-10-22
+CUST0218,Bengaluru,27,M,Store,2023-05-15
+CUST0219,Ahmedabad,27,F,Mobile App,2023-02-06
+CUST0220,Chennai,45,F,Mobile App,2023-03-28
+CUST0221,Chennai,52,M,Website,2023-05-18
+CUST0222,Kolkata,30,F,Mobile App,2023-04-26
+CUST0223,Kolkata,30,F,Mobile App,2023-03-21
+CUST0224,Ahmedabad,40,M,Store,2023-04-10
+CUST0225,Ahmedabad,49,M,Website,2023-08-08
+CUST0226,Delhi,31,M,Website,2023-04-24
+CUST0227,Hyderabad,51,F,Store,2023-02-16
+CUST0228,Ahmedabad,40,F,Mobile App,2023-07-05
+CUST0229,Bengaluru,47,M,Store,2023-08-10
+CUST0230,Mumbai,44,M,Store,2023-05-30
+CUST0231,Chennai,38,M,Mobile App,2023-08-06
+CUST0232,Kolkata,40,M,Mobile App,2023-03-01
+CUST0233,Pune,57,F,Mobile App,2023-02-13
+CUST0234,Kolkata,35,M,Store,2023-08-27
+CUST0235,Pune,55,M,Mobile App,2023-08-25
+CUST0236,Delhi,50,M,Mobile App,2023-06-03
+CUST0237,Kolkata,27,M,Store,2023-05-26
+CUST0238,Hyderabad,53,F,Website,2023-05-18
+CUST0239,Kolkata,35,M,Website,2023-03-08
+CUST0240,Kolkata,27,M,Website,2023-08-03
+CUST0241,Ahmedabad,30,M,Mobile App,2023-04-25
+CUST0242,Mumbai,26,F,Mobile App,2023-08-14
+CUST0243,Kolkata,33,F,Mobile App,2023-05-13
+CUST0244,Pune,25,M,Mobile App,2023-09-12
+CUST0245,Hyderabad,41,F,Mobile App,2023-09-12
+CUST0246,Kolkata,57,M,Website,2023-09-01
+CUST0247,Ahmedabad,56,F,Website,2023-03-22
+CUST0248,Chennai,55,M,Website,2023-07-20
+CUST0249,Mumbai,30,F,Mobile App,2023-08-15
+CUST0250,Pune,29,M,Mobile App,2023-08-05
+CUST0251,Delhi,46,M,Store,2023-09-21
+CUST0252,Delhi,56,F,Mobile App,2023-02-17
+CUST0253,Delhi,51,M,Website,2023-07-17
+CUST0254,Delhi,28,M,Mobile App,2023-07-29
+CUST0255,Ahmedabad,48,M,Store,2023-04-18
+CUST0256,Bengaluru,39,M,Mobile App,2023-03-18
+CUST0257,Mumbai,37,M,Mobile App,2023-06-19
+CUST0258,Delhi,39,M,Website,2023-03-19
+CUST0259,Hyderabad,41,M,Website,2023-06-26
+CUST0260,Bengaluru,54,M,Store,2023-02-06
+CUST0261,Bengaluru,50,M,Website,2023-04-29
+CUST0262,Ahmedabad,22,F,Mobile App,2023-04-30
+CUST0263,Kolkata,49,M,Mobile App,2023-08-09
+CUST0264,Chennai,32,M,Website,2023-01-06
+CUST0265,Ahmedabad,33,M,Store,2023-04-20
+CUST0266,Bengaluru,43,F,Mobile App,2023-07-17
+CUST0267,Delhi,57,M,Website,2023-05-30
+CUST0268,Bengaluru,23,M,Mobile App,2023-08-13
+CUST0269,Mumbai,40,F,Mobile App,2023-09-18
+CUST0270,Ahmedabad,29,M,Website,2023-08-21
+CUST0271,Delhi,54,F,Website,2023-04-11
+CUST0272,Hyderabad,38,F,Store,2023-02-08
+CUST0273,Delhi,52,M,Website,2023-01-27
+CUST0274,Ahmedabad,53,F,Mobile App,2023-07-12
+CUST0275,Delhi,24,M,Website,2023-02-07
+CUST0276,Chennai,49,M,Mobile App,2023-09-09
+CUST0277,Ahmedabad,50,M,Mobile App,2023-06-23
+CUST0278,Chennai,51,F,Mobile App,2023-01-11
+CUST0279,Ahmedabad,57,F,Mobile App,2023-08-26
+CUST0280,Ahmedabad,49,M,Mobile App,2023-02-28
+CUST0281,Kolkata,51,F,Mobile App,2023-10-25
+CUST0282,Pune,47,M,Mobile App,2023-03-22
+CUST0283,Chennai,31,M,Mobile App,2023-06-15
+CUST0284,Chennai,52,F,Mobile App,2023-05-19
+CUST0285,Kolkata,46,F,Store,2023-04-16
+CUST0286,Hyderabad,46,M,Store,2023-02-21
+CUST0287,Ahmedabad,57,F,Mobile App,2023-01-19
+CUST0288,Ahmedabad,48,M,Website,2023-06-11
+CUST0289,Bengaluru,33,M,Store,2023-10-22
+CUST0290,Hyderabad,32,M,Mobile App,2023-04-14
+CUST0291,Pune,33,F,Website,2023-04-01
+CUST0292,Ahmedabad,27,M,Mobile App,2023-07-16
+CUST0293,Mumbai,24,F,Website,2023-10-27
+CUST0294,Mumbai,48,F,Store,2023-06-09
+CUST0295,Delhi,49,M,Mobile App,2023-10-18
+CUST0296,Hyderabad,27,F,Store,2023-07-25
+CUST0297,Delhi,35,M,Website,2023-08-28
+CUST0298,Chennai,55,F,Website,2023-03-15
+CUST0299,Chennai,51,F,Website,2023-06-15
+CUST0300,Ahmedabad,43,F,Store,2023-08-01
+CUST0301,Pune,56,F,Mobile App,2023-04-19
+CUST0302,Bengaluru,33,M,Website,2023-08-09
+CUST0303,Kolkata,52,F,Mobile App,2023-04-27
+CUST0304,Kolkata,55,M,Mobile App,2023-08-05
+CUST0305,Pune,42,F,Website,2023-05-17
+CUST0306,Pune,26,F,Mobile App,2023-01-21
+CUST0307,Bengaluru,31,F,Mobile App,2023-01-30
+CUST0308,Pune,40,M,Website,2023-10-11
+CUST0309,Delhi,31,M,Website,2023-07-11
+CUST0310,Pune,24,F,Website,2023-06-23
+CUST0311,Ahmedabad,27,F,Mobile App,2023-08-20
+CUST0312,Ahmedabad,56,M,Website,2023-03-23
+CUST0313,Bengaluru,35,F,Mobile App,2023-04-20
+CUST0314,Bengaluru,42,M,Website,2023-05-11
+CUST0315,Chennai,37,M,Website,2023-07-17
+CUST0316,Hyderabad,50,F,Website,2023-06-05
+CUST0317,Pune,24,M,Mobile App,2023-03-23
+CUST0318,Delhi,31,M,Mobile App,2023-06-05
+CUST0319,Delhi,42,M,Website,2023-04-23
+CUST0320,Mumbai,50,M,Mobile App,2023-03-16
+CUST0321,Hyderabad,38,M,Website,2023-02-27
+CUST0322,Delhi,47,M,Mobile App,2023-03-21
+CUST0323,Bengaluru,50,F,Mobile App,2023-06-11
+CUST0324,Ahmedabad,44,F,Website,2023-04-20
+CUST0325,Kolkata,51,F,Website,2023-05-07
+CUST0326,Kolkata,56,F,Store,2023-08-23
+CUST0327,Chennai,29,M,Store,2023-07-28
+CUST0328,Mumbai,37,M,Mobile App,2023-05-12
+CUST0329,Pune,29,M,Website,2023-06-22
+CUST0330,Chennai,36,M,Mobile App,2023-01-12
+CUST0331,Ahmedabad,21,F,Website,2023-05-03
+CUST0332,Hyderabad,46,M,Mobile App,2023-05-16
+CUST0333,Delhi,29,M,Mobile App,2023-03-31
+CUST0334,Chennai,51,F,Mobile App,2023-03-02
+CUST0335,Hyderabad,47,M,Website,2023-08-11
+CUST0336,Pune,33,M,Website,2023-01-04
+CUST0337,Hyderabad,37,F,Website,2023-10-21
+CUST0338,Bengaluru,45,F,Website,2023-10-21
+CUST0339,Delhi,36,M,Mobile App,2023-07-07
+CUST0340,Ahmedabad,28,F,Website,2023-03-30
+CUST0341,Kolkata,22,M,Mobile App,2023-03-30
+CUST0342,Hyderabad,41,M,Website,2023-06-11
+CUST0343,Delhi,40,F,Mobile App,2023-07-20
+CUST0344,Pune,49,M,Website,2023-04-18
+CUST0345,Hyderabad,25,M,Mobile App,2023-05-13
+CUST0346,Pune,23,F,Mobile App,2023-01-17
+CUST0347,Mumbai,48,F,Mobile App,2023-09-23
+CUST0348,Delhi,47,M,Mobile App,2023-09-28
+CUST0349,Pune,50,F,Mobile App,2023-03-20
+CUST0350,Mumbai,21,M,Website,2023-10-08
+CUST0351,Pune,45,F,Store,2023-09-12
+CUST0352,Hyderabad,56,M,Mobile App,2023-02-25
+CUST0353,Mumbai,49,M,Mobile App,2023-02-15
+CUST0354,Kolkata,38,M,Website,2023-05-06
+CUST0355,Pune,38,F,Mobile App,2023-07-27
+CUST0356,Kolkata,36,M,Store,2023-04-23
+CUST0357,Ahmedabad,23,F,Mobile App,2023-08-08
+CUST0358,Pune,47,F,Mobile App,2023-02-20
+CUST0359,Kolkata,40,F,Mobile App,2023-10-05
+CUST0360,Mumbai,40,M,Mobile App,2023-07-18
+CUST0361,Ahmedabad,55,M,Mobile App,2023-03-17
+CUST0362,Ahmedabad,48,F,Mobile App,2023-08-23
+CUST0363,Pune,56,F,Website,2023-05-04
+CUST0364,Kolkata,24,M,Store,2023-08-16
+CUST0365,Pune,56,M,Mobile App,2023-07-30
+CUST0366,Ahmedabad,41,M,Website,2023-07-22
+CUST0367,Ahmedabad,35,M,Mobile App,2023-02-06
+CUST0368,Chennai,41,F,Website,2023-01-06
+CUST0369,Kolkata,22,M,Mobile App,2023-07-29
+CUST0370,Ahmedabad,55,M,Mobile App,2023-03-10
+CUST0371,Bengaluru,44,M,Website,2023-01-21
+CUST0372,Mumbai,22,M,Website,2023-06-04
+CUST0373,Delhi,54,M,Mobile App,2023-10-08
+CUST0374,Mumbai,37,F,Mobile App,2023-07-30
+CUST0375,Hyderabad,25,M,Website,2023-04-01
+CUST0376,Mumbai,44,M,Store,2023-04-26
+CUST0377,Bengaluru,23,F,Website,2023-07-29
+CUST0378,Bengaluru,41,M,Store,2023-05-15
+CUST0379,Pune,49,M,Store,2023-06-17
+CUST0380,Delhi,23,F,Website,2023-09-10
+CUST0381,Ahmedabad,50,F,Website,2023-01-18
+CUST0382,Delhi,42,F,Mobile App,2023-01-08
+CUST0383,Ahmedabad,32,M,Mobile App,2023-09-25
+CUST0384,Chennai,29,M,Website,2023-03-22
+CUST0385,Delhi,21,M,Store,2023-09-04
+CUST0386,Mumbai,28,M,Mobile App,2023-03-28
+CUST0387,Bengaluru,31,M,Mobile App,2023-09-12
+CUST0388,Chennai,53,M,Mobile App,2023-10-25
+CUST0389,Mumbai,40,F,Website,2023-10-04
+CUST0390,Delhi,28,M,Mobile App,2023-03-10
+CUST0391,Mumbai,48,M,Website,2023-06-05
+CUST0392,Pune,37,F,Mobile App,2023-01-15
+CUST0393,Mumbai,51,M,Website,2023-03-22
+CUST0394,Mumbai,48,M,Website,2023-05-05
+CUST0395,Hyderabad,55,M,Mobile App,2023-01-11
+CUST0396,Bengaluru,47,F,Mobile App,2023-07-14
+CUST0397,Chennai,25,F,Mobile App,2023-02-27
+CUST0398,Ahmedabad,41,M,Website,2023-02-16
+CUST0399,Kolkata,36,F,Mobile App,2023-07-15
+CUST0400,Chennai,50,M,Mobile App,2023-09-09
+CUST0401,Pune,26,M,Mobile App,2023-10-27
+CUST0402,Kolkata,38,F,Mobile App,2023-02-28
+CUST0403,Hyderabad,51,F,Website,2023-08-21
+CUST0404,Pune,43,F,Website,2023-07-31
+CUST0405,Delhi,22,F,Store,2023-09-01
+CUST0406,Chennai,51,M,Store,2023-02-18
+CUST0407,Delhi,34,M,Website,2023-05-24
+CUST0408,Delhi,46,F,Mobile App,2023-09-22
+CUST0409,Kolkata,45,M,Website,2023-06-22
+CUST0410,Chennai,44,M,Website,2023-03-02
+CUST0411,Hyderabad,36,F,Website,2023-01-01
+CUST0412,Mumbai,36,F,Website,2023-08-08
+CUST0413,Delhi,24,F,Store,2023-01-21
+CUST0414,Kolkata,41,M,Mobile App,2023-09-09
+CUST0415,Hyderabad,31,M,Website,2023-07-17
+CUST0416,Ahmedabad,35,M,Mobile App,2023-03-18
+CUST0417,Ahmedabad,27,F,Mobile App,2023-03-05
+CUST0418,Kolkata,48,F,Mobile App,2023-01-28
+CUST0419,Mumbai,55,M,Mobile App,2023-04-12
+CUST0420,Mumbai,35,F,Mobile App,2023-06-25
+CUST0421,Chennai,36,M,Mobile App,2023-04-02
+CUST0422,Bengaluru,38,M,Mobile App,2023-05-30
+CUST0423,Kolkata,23,M,Store,2023-07-08
+CUST0424,Bengaluru,48,M,Website,2023-05-24
+CUST0425,Delhi,53,M,Website,2023-03-16
+CUST0426,Mumbai,39,M,Store,2023-08-23
+CUST0427,Bengaluru,23,F,Mobile App,2023-08-04
+CUST0428,Pune,33,M,Mobile App,2023-05-19
+CUST0429,Delhi,26,F,Mobile App,2023-02-24
+CUST0430,Kolkata,51,F,Mobile App,2023-05-30
+CUST0431,Bengaluru,50,M,Store,2023-04-19
+CUST0432,Bengaluru,35,M,Mobile App,2023-05-27
+CUST0433,Pune,34,F,Website,2023-02-07
+CUST0434,Kolkata,52,M,Store,2023-05-17
+CUST0435,Hyderabad,24,M,Mobile App,2023-01-16
+CUST0436,Kolkata,50,M,Website,2023-05-02
+CUST0437,Bengaluru,56,F,Mobile App,2023-07-29
+CUST0438,Delhi,37,F,Mobile App,2023-02-18
+CUST0439,Kolkata,48,M,Mobile App,2023-02-08
+CUST0440,Kolkata,47,M,Mobile App,2023-03-30
+CUST0441,Kolkata,54,M,Mobile App,2023-09-29
+CUST0442,Ahmedabad,22,M,Mobile App,2023-03-21
+CUST0443,Hyderabad,47,F,Store,2023-10-10
+CUST0444,Delhi,35,F,Mobile App,2023-03-16
+CUST0445,Chennai,52,M,Mobile App,2023-01-18
+CUST0446,Chennai,52,M,Store,2023-08-23
+CUST0447,Hyderabad,31,M,Mobile App,2023-02-05
+CUST0448,Pune,42,F,Store,2023-02-04
+CUST0449,Bengaluru,39,F,Store,2023-06-10
+CUST0450,Chennai,41,F,Website,2023-03-03
+CUST0451,Kolkata,51,F,Mobile App,2023-07-01
+CUST0452,Mumbai,45,M,Mobile App,2023-06-07
+CUST0453,Hyderabad,48,F,Mobile App,2023-08-03
+CUST0454,Pune,46,M,Mobile App,2023-04-04
+CUST0455,Mumbai,30,F,Mobile App,2023-03-25
+CUST0456,Pune,42,M,Mobile App,2023-03-14
+CUST0457,Ahmedabad,35,M,Store,2023-08-13
+CUST0458,Kolkata,36,F,Website,2023-04-23
+CUST0459,Pune,25,M,Store,2023-09-13
+CUST0460,Kolkata,27,M,Website,2023-05-31
+CUST0461,Bengaluru,33,M,Mobile App,2023-08-27
+CUST0462,Bengaluru,31,F,Website,2023-07-22
+CUST0463,Mumbai,44,M,Mobile App,2023-07-27
+CUST0464,Pune,31,M,Mobile App,2023-10-19
+CUST0465,Bengaluru,30,M,Store,2023-05-16
+CUST0466,Kolkata,36,M,Mobile App,2023-09-13
+CUST0467,Hyderabad,42,M,Mobile App,2023-09-05
+CUST0468,Ahmedabad,57,M,Mobile App,2023-05-09
+CUST0469,Delhi,39,M,Website,2023-07-28
+CUST0470,Delhi,34,F,Mobile App,2023-05-16
+CUST0471,Bengaluru,32,M,Mobile App,2023-07-19
+CUST0472,Mumbai,37,F,Website,2023-05-05
+CUST0473,Hyderabad,55,F,Mobile App,2023-05-28
+CUST0474,Pune,34,M,Website,2023-03-13
+CUST0475,Pune,30,M,Mobile App,2023-07-10
+CUST0476,Delhi,42,F,Website,2023-10-13
+CUST0477,Delhi,49,M,Mobile App,2023-04-17
+CUST0478,Chennai,56,F,Website,2023-01-21
+CUST0479,Pune,31,M,Store,2023-08-01
+CUST0480,Ahmedabad,53,F,Website,2023-03-03
+CUST0481,Ahmedabad,52,M,Mobile App,2023-07-28
+CUST0482,Hyderabad,34,F,Mobile App,2023-07-18
+CUST0483,Delhi,33,F,Mobile App,2023-10-12
+CUST0484,Bengaluru,30,M,Mobile App,2023-06-26
+CUST0485,Ahmedabad,32,F,Mobile App,2023-02-06
+CUST0486,Hyderabad,53,M,Mobile App,2023-03-25
+CUST0487,Ahmedabad,32,M,Store,2023-03-23
+CUST0488,Pune,39,M,Website,2023-10-09
+CUST0489,Chennai,55,M,Store,2023-09-16
+CUST0490,Mumbai,46,M,Website,2023-05-03
+CUST0491,Chennai,25,F,Mobile App,2023-09-21
+CUST0492,Hyderabad,23,M,Mobile App,2023-06-28
+CUST0493,Kolkata,29,F,Mobile App,2023-04-05
+CUST0494,Delhi,53,F,Mobile App,2023-01-28
+CUST0495,Delhi,29,F,Mobile App,2023-10-02
+CUST0496,Pune,32,F,Website,2023-09-25
+CUST0497,Pune,40,F,Mobile App,2023-08-12
+CUST0498,Kolkata,39,M,Mobile App,2023-01-31
+CUST0499,Chennai,23,F,Mobile App,2023-06-17
+CUST0500,Hyderabad,28,M,Website,2023-04-29

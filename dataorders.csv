@@ -1,0 +1,2213 @@
+order_id,customer_id,order_date,status,payment_method,channel,city
+ORD000001,CUST0001,2023-11-28,Delivered,Credit Card,Website,Ahmedabad
+ORD000002,CUST0001,2023-08-12,Delivered,Net Banking,Website,Ahmedabad
+ORD000003,CUST0001,2023-09-01,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD000004,CUST0001,2023-09-11,Delivered,Net Banking,Website,Ahmedabad
+ORD000005,CUST0001,2023-11-23,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD000006,CUST0002,2023-11-20,Returned,Net Banking,Mobile App,Pune
+ORD000007,CUST0002,2023-08-18,Returned,Cash on Delivery,Store,Pune
+ORD000008,CUST0002,2023-08-17,Delivered,UPI,Mobile App,Pune
+ORD000009,CUST0002,2023-11-03,Delivered,Cash on Delivery,Store,Pune
+ORD000010,CUST0003,2023-06-10,Delivered,Debit Card,Mobile App,Pune
+ORD000011,CUST0003,2023-08-11,Delivered,Debit Card,Website,Pune
+ORD000012,CUST0003,2023-11-29,Returned,UPI,Mobile App,Pune
+ORD000013,CUST0003,2023-05-31,Returned,Debit Card,Store,Pune
+ORD000014,CUST0003,2023-11-08,Delivered,Credit Card,Website,Pune
+ORD000015,CUST0004,2023-08-10,Delivered,Credit Card,Website,Ahmedabad
+ORD000016,CUST0004,2023-08-20,Returned,Credit Card,Website,Ahmedabad
+ORD000017,CUST0004,2023-09-16,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD000018,CUST0004,2023-09-16,Delivered,Credit Card,Website,Ahmedabad
+ORD000019,CUST0004,2023-10-28,Returned,Cash on Delivery,Website,Ahmedabad
+ORD000020,CUST0004,2023-10-11,Returned,Net Banking,Website,Ahmedabad
+ORD000021,CUST0004,2023-09-08,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000022,CUST0004,2023-09-22,Returned,UPI,Website,Ahmedabad
+ORD000023,CUST0005,2023-10-07,Delivered,UPI,Mobile App,Chennai
+ORD000024,CUST0005,2023-11-19,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000025,CUST0005,2023-10-27,Delivered,Net Banking,Store,Chennai
+ORD000026,CUST0005,2023-09-20,Returned,Debit Card,Mobile App,Chennai
+ORD000027,CUST0005,2023-12-24,Delivered,Debit Card,Mobile App,Chennai
+ORD000028,CUST0005,2023-09-24,Delivered,Net Banking,Mobile App,Chennai
+ORD000029,CUST0005,2023-11-02,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000030,CUST0005,2023-12-29,Delivered,Debit Card,Mobile App,Chennai
+ORD000031,CUST0005,2023-09-14,Delivered,Credit Card,Mobile App,Chennai
+ORD000032,CUST0005,2023-10-02,Delivered,Net Banking,Mobile App,Chennai
+ORD000033,CUST0006,2023-04-06,Delivered,Net Banking,Mobile App,Kolkata
+ORD000034,CUST0006,2023-04-13,Delivered,Net Banking,Store,Kolkata
+ORD000035,CUST0006,2023-07-04,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD000036,CUST0006,2023-11-27,Returned,Credit Card,Mobile App,Kolkata
+ORD000037,CUST0007,2023-08-10,Delivered,UPI,Mobile App,Kolkata
+ORD000038,CUST0007,2023-08-05,Returned,Net Banking,Mobile App,Kolkata
+ORD000039,CUST0007,2023-12-15,Delivered,Net Banking,Store,Kolkata
+ORD000040,CUST0008,2023-09-27,Delivered,Net Banking,Mobile App,Delhi
+ORD000041,CUST0008,2023-11-09,Cancelled,Cash on Delivery,Mobile App,Delhi
+ORD000042,CUST0009,2023-07-30,Delivered,Credit Card,Website,Mumbai
+ORD000043,CUST0009,2023-12-16,Returned,Net Banking,Website,Mumbai
+ORD000044,CUST0009,2023-10-16,Delivered,Credit Card,Mobile App,Mumbai
+ORD000045,CUST0010,2023-12-01,Delivered,Credit Card,Website,Bengaluru
+ORD000046,CUST0010,2023-08-03,Delivered,UPI,Mobile App,Bengaluru
+ORD000047,CUST0010,2023-06-15,Returned,Credit Card,Store,Bengaluru
+ORD000048,CUST0010,2023-10-22,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD000049,CUST0010,2023-07-27,Delivered,UPI,Website,Bengaluru
+ORD000050,CUST0010,2023-04-14,Cancelled,Cash on Delivery,Website,Bengaluru
+ORD000051,CUST0011,2023-12-17,Delivered,Net Banking,Store,Bengaluru
+ORD000052,CUST0011,2023-09-23,Delivered,UPI,Store,Bengaluru
+ORD000053,CUST0011,2023-11-19,Delivered,Debit Card,Store,Bengaluru
+ORD000054,CUST0011,2023-12-26,Delivered,UPI,Store,Bengaluru
+ORD000055,CUST0011,2023-09-02,Delivered,Net Banking,Website,Bengaluru
+ORD000056,CUST0012,2023-08-02,Returned,Debit Card,Store,Kolkata
+ORD000057,CUST0012,2023-06-20,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD000058,CUST0012,2023-06-30,Delivered,Debit Card,Mobile App,Kolkata
+ORD000059,CUST0012,2023-11-03,Delivered,Net Banking,Mobile App,Kolkata
+ORD000060,CUST0012,2023-04-20,Returned,UPI,Store,Kolkata
+ORD000061,CUST0012,2023-06-28,Delivered,Credit Card,Store,Kolkata
+ORD000062,CUST0013,2023-10-23,Delivered,UPI,Mobile App,Ahmedabad
+ORD000063,CUST0013,2023-10-25,Delivered,Debit Card,Website,Ahmedabad
+ORD000064,CUST0014,2023-11-15,Delivered,Credit Card,Mobile App,Mumbai
+ORD000065,CUST0014,2023-11-08,Cancelled,Credit Card,Store,Mumbai
+ORD000066,CUST0014,2023-08-30,Delivered,Credit Card,Mobile App,Mumbai
+ORD000067,CUST0014,2023-08-29,Delivered,Debit Card,Mobile App,Mumbai
+ORD000068,CUST0014,2023-10-27,Cancelled,UPI,Mobile App,Mumbai
+ORD000069,CUST0014,2023-11-03,Cancelled,Debit Card,Mobile App,Mumbai
+ORD000070,CUST0015,2023-11-13,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000071,CUST0015,2023-11-05,Delivered,Debit Card,Mobile App,Hyderabad
+ORD000072,CUST0015,2023-12-20,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000073,CUST0015,2023-11-19,Delivered,UPI,Mobile App,Hyderabad
+ORD000074,CUST0016,2023-11-18,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD000075,CUST0016,2023-11-02,Returned,Cash on Delivery,Mobile App,Kolkata
+ORD000076,CUST0016,2023-11-18,Delivered,UPI,Mobile App,Kolkata
+ORD000077,CUST0016,2023-12-06,Delivered,Credit Card,Mobile App,Kolkata
+ORD000078,CUST0016,2023-12-15,Delivered,Credit Card,Store,Kolkata
+ORD000079,CUST0017,2023-08-07,Delivered,Cash on Delivery,Website,Delhi
+ORD000080,CUST0017,2023-08-10,Delivered,Credit Card,Website,Delhi
+ORD000081,CUST0017,2023-03-06,Cancelled,Net Banking,Website,Delhi
+ORD000082,CUST0018,2023-09-07,Cancelled,Credit Card,Mobile App,Kolkata
+ORD000083,CUST0018,2023-10-27,Delivered,Debit Card,Mobile App,Kolkata
+ORD000084,CUST0019,2023-11-01,Delivered,UPI,Mobile App,Mumbai
+ORD000085,CUST0019,2023-11-11,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000086,CUST0020,2023-03-31,Returned,Debit Card,Mobile App,Hyderabad
+ORD000087,CUST0020,2023-11-03,Returned,Credit Card,Mobile App,Hyderabad
+ORD000088,CUST0020,2023-09-19,Cancelled,Credit Card,Mobile App,Hyderabad
+ORD000089,CUST0020,2023-03-25,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000090,CUST0021,2023-07-20,Delivered,Credit Card,Store,Kolkata
+ORD000091,CUST0021,2023-10-07,Delivered,Debit Card,Website,Kolkata
+ORD000092,CUST0021,2023-05-09,Returned,Cash on Delivery,Website,Kolkata
+ORD000093,CUST0022,2023-05-26,Delivered,Net Banking,Mobile App,Bengaluru
+ORD000094,CUST0022,2023-12-30,Delivered,Cash on Delivery,Store,Bengaluru
+ORD000095,CUST0022,2023-09-19,Delivered,Net Banking,Mobile App,Bengaluru
+ORD000096,CUST0022,2023-09-20,Delivered,Credit Card,Website,Bengaluru
+ORD000097,CUST0023,2023-10-31,Returned,Credit Card,Mobile App,Bengaluru
+ORD000098,CUST0023,2023-03-20,Delivered,Net Banking,Mobile App,Bengaluru
+ORD000099,CUST0023,2023-12-09,Returned,Net Banking,Mobile App,Bengaluru
+ORD000100,CUST0023,2023-08-04,Cancelled,UPI,Website,Bengaluru
+ORD000101,CUST0023,2023-06-09,Returned,Credit Card,Mobile App,Bengaluru
+ORD000102,CUST0024,2023-12-10,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD000103,CUST0025,2023-06-01,Delivered,Credit Card,Store,Pune
+ORD000104,CUST0025,2023-08-19,Delivered,Credit Card,Store,Pune
+ORD000105,CUST0025,2023-12-23,Delivered,UPI,Mobile App,Pune
+ORD000106,CUST0026,2023-12-03,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD000107,CUST0026,2023-11-01,Delivered,Credit Card,Mobile App,Bengaluru
+ORD000108,CUST0026,2023-12-26,Returned,Cash on Delivery,Mobile App,Bengaluru
+ORD000109,CUST0026,2023-12-03,Returned,Cash on Delivery,Mobile App,Bengaluru
+ORD000110,CUST0027,2023-08-10,Returned,UPI,Store,Ahmedabad
+ORD000111,CUST0027,2023-04-18,Delivered,UPI,Website,Ahmedabad
+ORD000112,CUST0027,2023-10-07,Returned,Credit Card,Website,Ahmedabad
+ORD000113,CUST0027,2023-10-27,Returned,UPI,Store,Ahmedabad
+ORD000114,CUST0027,2023-06-20,Delivered,Debit Card,Website,Ahmedabad
+ORD000115,CUST0027,2023-08-10,Cancelled,UPI,Store,Ahmedabad
+ORD000116,CUST0027,2023-10-15,Delivered,Credit Card,Website,Ahmedabad
+ORD000117,CUST0027,2023-05-29,Delivered,Debit Card,Store,Ahmedabad
+ORD000118,CUST0027,2023-12-30,Delivered,Credit Card,Website,Ahmedabad
+ORD000119,CUST0028,2023-11-04,Delivered,Credit Card,Mobile App,Hyderabad
+ORD000120,CUST0028,2023-09-12,Cancelled,Net Banking,Mobile App,Hyderabad
+ORD000121,CUST0028,2023-08-21,Cancelled,Cash on Delivery,Mobile App,Hyderabad
+ORD000122,CUST0028,2023-08-14,Delivered,Debit Card,Mobile App,Hyderabad
+ORD000123,CUST0029,2023-09-04,Delivered,Net Banking,Store,Hyderabad
+ORD000124,CUST0029,2023-11-22,Returned,Debit Card,Mobile App,Hyderabad
+ORD000125,CUST0029,2023-05-21,Delivered,Credit Card,Website,Hyderabad
+ORD000126,CUST0029,2023-12-02,Cancelled,Credit Card,Mobile App,Hyderabad
+ORD000127,CUST0030,2023-11-05,Delivered,Debit Card,Store,Chennai
+ORD000128,CUST0030,2023-11-29,Cancelled,Credit Card,Mobile App,Chennai
+ORD000129,CUST0031,2023-09-28,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000130,CUST0031,2023-11-07,Cancelled,UPI,Mobile App,Chennai
+ORD000131,CUST0031,2023-12-18,Cancelled,Net Banking,Mobile App,Chennai
+ORD000132,CUST0031,2023-11-07,Delivered,Cash on Delivery,Store,Chennai
+ORD000133,CUST0032,2023-04-23,Delivered,Credit Card,Store,Chennai
+ORD000134,CUST0032,2023-12-25,Delivered,UPI,Store,Chennai
+ORD000135,CUST0032,2023-10-03,Delivered,Cash on Delivery,Store,Chennai
+ORD000136,CUST0032,2023-11-18,Delivered,Net Banking,Store,Chennai
+ORD000137,CUST0032,2023-07-02,Delivered,Credit Card,Store,Chennai
+ORD000138,CUST0033,2023-11-20,Delivered,UPI,Website,Chennai
+ORD000139,CUST0034,2023-09-11,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000140,CUST0034,2023-08-06,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000141,CUST0034,2023-12-22,Delivered,UPI,Mobile App,Ahmedabad
+ORD000142,CUST0034,2023-11-29,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000143,CUST0035,2023-09-12,Delivered,Credit Card,Mobile App,Kolkata
+ORD000144,CUST0035,2023-05-16,Delivered,Debit Card,Mobile App,Kolkata
+ORD000145,CUST0035,2023-10-15,Delivered,UPI,Mobile App,Kolkata
+ORD000146,CUST0035,2023-06-20,Returned,Cash on Delivery,Mobile App,Kolkata
+ORD000147,CUST0035,2023-06-19,Delivered,Credit Card,Website,Kolkata
+ORD000148,CUST0035,2023-12-14,Delivered,UPI,Mobile App,Kolkata
+ORD000149,CUST0035,2023-06-03,Delivered,Net Banking,Website,Kolkata
+ORD000150,CUST0036,2023-11-08,Delivered,Net Banking,Store,Kolkata
+ORD000151,CUST0036,2023-10-14,Delivered,Net Banking,Mobile App,Kolkata
+ORD000152,CUST0036,2023-10-19,Delivered,Cash on Delivery,Store,Kolkata
+ORD000153,CUST0037,2023-08-29,Delivered,Net Banking,Mobile App,Pune
+ORD000154,CUST0037,2023-12-26,Delivered,Debit Card,Mobile App,Pune
+ORD000155,CUST0037,2023-04-23,Delivered,Net Banking,Mobile App,Pune
+ORD000156,CUST0037,2023-04-17,Delivered,Cash on Delivery,Mobile App,Pune
+ORD000157,CUST0037,2023-04-22,Delivered,Cash on Delivery,Mobile App,Pune
+ORD000158,CUST0038,2023-07-04,Delivered,UPI,Mobile App,Chennai
+ORD000159,CUST0038,2023-08-30,Returned,Debit Card,Mobile App,Chennai
+ORD000160,CUST0038,2023-10-17,Delivered,Credit Card,Mobile App,Chennai
+ORD000161,CUST0038,2023-04-28,Returned,Credit Card,Mobile App,Chennai
+ORD000162,CUST0039,2023-10-15,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD000163,CUST0039,2023-10-03,Delivered,Debit Card,Store,Bengaluru
+ORD000164,CUST0039,2023-12-04,Delivered,Cash on Delivery,Store,Bengaluru
+ORD000165,CUST0039,2023-10-22,Delivered,UPI,Store,Bengaluru
+ORD000166,CUST0039,2023-12-28,Delivered,Cash on Delivery,Store,Bengaluru
+ORD000167,CUST0039,2023-10-08,Delivered,Cash on Delivery,Store,Bengaluru
+ORD000168,CUST0039,2023-10-04,Delivered,Debit Card,Mobile App,Bengaluru
+ORD000169,CUST0039,2023-12-19,Delivered,Net Banking,Store,Bengaluru
+ORD000170,CUST0040,2023-10-30,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000171,CUST0040,2023-08-22,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000172,CUST0040,2023-04-13,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000173,CUST0040,2023-11-30,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD000174,CUST0040,2023-10-18,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000175,CUST0041,2023-10-12,Delivered,Debit Card,Mobile App,Hyderabad
+ORD000176,CUST0041,2023-10-12,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000177,CUST0041,2023-11-30,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000178,CUST0041,2023-09-26,Returned,Cash on Delivery,Store,Hyderabad
+ORD000179,CUST0041,2023-09-23,Returned,UPI,Mobile App,Hyderabad
+ORD000180,CUST0042,2023-12-09,Delivered,Debit Card,Website,Delhi
+ORD000181,CUST0042,2023-06-09,Delivered,UPI,Mobile App,Delhi
+ORD000182,CUST0043,2023-11-19,Delivered,Net Banking,Mobile App,Kolkata
+ORD000183,CUST0043,2023-04-24,Delivered,Credit Card,Mobile App,Kolkata
+ORD000184,CUST0043,2023-08-26,Delivered,Debit Card,Mobile App,Kolkata
+ORD000185,CUST0043,2023-11-15,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD000186,CUST0044,2023-05-05,Delivered,Credit Card,Mobile App,Delhi
+ORD000187,CUST0044,2023-07-13,Delivered,UPI,Mobile App,Delhi
+ORD000188,CUST0044,2023-11-21,Cancelled,Cash on Delivery,Mobile App,Delhi
+ORD000189,CUST0044,2023-07-24,Cancelled,UPI,Mobile App,Delhi
+ORD000190,CUST0044,2023-03-24,Delivered,UPI,Mobile App,Delhi
+ORD000191,CUST0044,2023-05-26,Returned,UPI,Mobile App,Delhi
+ORD000192,CUST0045,2023-11-22,Delivered,Net Banking,Website,Kolkata
+ORD000193,CUST0045,2023-09-04,Delivered,Net Banking,Website,Kolkata
+ORD000194,CUST0045,2023-09-28,Delivered,Debit Card,Website,Kolkata
+ORD000195,CUST0045,2023-12-14,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD000196,CUST0046,2023-12-25,Delivered,Debit Card,Mobile App,Chennai
+ORD000197,CUST0046,2023-11-15,Delivered,Debit Card,Mobile App,Chennai
+ORD000198,CUST0046,2023-12-06,Delivered,Credit Card,Mobile App,Chennai
+ORD000199,CUST0047,2023-10-30,Delivered,Net Banking,Mobile App,Mumbai
+ORD000200,CUST0047,2023-11-09,Delivered,Credit Card,Mobile App,Mumbai
+ORD000201,CUST0048,2023-07-15,Delivered,Cash on Delivery,Website,Mumbai
+ORD000202,CUST0048,2023-08-17,Delivered,Credit Card,Website,Mumbai
+ORD000203,CUST0049,2023-10-31,Delivered,Debit Card,Website,Hyderabad
+ORD000204,CUST0049,2023-10-11,Returned,Net Banking,Website,Hyderabad
+ORD000205,CUST0049,2023-12-17,Delivered,Credit Card,Website,Hyderabad
+ORD000206,CUST0050,2023-12-25,Cancelled,Cash on Delivery,Website,Mumbai
+ORD000207,CUST0050,2023-12-23,Delivered,Credit Card,Website,Mumbai
+ORD000208,CUST0050,2023-12-17,Delivered,UPI,Website,Mumbai
+ORD000209,CUST0050,2023-11-20,Returned,UPI,Website,Mumbai
+ORD000210,CUST0050,2023-12-27,Returned,Cash on Delivery,Mobile App,Mumbai
+ORD000211,CUST0050,2023-11-03,Delivered,Net Banking,Website,Mumbai
+ORD000212,CUST0051,2023-12-27,Delivered,UPI,Mobile App,Delhi
+ORD000213,CUST0051,2023-10-25,Delivered,Debit Card,Store,Delhi
+ORD000214,CUST0051,2023-12-22,Returned,Net Banking,Mobile App,Delhi
+ORD000215,CUST0051,2023-12-25,Delivered,Debit Card,Mobile App,Delhi
+ORD000216,CUST0051,2023-11-09,Delivered,Credit Card,Mobile App,Delhi
+ORD000217,CUST0051,2023-11-03,Delivered,Net Banking,Mobile App,Delhi
+ORD000218,CUST0052,2023-03-22,Cancelled,Net Banking,Website,Chennai
+ORD000219,CUST0052,2023-04-23,Delivered,Net Banking,Website,Chennai
+ORD000220,CUST0052,2023-12-23,Delivered,Credit Card,Website,Chennai
+ORD000221,CUST0052,2023-09-08,Delivered,UPI,Website,Chennai
+ORD000222,CUST0053,2023-08-04,Cancelled,Debit Card,Website,Ahmedabad
+ORD000223,CUST0053,2023-09-03,Cancelled,Cash on Delivery,Website,Ahmedabad
+ORD000224,CUST0053,2023-10-12,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000225,CUST0053,2023-11-19,Delivered,UPI,Website,Ahmedabad
+ORD000226,CUST0054,2023-08-28,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000227,CUST0054,2023-09-29,Returned,Net Banking,Mobile App,Hyderabad
+ORD000228,CUST0054,2023-05-02,Delivered,Debit Card,Website,Hyderabad
+ORD000229,CUST0054,2023-05-17,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000230,CUST0054,2023-11-24,Cancelled,Credit Card,Mobile App,Hyderabad
+ORD000231,CUST0054,2023-10-14,Delivered,Credit Card,Mobile App,Hyderabad
+ORD000232,CUST0055,2023-03-21,Cancelled,Net Banking,Store,Kolkata
+ORD000233,CUST0055,2023-05-31,Delivered,Credit Card,Store,Kolkata
+ORD000234,CUST0056,2023-10-08,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000235,CUST0056,2023-09-17,Cancelled,Credit Card,Mobile App,Ahmedabad
+ORD000236,CUST0056,2023-09-17,Delivered,UPI,Store,Ahmedabad
+ORD000237,CUST0056,2023-10-23,Cancelled,Cash on Delivery,Store,Ahmedabad
+ORD000238,CUST0056,2023-12-14,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000239,CUST0056,2023-12-11,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000240,CUST0056,2023-11-24,Delivered,Debit Card,Store,Ahmedabad
+ORD000241,CUST0057,2023-12-11,Delivered,Debit Card,Mobile App,Kolkata
+ORD000242,CUST0057,2023-07-09,Delivered,Credit Card,Store,Kolkata
+ORD000243,CUST0057,2023-08-04,Delivered,Debit Card,Mobile App,Kolkata
+ORD000244,CUST0057,2023-10-17,Cancelled,Credit Card,Website,Kolkata
+ORD000245,CUST0057,2023-09-02,Returned,UPI,Mobile App,Kolkata
+ORD000246,CUST0057,2023-06-27,Returned,Debit Card,Mobile App,Kolkata
+ORD000247,CUST0057,2023-07-30,Delivered,Credit Card,Mobile App,Kolkata
+ORD000248,CUST0057,2023-07-29,Cancelled,Cash on Delivery,Website,Kolkata
+ORD000249,CUST0058,2023-10-28,Returned,Debit Card,Website,Pune
+ORD000250,CUST0058,2023-09-08,Delivered,Credit Card,Mobile App,Pune
+ORD000251,CUST0058,2023-11-26,Returned,Cash on Delivery,Mobile App,Pune
+ORD000252,CUST0058,2023-07-25,Delivered,Net Banking,Mobile App,Pune
+ORD000253,CUST0059,2023-11-30,Delivered,Cash on Delivery,Website,Hyderabad
+ORD000254,CUST0059,2023-09-05,Returned,Debit Card,Website,Hyderabad
+ORD000255,CUST0059,2023-09-06,Delivered,UPI,Mobile App,Hyderabad
+ORD000256,CUST0059,2023-11-24,Delivered,Credit Card,Mobile App,Hyderabad
+ORD000257,CUST0060,2023-02-06,Cancelled,UPI,Website,Chennai
+ORD000258,CUST0060,2023-01-27,Cancelled,UPI,Website,Chennai
+ORD000259,CUST0060,2023-11-21,Delivered,Debit Card,Website,Chennai
+ORD000260,CUST0060,2023-05-23,Returned,Net Banking,Store,Chennai
+ORD000261,CUST0060,2023-06-23,Delivered,UPI,Store,Chennai
+ORD000262,CUST0060,2023-08-20,Delivered,UPI,Mobile App,Chennai
+ORD000263,CUST0060,2023-09-09,Delivered,Net Banking,Website,Chennai
+ORD000264,CUST0061,2023-09-25,Delivered,UPI,Store,Bengaluru
+ORD000265,CUST0061,2023-10-28,Delivered,Cash on Delivery,Website,Bengaluru
+ORD000266,CUST0061,2023-10-27,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD000267,CUST0061,2023-10-06,Delivered,Debit Card,Website,Bengaluru
+ORD000268,CUST0061,2023-10-18,Delivered,UPI,Mobile App,Bengaluru
+ORD000269,CUST0061,2023-11-08,Returned,Net Banking,Website,Bengaluru
+ORD000270,CUST0061,2023-12-23,Delivered,Debit Card,Store,Bengaluru
+ORD000271,CUST0062,2023-09-17,Delivered,UPI,Store,Hyderabad
+ORD000272,CUST0062,2023-07-21,Delivered,Cash on Delivery,Website,Hyderabad
+ORD000273,CUST0062,2023-06-26,Delivered,Credit Card,Mobile App,Hyderabad
+ORD000274,CUST0062,2023-09-19,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000275,CUST0062,2023-06-04,Delivered,Credit Card,Store,Hyderabad
+ORD000276,CUST0062,2023-06-02,Returned,Debit Card,Mobile App,Hyderabad
+ORD000277,CUST0063,2023-09-06,Returned,Net Banking,Store,Hyderabad
+ORD000278,CUST0063,2023-06-14,Delivered,Debit Card,Store,Hyderabad
+ORD000279,CUST0063,2023-06-01,Returned,Debit Card,Mobile App,Hyderabad
+ORD000280,CUST0063,2023-09-11,Delivered,Cash on Delivery,Store,Hyderabad
+ORD000281,CUST0063,2023-09-30,Delivered,Credit Card,Store,Hyderabad
+ORD000282,CUST0064,2023-12-12,Delivered,Credit Card,Website,Delhi
+ORD000283,CUST0064,2023-12-27,Delivered,Debit Card,Website,Delhi
+ORD000284,CUST0064,2023-10-20,Delivered,Cash on Delivery,Website,Delhi
+ORD000285,CUST0065,2023-04-25,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000286,CUST0065,2023-12-10,Delivered,UPI,Mobile App,Ahmedabad
+ORD000287,CUST0066,2023-11-05,Cancelled,UPI,Store,Mumbai
+ORD000288,CUST0066,2023-10-15,Delivered,UPI,Mobile App,Mumbai
+ORD000289,CUST0066,2023-12-28,Delivered,Credit Card,Mobile App,Mumbai
+ORD000290,CUST0066,2023-08-19,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000291,CUST0067,2023-11-22,Delivered,Debit Card,Website,Mumbai
+ORD000292,CUST0067,2023-09-16,Delivered,Cash on Delivery,Website,Mumbai
+ORD000293,CUST0067,2023-10-12,Delivered,Debit Card,Mobile App,Mumbai
+ORD000294,CUST0067,2023-10-11,Delivered,Cash on Delivery,Website,Mumbai
+ORD000295,CUST0067,2023-08-16,Returned,Cash on Delivery,Website,Mumbai
+ORD000296,CUST0068,2023-07-15,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD000297,CUST0068,2023-08-27,Cancelled,Debit Card,Mobile App,Delhi
+ORD000298,CUST0068,2023-06-10,Delivered,Debit Card,Mobile App,Delhi
+ORD000299,CUST0069,2023-04-12,Delivered,Credit Card,Store,Ahmedabad
+ORD000300,CUST0069,2023-04-13,Returned,Cash on Delivery,Website,Ahmedabad
+ORD000301,CUST0070,2023-04-27,Delivered,UPI,Website,Pune
+ORD000302,CUST0070,2023-03-25,Delivered,Debit Card,Website,Pune
+ORD000303,CUST0070,2023-11-10,Cancelled,Net Banking,Website,Pune
+ORD000304,CUST0070,2023-05-08,Cancelled,UPI,Website,Pune
+ORD000305,CUST0070,2023-11-10,Delivered,UPI,Website,Pune
+ORD000306,CUST0070,2023-10-08,Delivered,Credit Card,Website,Pune
+ORD000307,CUST0070,2023-11-27,Delivered,Net Banking,Website,Pune
+ORD000308,CUST0070,2023-06-01,Delivered,Debit Card,Mobile App,Pune
+ORD000309,CUST0070,2023-06-11,Delivered,Credit Card,Website,Pune
+ORD000310,CUST0070,2023-12-06,Returned,Net Banking,Website,Pune
+ORD000311,CUST0071,2023-11-14,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD000312,CUST0071,2023-09-18,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000313,CUST0071,2023-09-27,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000314,CUST0071,2023-09-19,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000315,CUST0071,2023-12-17,Delivered,Credit Card,Store,Ahmedabad
+ORD000316,CUST0072,2023-10-23,Delivered,Credit Card,Store,Delhi
+ORD000317,CUST0072,2023-11-04,Delivered,UPI,Store,Delhi
+ORD000318,CUST0072,2023-11-13,Delivered,Cash on Delivery,Store,Delhi
+ORD000319,CUST0072,2023-10-19,Delivered,Credit Card,Store,Delhi
+ORD000320,CUST0072,2023-10-26,Delivered,Cash on Delivery,Store,Delhi
+ORD000321,CUST0072,2023-11-26,Delivered,Net Banking,Store,Delhi
+ORD000322,CUST0072,2023-11-03,Delivered,Credit Card,Mobile App,Delhi
+ORD000323,CUST0073,2023-10-23,Delivered,UPI,Mobile App,Pune
+ORD000324,CUST0073,2023-10-28,Delivered,Credit Card,Mobile App,Pune
+ORD000325,CUST0074,2023-09-04,Delivered,Debit Card,Mobile App,Bengaluru
+ORD000326,CUST0074,2023-12-19,Delivered,Net Banking,Store,Bengaluru
+ORD000327,CUST0074,2023-07-19,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD000328,CUST0075,2023-07-23,Delivered,Debit Card,Store,Hyderabad
+ORD000329,CUST0075,2023-10-27,Delivered,UPI,Website,Hyderabad
+ORD000330,CUST0075,2023-08-18,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000331,CUST0075,2023-04-03,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000332,CUST0076,2023-08-20,Delivered,Debit Card,Store,Mumbai
+ORD000333,CUST0076,2023-10-27,Delivered,Credit Card,Store,Mumbai
+ORD000334,CUST0076,2023-08-31,Returned,Cash on Delivery,Store,Mumbai
+ORD000335,CUST0076,2023-12-20,Delivered,Credit Card,Store,Mumbai
+ORD000336,CUST0077,2023-10-09,Delivered,Net Banking,Website,Chennai
+ORD000337,CUST0077,2023-08-22,Delivered,Net Banking,Mobile App,Chennai
+ORD000338,CUST0077,2023-07-31,Delivered,Debit Card,Mobile App,Chennai
+ORD000339,CUST0077,2023-12-22,Delivered,Debit Card,Mobile App,Chennai
+ORD000340,CUST0077,2023-07-30,Delivered,UPI,Mobile App,Chennai
+ORD000341,CUST0077,2023-12-06,Returned,Net Banking,Mobile App,Chennai
+ORD000342,CUST0078,2023-06-18,Delivered,Net Banking,Website,Kolkata
+ORD000343,CUST0078,2023-08-01,Delivered,Net Banking,Website,Kolkata
+ORD000344,CUST0078,2023-08-18,Cancelled,Cash on Delivery,Website,Kolkata
+ORD000345,CUST0079,2023-10-01,Delivered,UPI,Website,Pune
+ORD000346,CUST0079,2023-12-17,Delivered,Credit Card,Website,Pune
+ORD000347,CUST0079,2023-05-06,Delivered,UPI,Mobile App,Pune
+ORD000348,CUST0079,2023-07-15,Delivered,Debit Card,Mobile App,Pune
+ORD000349,CUST0080,2023-03-06,Returned,Cash on Delivery,Mobile App,Delhi
+ORD000350,CUST0080,2023-04-20,Delivered,UPI,Store,Delhi
+ORD000351,CUST0080,2023-01-26,Delivered,Credit Card,Store,Delhi
+ORD000352,CUST0081,2023-11-02,Delivered,Debit Card,Store,Chennai
+ORD000353,CUST0081,2023-12-17,Delivered,Debit Card,Store,Chennai
+ORD000354,CUST0081,2023-11-10,Cancelled,Credit Card,Store,Chennai
+ORD000355,CUST0081,2023-12-25,Delivered,Credit Card,Store,Chennai
+ORD000356,CUST0082,2023-11-30,Delivered,Net Banking,Mobile App,Bengaluru
+ORD000357,CUST0082,2023-03-22,Delivered,UPI,Mobile App,Bengaluru
+ORD000358,CUST0083,2023-07-30,Delivered,UPI,Store,Ahmedabad
+ORD000359,CUST0083,2023-12-26,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD000360,CUST0083,2023-10-24,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD000361,CUST0083,2023-12-28,Delivered,Credit Card,Store,Ahmedabad
+ORD000362,CUST0083,2023-09-08,Delivered,Net Banking,Store,Ahmedabad
+ORD000363,CUST0083,2023-12-08,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD000364,CUST0084,2023-04-06,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000365,CUST0084,2023-04-27,Delivered,Debit Card,Website,Ahmedabad
+ORD000366,CUST0084,2023-11-18,Delivered,Credit Card,Website,Ahmedabad
+ORD000367,CUST0084,2023-02-13,Delivered,UPI,Website,Ahmedabad
+ORD000368,CUST0084,2023-03-25,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000369,CUST0084,2023-09-10,Cancelled,Debit Card,Website,Ahmedabad
+ORD000370,CUST0084,2023-09-28,Delivered,Debit Card,Website,Ahmedabad
+ORD000371,CUST0085,2023-12-27,Delivered,Credit Card,Mobile App,Delhi
+ORD000372,CUST0085,2023-09-04,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD000373,CUST0085,2023-12-04,Delivered,Credit Card,Mobile App,Delhi
+ORD000374,CUST0086,2023-08-27,Delivered,Net Banking,Mobile App,Chennai
+ORD000375,CUST0086,2023-03-18,Returned,Credit Card,Mobile App,Chennai
+ORD000376,CUST0086,2023-12-01,Delivered,Debit Card,Mobile App,Chennai
+ORD000377,CUST0086,2023-07-22,Delivered,Debit Card,Mobile App,Chennai
+ORD000378,CUST0086,2023-04-26,Delivered,Credit Card,Mobile App,Chennai
+ORD000379,CUST0086,2023-11-08,Delivered,Credit Card,Mobile App,Chennai
+ORD000380,CUST0086,2023-03-29,Delivered,Net Banking,Mobile App,Chennai
+ORD000381,CUST0086,2023-07-22,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000382,CUST0086,2023-11-26,Delivered,Debit Card,Mobile App,Chennai
+ORD000383,CUST0086,2023-11-24,Delivered,UPI,Mobile App,Chennai
+ORD000384,CUST0087,2023-11-15,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000385,CUST0087,2023-11-02,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000386,CUST0087,2023-11-21,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000387,CUST0087,2023-11-23,Cancelled,Credit Card,Mobile App,Ahmedabad
+ORD000388,CUST0087,2023-10-26,Returned,Debit Card,Mobile App,Ahmedabad
+ORD000389,CUST0087,2023-08-24,Delivered,Net Banking,Store,Ahmedabad
+ORD000390,CUST0088,2023-06-09,Delivered,Cash on Delivery,Website,Kolkata
+ORD000391,CUST0088,2023-10-25,Delivered,Debit Card,Website,Kolkata
+ORD000392,CUST0088,2023-08-10,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD000393,CUST0088,2023-06-23,Delivered,UPI,Website,Kolkata
+ORD000394,CUST0088,2023-07-23,Cancelled,UPI,Website,Kolkata
+ORD000395,CUST0089,2023-10-19,Delivered,UPI,Mobile App,Pune
+ORD000396,CUST0089,2023-07-22,Delivered,Debit Card,Mobile App,Pune
+ORD000397,CUST0089,2023-11-13,Delivered,UPI,Mobile App,Pune
+ORD000398,CUST0089,2023-10-25,Returned,Credit Card,Mobile App,Pune
+ORD000399,CUST0090,2023-07-25,Cancelled,Cash on Delivery,Mobile App,Pune
+ORD000400,CUST0090,2023-05-17,Delivered,Credit Card,Mobile App,Pune
+ORD000401,CUST0090,2023-08-03,Returned,Credit Card,Mobile App,Pune
+ORD000402,CUST0090,2023-07-19,Delivered,Cash on Delivery,Mobile App,Pune
+ORD000403,CUST0090,2023-06-18,Delivered,Net Banking,Store,Pune
+ORD000404,CUST0090,2023-05-10,Delivered,Net Banking,Mobile App,Pune
+ORD000405,CUST0090,2023-11-22,Delivered,Cash on Delivery,Mobile App,Pune
+ORD000406,CUST0090,2023-06-02,Returned,Debit Card,Mobile App,Pune
+ORD000407,CUST0091,2023-07-20,Delivered,Net Banking,Mobile App,Mumbai
+ORD000408,CUST0091,2023-12-21,Delivered,Debit Card,Website,Mumbai
+ORD000409,CUST0092,2023-06-20,Delivered,Net Banking,Store,Pune
+ORD000410,CUST0092,2023-12-13,Delivered,Net Banking,Website,Pune
+ORD000411,CUST0092,2023-06-08,Delivered,Credit Card,Website,Pune
+ORD000412,CUST0092,2023-12-09,Delivered,Cash on Delivery,Website,Pune
+ORD000413,CUST0092,2023-09-09,Delivered,Debit Card,Website,Pune
+ORD000414,CUST0092,2023-07-07,Delivered,Cash on Delivery,Website,Pune
+ORD000415,CUST0092,2023-10-27,Delivered,UPI,Website,Pune
+ORD000416,CUST0093,2023-05-10,Returned,Net Banking,Website,Hyderabad
+ORD000417,CUST0093,2023-05-13,Cancelled,Credit Card,Website,Hyderabad
+ORD000418,CUST0093,2023-09-29,Delivered,Cash on Delivery,Website,Hyderabad
+ORD000419,CUST0093,2023-08-14,Delivered,Debit Card,Website,Hyderabad
+ORD000420,CUST0094,2023-12-11,Delivered,Cash on Delivery,Store,Mumbai
+ORD000421,CUST0094,2023-06-21,Delivered,Net Banking,Store,Mumbai
+ORD000422,CUST0094,2023-07-20,Delivered,Cash on Delivery,Store,Mumbai
+ORD000423,CUST0094,2023-06-02,Cancelled,UPI,Store,Mumbai
+ORD000424,CUST0094,2023-08-13,Delivered,Net Banking,Store,Mumbai
+ORD000425,CUST0094,2023-07-12,Delivered,Credit Card,Store,Mumbai
+ORD000426,CUST0094,2023-12-11,Delivered,Net Banking,Website,Mumbai
+ORD000427,CUST0094,2023-05-02,Delivered,UPI,Store,Mumbai
+ORD000428,CUST0094,2023-07-06,Delivered,Debit Card,Mobile App,Mumbai
+ORD000429,CUST0095,2023-07-20,Delivered,Net Banking,Mobile App,Delhi
+ORD000430,CUST0095,2023-08-04,Delivered,Debit Card,Mobile App,Delhi
+ORD000431,CUST0095,2023-10-02,Delivered,UPI,Mobile App,Delhi
+ORD000432,CUST0095,2023-08-13,Delivered,UPI,Mobile App,Delhi
+ORD000433,CUST0095,2023-10-14,Delivered,UPI,Mobile App,Delhi
+ORD000434,CUST0096,2023-10-28,Delivered,Net Banking,Website,Chennai
+ORD000435,CUST0096,2023-09-09,Delivered,UPI,Website,Chennai
+ORD000436,CUST0097,2023-09-29,Delivered,Credit Card,Mobile App,Pune
+ORD000437,CUST0097,2023-04-21,Delivered,Debit Card,Mobile App,Pune
+ORD000438,CUST0097,2023-10-22,Returned,UPI,Website,Pune
+ORD000439,CUST0097,2023-08-09,Delivered,Net Banking,Store,Pune
+ORD000440,CUST0097,2023-10-11,Delivered,Cash on Delivery,Mobile App,Pune
+ORD000441,CUST0098,2023-11-19,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000442,CUST0098,2023-04-04,Delivered,UPI,Mobile App,Chennai
+ORD000443,CUST0098,2023-03-04,Delivered,Cash on Delivery,Store,Chennai
+ORD000444,CUST0098,2023-08-21,Returned,Net Banking,Mobile App,Chennai
+ORD000445,CUST0098,2023-04-12,Cancelled,Net Banking,Mobile App,Chennai
+ORD000446,CUST0099,2023-06-11,Delivered,Debit Card,Mobile App,Chennai
+ORD000447,CUST0099,2023-08-09,Delivered,Cash on Delivery,Store,Chennai
+ORD000448,CUST0099,2023-10-14,Returned,Net Banking,Store,Chennai
+ORD000449,CUST0099,2023-09-25,Delivered,Debit Card,Store,Chennai
+ORD000450,CUST0100,2023-04-03,Delivered,Credit Card,Website,Kolkata
+ORD000451,CUST0100,2023-05-07,Delivered,Credit Card,Mobile App,Kolkata
+ORD000452,CUST0100,2023-09-03,Returned,UPI,Mobile App,Kolkata
+ORD000453,CUST0100,2023-05-19,Delivered,Debit Card,Mobile App,Kolkata
+ORD000454,CUST0100,2023-11-01,Delivered,UPI,Website,Kolkata
+ORD000455,CUST0101,2023-08-30,Delivered,Net Banking,Store,Pune
+ORD000456,CUST0101,2023-10-19,Delivered,UPI,Store,Pune
+ORD000457,CUST0101,2023-10-10,Delivered,UPI,Store,Pune
+ORD000458,CUST0101,2023-07-22,Delivered,UPI,Store,Pune
+ORD000459,CUST0101,2023-10-09,Delivered,Credit Card,Store,Pune
+ORD000460,CUST0102,2023-12-08,Cancelled,Cash on Delivery,Mobile App,Bengaluru
+ORD000461,CUST0102,2023-09-05,Delivered,UPI,Website,Bengaluru
+ORD000462,CUST0102,2023-11-23,Delivered,UPI,Website,Bengaluru
+ORD000463,CUST0103,2023-08-05,Cancelled,UPI,Mobile App,Pune
+ORD000464,CUST0103,2023-11-19,Delivered,Net Banking,Store,Pune
+ORD000465,CUST0103,2023-06-07,Delivered,Cash on Delivery,Mobile App,Pune
+ORD000466,CUST0104,2023-07-09,Returned,Debit Card,Website,Chennai
+ORD000467,CUST0104,2023-08-11,Delivered,Debit Card,Website,Chennai
+ORD000468,CUST0104,2023-09-17,Delivered,Debit Card,Mobile App,Chennai
+ORD000469,CUST0105,2023-11-20,Delivered,UPI,Website,Mumbai
+ORD000470,CUST0105,2023-08-11,Delivered,Debit Card,Mobile App,Mumbai
+ORD000471,CUST0105,2023-09-16,Delivered,Credit Card,Store,Mumbai
+ORD000472,CUST0106,2023-12-03,Delivered,Debit Card,Store,Mumbai
+ORD000473,CUST0106,2023-05-20,Delivered,Net Banking,Store,Mumbai
+ORD000474,CUST0106,2023-12-23,Delivered,Net Banking,Store,Mumbai
+ORD000475,CUST0106,2023-07-07,Returned,Net Banking,Website,Mumbai
+ORD000476,CUST0106,2023-07-12,Returned,Debit Card,Store,Mumbai
+ORD000477,CUST0106,2023-05-12,Delivered,Cash on Delivery,Store,Mumbai
+ORD000478,CUST0106,2023-06-04,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000479,CUST0106,2023-06-04,Delivered,Net Banking,Mobile App,Mumbai
+ORD000480,CUST0106,2023-08-16,Delivered,Cash on Delivery,Store,Mumbai
+ORD000481,CUST0107,2023-11-28,Delivered,Cash on Delivery,Store,Pune
+ORD000482,CUST0107,2023-12-05,Returned,Net Banking,Mobile App,Pune
+ORD000483,CUST0107,2023-11-10,Delivered,UPI,Mobile App,Pune
+ORD000484,CUST0107,2023-10-02,Delivered,Credit Card,Mobile App,Pune
+ORD000485,CUST0108,2023-11-05,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000486,CUST0108,2023-10-13,Delivered,UPI,Website,Hyderabad
+ORD000487,CUST0108,2023-08-12,Delivered,Debit Card,Mobile App,Hyderabad
+ORD000488,CUST0109,2023-08-03,Delivered,Debit Card,Website,Chennai
+ORD000489,CUST0110,2023-08-18,Delivered,Debit Card,Mobile App,Bengaluru
+ORD000490,CUST0110,2023-08-20,Delivered,Net Banking,Website,Bengaluru
+ORD000491,CUST0110,2023-11-08,Cancelled,UPI,Mobile App,Bengaluru
+ORD000492,CUST0110,2023-07-23,Cancelled,Net Banking,Mobile App,Bengaluru
+ORD000493,CUST0110,2023-06-19,Cancelled,Credit Card,Mobile App,Bengaluru
+ORD000494,CUST0111,2023-09-24,Delivered,UPI,Website,Delhi
+ORD000495,CUST0111,2023-10-07,Delivered,UPI,Mobile App,Delhi
+ORD000496,CUST0112,2023-08-02,Delivered,UPI,Website,Delhi
+ORD000497,CUST0112,2023-05-11,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD000498,CUST0113,2023-10-23,Delivered,Debit Card,Store,Hyderabad
+ORD000499,CUST0114,2023-11-03,Delivered,Debit Card,Website,Kolkata
+ORD000500,CUST0114,2023-09-20,Delivered,Cash on Delivery,Website,Kolkata
+ORD000501,CUST0114,2023-11-07,Delivered,Credit Card,Website,Kolkata
+ORD000502,CUST0114,2023-12-18,Delivered,UPI,Store,Kolkata
+ORD000503,CUST0115,2023-07-10,Returned,Net Banking,Website,Hyderabad
+ORD000504,CUST0115,2023-06-11,Cancelled,UPI,Website,Hyderabad
+ORD000505,CUST0115,2023-09-03,Delivered,Debit Card,Website,Hyderabad
+ORD000506,CUST0115,2023-12-26,Delivered,Credit Card,Website,Hyderabad
+ORD000507,CUST0115,2023-09-06,Delivered,Debit Card,Website,Hyderabad
+ORD000508,CUST0116,2023-11-05,Delivered,Cash on Delivery,Store,Hyderabad
+ORD000509,CUST0116,2023-11-19,Delivered,Debit Card,Store,Hyderabad
+ORD000510,CUST0116,2023-09-18,Delivered,Debit Card,Store,Hyderabad
+ORD000511,CUST0116,2023-11-25,Delivered,Cash on Delivery,Store,Hyderabad
+ORD000512,CUST0116,2023-10-22,Cancelled,Net Banking,Store,Hyderabad
+ORD000513,CUST0117,2023-08-04,Delivered,Credit Card,Mobile App,Chennai
+ORD000514,CUST0117,2023-09-07,Returned,UPI,Mobile App,Chennai
+ORD000515,CUST0117,2023-12-10,Delivered,Net Banking,Store,Chennai
+ORD000516,CUST0117,2023-12-04,Delivered,UPI,Mobile App,Chennai
+ORD000517,CUST0117,2023-10-28,Delivered,Credit Card,Mobile App,Chennai
+ORD000518,CUST0117,2023-09-30,Delivered,Credit Card,Mobile App,Chennai
+ORD000519,CUST0118,2023-12-18,Delivered,Net Banking,Website,Ahmedabad
+ORD000520,CUST0118,2023-11-26,Delivered,Debit Card,Website,Ahmedabad
+ORD000521,CUST0118,2023-12-04,Returned,UPI,Website,Ahmedabad
+ORD000522,CUST0118,2023-11-25,Delivered,Debit Card,Website,Ahmedabad
+ORD000523,CUST0119,2023-12-04,Delivered,Net Banking,Store,Hyderabad
+ORD000524,CUST0119,2023-12-21,Delivered,Credit Card,Store,Hyderabad
+ORD000525,CUST0119,2023-11-07,Returned,Credit Card,Store,Hyderabad
+ORD000526,CUST0119,2023-12-21,Delivered,UPI,Store,Hyderabad
+ORD000527,CUST0120,2023-12-20,Delivered,Cash on Delivery,Store,Chennai
+ORD000528,CUST0120,2023-05-13,Delivered,Net Banking,Website,Chennai
+ORD000529,CUST0120,2023-07-08,Returned,Net Banking,Mobile App,Chennai
+ORD000530,CUST0120,2023-12-26,Cancelled,Net Banking,Mobile App,Chennai
+ORD000531,CUST0120,2023-01-31,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000532,CUST0120,2023-02-07,Delivered,Debit Card,Mobile App,Chennai
+ORD000533,CUST0120,2023-09-10,Delivered,UPI,Mobile App,Chennai
+ORD000534,CUST0120,2023-01-15,Delivered,Credit Card,Website,Chennai
+ORD000535,CUST0121,2023-11-29,Delivered,UPI,Website,Hyderabad
+ORD000536,CUST0121,2023-12-12,Delivered,Net Banking,Website,Hyderabad
+ORD000537,CUST0121,2023-05-08,Delivered,Credit Card,Website,Hyderabad
+ORD000538,CUST0121,2023-05-16,Delivered,Cash on Delivery,Website,Hyderabad
+ORD000539,CUST0122,2023-10-03,Delivered,Credit Card,Website,Chennai
+ORD000540,CUST0122,2023-11-08,Delivered,Debit Card,Mobile App,Chennai
+ORD000541,CUST0122,2023-11-28,Returned,Debit Card,Website,Chennai
+ORD000542,CUST0122,2023-09-30,Delivered,Debit Card,Mobile App,Chennai
+ORD000543,CUST0123,2023-10-30,Delivered,Debit Card,Store,Hyderabad
+ORD000544,CUST0123,2023-10-08,Delivered,Net Banking,Store,Hyderabad
+ORD000545,CUST0123,2023-10-19,Delivered,UPI,Store,Hyderabad
+ORD000546,CUST0123,2023-11-25,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000547,CUST0124,2023-11-07,Returned,Credit Card,Website,Pune
+ORD000548,CUST0124,2023-08-30,Delivered,Cash on Delivery,Website,Pune
+ORD000549,CUST0124,2023-06-17,Delivered,Cash on Delivery,Store,Pune
+ORD000550,CUST0124,2023-12-20,Delivered,Credit Card,Website,Pune
+ORD000551,CUST0124,2023-10-04,Delivered,Net Banking,Website,Pune
+ORD000552,CUST0124,2023-06-12,Delivered,Debit Card,Website,Pune
+ORD000553,CUST0125,2023-12-18,Delivered,UPI,Mobile App,Chennai
+ORD000554,CUST0125,2023-11-21,Delivered,Credit Card,Store,Chennai
+ORD000555,CUST0125,2023-11-23,Returned,UPI,Store,Chennai
+ORD000556,CUST0125,2023-12-05,Delivered,UPI,Store,Chennai
+ORD000557,CUST0126,2023-10-20,Delivered,Net Banking,Website,Pune
+ORD000558,CUST0126,2023-11-22,Delivered,UPI,Website,Pune
+ORD000559,CUST0126,2023-12-08,Delivered,Net Banking,Website,Pune
+ORD000560,CUST0127,2023-08-17,Returned,Debit Card,Store,Ahmedabad
+ORD000561,CUST0127,2023-12-28,Delivered,Net Banking,Store,Ahmedabad
+ORD000562,CUST0127,2023-09-09,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD000563,CUST0128,2023-10-19,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD000564,CUST0128,2023-11-16,Returned,Credit Card,Website,Delhi
+ORD000565,CUST0128,2023-09-18,Cancelled,Net Banking,Mobile App,Delhi
+ORD000566,CUST0129,2023-12-27,Delivered,UPI,Website,Chennai
+ORD000567,CUST0129,2023-11-06,Delivered,Cash on Delivery,Website,Chennai
+ORD000568,CUST0129,2023-11-10,Delivered,Debit Card,Website,Chennai
+ORD000569,CUST0129,2023-12-13,Returned,Credit Card,Website,Chennai
+ORD000570,CUST0129,2023-11-20,Returned,UPI,Store,Chennai
+ORD000571,CUST0129,2023-11-09,Delivered,Cash on Delivery,Website,Chennai
+ORD000572,CUST0130,2023-10-13,Cancelled,Debit Card,Store,Hyderabad
+ORD000573,CUST0130,2023-11-26,Delivered,UPI,Website,Hyderabad
+ORD000574,CUST0130,2023-12-02,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000575,CUST0131,2023-07-29,Delivered,Net Banking,Mobile App,Bengaluru
+ORD000576,CUST0131,2023-11-03,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD000577,CUST0131,2023-11-04,Delivered,UPI,Mobile App,Bengaluru
+ORD000578,CUST0131,2023-10-20,Delivered,UPI,Mobile App,Bengaluru
+ORD000579,CUST0131,2023-08-20,Delivered,Debit Card,Mobile App,Bengaluru
+ORD000580,CUST0132,2023-12-17,Returned,UPI,Mobile App,Delhi
+ORD000581,CUST0132,2023-12-21,Delivered,Net Banking,Website,Delhi
+ORD000582,CUST0132,2023-11-11,Returned,Cash on Delivery,Website,Delhi
+ORD000583,CUST0132,2023-11-17,Delivered,Debit Card,Store,Delhi
+ORD000584,CUST0132,2023-10-28,Delivered,Credit Card,Mobile App,Delhi
+ORD000585,CUST0132,2023-12-09,Delivered,Debit Card,Mobile App,Delhi
+ORD000586,CUST0132,2023-12-22,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD000587,CUST0133,2023-10-24,Returned,Credit Card,Website,Mumbai
+ORD000588,CUST0133,2023-09-17,Returned,Credit Card,Website,Mumbai
+ORD000589,CUST0133,2023-11-16,Delivered,UPI,Website,Mumbai
+ORD000590,CUST0133,2023-11-08,Delivered,Net Banking,Website,Mumbai
+ORD000591,CUST0134,2023-12-26,Delivered,Credit Card,Website,Hyderabad
+ORD000592,CUST0134,2023-09-30,Delivered,Net Banking,Website,Hyderabad
+ORD000593,CUST0134,2023-09-11,Delivered,Debit Card,Website,Hyderabad
+ORD000594,CUST0134,2023-07-09,Delivered,Credit Card,Website,Hyderabad
+ORD000595,CUST0134,2023-11-03,Delivered,Credit Card,Website,Hyderabad
+ORD000596,CUST0134,2023-06-21,Cancelled,UPI,Mobile App,Hyderabad
+ORD000597,CUST0134,2023-06-18,Delivered,Credit Card,Website,Hyderabad
+ORD000598,CUST0135,2023-09-13,Delivered,Credit Card,Website,Kolkata
+ORD000599,CUST0135,2023-08-31,Delivered,Credit Card,Website,Kolkata
+ORD000600,CUST0135,2023-12-03,Delivered,UPI,Mobile App,Kolkata
+ORD000601,CUST0136,2023-12-12,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000602,CUST0136,2023-11-13,Delivered,Net Banking,Mobile App,Mumbai
+ORD000603,CUST0137,2023-06-05,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000604,CUST0137,2023-02-23,Cancelled,Cash on Delivery,Mobile App,Hyderabad
+ORD000605,CUST0137,2023-01-25,Delivered,Debit Card,Website,Hyderabad
+ORD000606,CUST0138,2023-11-24,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD000607,CUST0138,2023-08-25,Returned,UPI,Mobile App,Ahmedabad
+ORD000608,CUST0138,2023-09-12,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000609,CUST0138,2023-11-30,Delivered,UPI,Store,Ahmedabad
+ORD000610,CUST0139,2023-11-12,Delivered,Credit Card,Website,Ahmedabad
+ORD000611,CUST0139,2023-12-14,Delivered,Net Banking,Website,Ahmedabad
+ORD000612,CUST0139,2023-10-21,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000613,CUST0139,2023-10-21,Delivered,Debit Card,Website,Ahmedabad
+ORD000614,CUST0139,2023-10-27,Delivered,Net Banking,Store,Ahmedabad
+ORD000615,CUST0140,2023-06-26,Delivered,Debit Card,Website,Delhi
+ORD000616,CUST0140,2023-11-23,Delivered,Debit Card,Website,Delhi
+ORD000617,CUST0140,2023-08-24,Delivered,UPI,Website,Delhi
+ORD000618,CUST0140,2023-06-10,Delivered,UPI,Website,Delhi
+ORD000619,CUST0141,2023-07-14,Delivered,Credit Card,Mobile App,Mumbai
+ORD000620,CUST0141,2023-08-12,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000621,CUST0141,2023-12-03,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000622,CUST0141,2023-08-05,Delivered,Net Banking,Mobile App,Mumbai
+ORD000623,CUST0141,2023-09-04,Returned,Cash on Delivery,Mobile App,Mumbai
+ORD000624,CUST0141,2023-09-04,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000625,CUST0141,2023-11-30,Delivered,Net Banking,Mobile App,Mumbai
+ORD000626,CUST0142,2023-12-06,Delivered,Cash on Delivery,Mobile App,Pune
+ORD000627,CUST0142,2023-09-29,Delivered,Cash on Delivery,Website,Pune
+ORD000628,CUST0142,2023-12-15,Delivered,Cash on Delivery,Website,Pune
+ORD000629,CUST0142,2023-07-15,Delivered,UPI,Website,Pune
+ORD000630,CUST0142,2023-06-11,Delivered,Debit Card,Website,Pune
+ORD000631,CUST0143,2023-06-27,Returned,Cash on Delivery,Website,Mumbai
+ORD000632,CUST0143,2023-12-14,Delivered,Credit Card,Website,Mumbai
+ORD000633,CUST0143,2023-11-07,Cancelled,Credit Card,Mobile App,Mumbai
+ORD000634,CUST0143,2023-08-12,Returned,Debit Card,Store,Mumbai
+ORD000635,CUST0143,2023-11-30,Delivered,Credit Card,Mobile App,Mumbai
+ORD000636,CUST0143,2023-11-23,Delivered,UPI,Website,Mumbai
+ORD000637,CUST0143,2023-08-12,Delivered,UPI,Store,Mumbai
+ORD000638,CUST0143,2023-08-10,Delivered,Credit Card,Website,Mumbai
+ORD000639,CUST0143,2023-06-30,Delivered,Net Banking,Mobile App,Mumbai
+ORD000640,CUST0144,2023-08-11,Returned,Credit Card,Website,Bengaluru
+ORD000641,CUST0144,2023-07-27,Delivered,Net Banking,Mobile App,Bengaluru
+ORD000642,CUST0144,2023-12-25,Delivered,Net Banking,Website,Bengaluru
+ORD000643,CUST0144,2023-05-05,Delivered,UPI,Mobile App,Bengaluru
+ORD000644,CUST0144,2023-10-07,Returned,Net Banking,Mobile App,Bengaluru
+ORD000645,CUST0145,2023-12-29,Delivered,Credit Card,Mobile App,Hyderabad
+ORD000646,CUST0145,2023-07-12,Returned,Credit Card,Mobile App,Hyderabad
+ORD000647,CUST0146,2023-11-02,Delivered,Net Banking,Mobile App,Kolkata
+ORD000648,CUST0146,2023-10-30,Delivered,UPI,Mobile App,Kolkata
+ORD000649,CUST0146,2023-09-29,Returned,Cash on Delivery,Mobile App,Kolkata
+ORD000650,CUST0147,2023-10-13,Returned,UPI,Website,Mumbai
+ORD000651,CUST0147,2023-10-05,Cancelled,Credit Card,Store,Mumbai
+ORD000652,CUST0147,2023-11-24,Delivered,Credit Card,Store,Mumbai
+ORD000653,CUST0147,2023-09-18,Returned,Debit Card,Store,Mumbai
+ORD000654,CUST0147,2023-11-16,Returned,UPI,Store,Mumbai
+ORD000655,CUST0147,2023-09-15,Delivered,Net Banking,Store,Mumbai
+ORD000656,CUST0148,2023-11-17,Delivered,Debit Card,Website,Pune
+ORD000657,CUST0148,2023-11-08,Delivered,UPI,Website,Pune
+ORD000658,CUST0148,2023-09-15,Delivered,Credit Card,Website,Pune
+ORD000659,CUST0149,2023-07-10,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000660,CUST0149,2023-06-20,Cancelled,UPI,Mobile App,Chennai
+ORD000661,CUST0149,2023-08-11,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000662,CUST0149,2023-04-09,Delivered,Debit Card,Mobile App,Chennai
+ORD000663,CUST0149,2023-11-27,Delivered,Net Banking,Mobile App,Chennai
+ORD000664,CUST0149,2023-05-24,Cancelled,Credit Card,Mobile App,Chennai
+ORD000665,CUST0149,2023-12-01,Delivered,UPI,Mobile App,Chennai
+ORD000666,CUST0150,2023-09-25,Delivered,UPI,Mobile App,Delhi
+ORD000667,CUST0150,2023-04-14,Delivered,Credit Card,Store,Delhi
+ORD000668,CUST0150,2023-04-25,Returned,Net Banking,Mobile App,Delhi
+ORD000669,CUST0151,2023-12-21,Delivered,Debit Card,Mobile App,Kolkata
+ORD000670,CUST0151,2023-11-26,Cancelled,Credit Card,Mobile App,Kolkata
+ORD000671,CUST0151,2023-11-17,Delivered,UPI,Mobile App,Kolkata
+ORD000672,CUST0151,2023-11-15,Delivered,UPI,Mobile App,Kolkata
+ORD000673,CUST0151,2023-06-18,Delivered,Debit Card,Mobile App,Kolkata
+ORD000674,CUST0152,2023-08-31,Delivered,Cash on Delivery,Website,Kolkata
+ORD000675,CUST0152,2023-04-09,Delivered,Net Banking,Website,Kolkata
+ORD000676,CUST0152,2023-12-26,Delivered,Debit Card,Website,Kolkata
+ORD000677,CUST0153,2023-07-10,Cancelled,Net Banking,Website,Hyderabad
+ORD000678,CUST0154,2023-11-20,Delivered,UPI,Store,Ahmedabad
+ORD000679,CUST0154,2023-07-20,Delivered,Net Banking,Store,Ahmedabad
+ORD000680,CUST0154,2023-12-08,Cancelled,Cash on Delivery,Website,Ahmedabad
+ORD000681,CUST0154,2023-10-23,Delivered,Debit Card,Store,Ahmedabad
+ORD000682,CUST0154,2023-07-19,Returned,Net Banking,Store,Ahmedabad
+ORD000683,CUST0155,2023-12-23,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000684,CUST0156,2023-08-10,Delivered,UPI,Mobile App,Ahmedabad
+ORD000685,CUST0156,2023-11-22,Returned,Cash on Delivery,Mobile App,Ahmedabad
+ORD000686,CUST0157,2023-10-22,Delivered,Debit Card,Website,Ahmedabad
+ORD000687,CUST0157,2023-11-11,Delivered,Credit Card,Website,Ahmedabad
+ORD000688,CUST0157,2023-10-23,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000689,CUST0157,2023-08-15,Delivered,Net Banking,Website,Ahmedabad
+ORD000690,CUST0157,2023-07-10,Cancelled,Debit Card,Website,Ahmedabad
+ORD000691,CUST0158,2023-11-21,Delivered,UPI,Mobile App,Chennai
+ORD000692,CUST0158,2023-10-14,Returned,Net Banking,Website,Chennai
+ORD000693,CUST0158,2023-11-30,Delivered,UPI,Mobile App,Chennai
+ORD000694,CUST0158,2023-12-16,Delivered,UPI,Store,Chennai
+ORD000695,CUST0158,2023-10-16,Returned,Net Banking,Store,Chennai
+ORD000696,CUST0158,2023-12-24,Cancelled,Net Banking,Store,Chennai
+ORD000697,CUST0158,2023-11-22,Delivered,Net Banking,Store,Chennai
+ORD000698,CUST0159,2023-10-13,Delivered,UPI,Website,Bengaluru
+ORD000699,CUST0159,2023-09-27,Delivered,Net Banking,Website,Bengaluru
+ORD000700,CUST0160,2023-12-17,Delivered,Debit Card,Mobile App,Delhi
+ORD000701,CUST0160,2023-12-23,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD000702,CUST0160,2023-11-29,Delivered,Debit Card,Mobile App,Delhi
+ORD000703,CUST0161,2023-12-14,Cancelled,UPI,Website,Chennai
+ORD000704,CUST0161,2023-12-11,Delivered,UPI,Website,Chennai
+ORD000705,CUST0161,2023-09-04,Delivered,Net Banking,Website,Chennai
+ORD000706,CUST0162,2023-11-01,Delivered,Credit Card,Mobile App,Delhi
+ORD000707,CUST0162,2023-10-24,Returned,Credit Card,Mobile App,Delhi
+ORD000708,CUST0162,2023-12-16,Delivered,Net Banking,Store,Delhi
+ORD000709,CUST0162,2023-12-12,Cancelled,Net Banking,Mobile App,Delhi
+ORD000710,CUST0162,2023-10-28,Delivered,UPI,Website,Delhi
+ORD000711,CUST0162,2023-10-23,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD000712,CUST0163,2023-12-13,Delivered,Credit Card,Store,Kolkata
+ORD000713,CUST0163,2023-09-18,Delivered,Debit Card,Store,Kolkata
+ORD000714,CUST0163,2023-07-09,Delivered,Net Banking,Store,Kolkata
+ORD000715,CUST0163,2023-04-01,Cancelled,Cash on Delivery,Store,Kolkata
+ORD000716,CUST0163,2023-09-26,Delivered,Cash on Delivery,Store,Kolkata
+ORD000717,CUST0163,2023-08-04,Delivered,Credit Card,Store,Kolkata
+ORD000718,CUST0163,2023-09-28,Delivered,Net Banking,Store,Kolkata
+ORD000719,CUST0164,2023-09-22,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000720,CUST0164,2023-08-17,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000721,CUST0164,2023-10-18,Cancelled,Net Banking,Website,Ahmedabad
+ORD000722,CUST0165,2023-04-08,Delivered,Debit Card,Mobile App,Delhi
+ORD000723,CUST0165,2023-12-22,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD000724,CUST0165,2023-03-01,Cancelled,Debit Card,Mobile App,Delhi
+ORD000725,CUST0165,2023-08-27,Delivered,Net Banking,Mobile App,Delhi
+ORD000726,CUST0166,2023-08-30,Delivered,UPI,Store,Chennai
+ORD000727,CUST0166,2023-09-07,Delivered,Debit Card,Store,Chennai
+ORD000728,CUST0166,2023-09-19,Delivered,Cash on Delivery,Website,Chennai
+ORD000729,CUST0166,2023-09-02,Delivered,Cash on Delivery,Store,Chennai
+ORD000730,CUST0166,2023-12-05,Delivered,Credit Card,Mobile App,Chennai
+ORD000731,CUST0166,2023-08-12,Delivered,Debit Card,Store,Chennai
+ORD000732,CUST0167,2023-11-18,Delivered,Debit Card,Mobile App,Mumbai
+ORD000733,CUST0167,2023-11-12,Delivered,Debit Card,Mobile App,Mumbai
+ORD000734,CUST0167,2023-11-08,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000735,CUST0167,2023-12-04,Returned,Net Banking,Mobile App,Mumbai
+ORD000736,CUST0168,2023-06-19,Delivered,Debit Card,Store,Delhi
+ORD000737,CUST0168,2023-06-25,Returned,Debit Card,Store,Delhi
+ORD000738,CUST0169,2023-04-18,Delivered,UPI,Website,Hyderabad
+ORD000739,CUST0169,2023-08-17,Delivered,Net Banking,Website,Hyderabad
+ORD000740,CUST0169,2023-08-19,Delivered,UPI,Website,Hyderabad
+ORD000741,CUST0170,2023-09-16,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD000742,CUST0170,2023-11-06,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD000743,CUST0171,2023-10-30,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000744,CUST0171,2023-07-13,Returned,Debit Card,Mobile App,Ahmedabad
+ORD000745,CUST0171,2023-11-19,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000746,CUST0172,2023-07-13,Delivered,Net Banking,Website,Pune
+ORD000747,CUST0172,2023-02-12,Delivered,Credit Card,Website,Pune
+ORD000748,CUST0172,2023-02-07,Returned,UPI,Website,Pune
+ORD000749,CUST0172,2023-02-03,Delivered,UPI,Website,Pune
+ORD000750,CUST0172,2023-06-28,Cancelled,Cash on Delivery,Website,Pune
+ORD000751,CUST0172,2023-12-13,Delivered,UPI,Mobile App,Pune
+ORD000752,CUST0172,2023-10-03,Returned,Cash on Delivery,Website,Pune
+ORD000753,CUST0173,2023-09-29,Delivered,UPI,Mobile App,Chennai
+ORD000754,CUST0173,2023-07-09,Delivered,Debit Card,Mobile App,Chennai
+ORD000755,CUST0173,2023-12-08,Returned,Cash on Delivery,Mobile App,Chennai
+ORD000756,CUST0173,2023-08-02,Delivered,Cash on Delivery,Website,Chennai
+ORD000757,CUST0174,2023-09-21,Delivered,Cash on Delivery,Store,Chennai
+ORD000758,CUST0174,2023-10-06,Delivered,Net Banking,Store,Chennai
+ORD000759,CUST0174,2023-11-25,Delivered,Debit Card,Store,Chennai
+ORD000760,CUST0174,2023-11-21,Returned,Debit Card,Store,Chennai
+ORD000761,CUST0175,2023-09-30,Returned,Credit Card,Store,Mumbai
+ORD000762,CUST0175,2023-08-09,Cancelled,Debit Card,Store,Mumbai
+ORD000763,CUST0175,2023-07-30,Delivered,Cash on Delivery,Store,Mumbai
+ORD000764,CUST0175,2023-06-22,Delivered,Net Banking,Store,Mumbai
+ORD000765,CUST0175,2023-11-08,Delivered,Net Banking,Mobile App,Mumbai
+ORD000766,CUST0176,2023-06-02,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000767,CUST0176,2023-09-06,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000768,CUST0176,2023-07-27,Cancelled,Net Banking,Website,Hyderabad
+ORD000769,CUST0177,2023-12-09,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD000770,CUST0177,2023-05-04,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000771,CUST0178,2023-02-03,Delivered,Cash on Delivery,Store,Hyderabad
+ORD000772,CUST0178,2023-09-16,Delivered,Cash on Delivery,Store,Hyderabad
+ORD000773,CUST0178,2023-03-04,Delivered,Credit Card,Website,Hyderabad
+ORD000774,CUST0179,2023-11-11,Cancelled,Credit Card,Mobile App,Delhi
+ORD000775,CUST0179,2023-08-24,Delivered,Credit Card,Mobile App,Delhi
+ORD000776,CUST0179,2023-10-29,Delivered,UPI,Mobile App,Delhi
+ORD000777,CUST0179,2023-09-27,Delivered,Net Banking,Store,Delhi
+ORD000778,CUST0179,2023-08-16,Delivered,Credit Card,Mobile App,Delhi
+ORD000779,CUST0179,2023-05-07,Delivered,Cash on Delivery,Website,Delhi
+ORD000780,CUST0179,2023-10-25,Delivered,Net Banking,Mobile App,Delhi
+ORD000781,CUST0179,2023-09-18,Delivered,UPI,Store,Delhi
+ORD000782,CUST0180,2023-12-30,Delivered,Credit Card,Mobile App,Delhi
+ORD000783,CUST0180,2023-06-05,Delivered,Credit Card,Mobile App,Delhi
+ORD000784,CUST0180,2023-10-15,Delivered,UPI,Mobile App,Delhi
+ORD000785,CUST0180,2023-05-03,Delivered,Cash on Delivery,Store,Delhi
+ORD000786,CUST0180,2023-06-09,Cancelled,Cash on Delivery,Mobile App,Delhi
+ORD000787,CUST0181,2023-07-02,Delivered,Debit Card,Mobile App,Pune
+ORD000788,CUST0181,2023-08-12,Returned,Cash on Delivery,Website,Pune
+ORD000789,CUST0181,2023-08-25,Delivered,Credit Card,Website,Pune
+ORD000790,CUST0181,2023-07-23,Delivered,Net Banking,Mobile App,Pune
+ORD000791,CUST0181,2023-09-19,Delivered,Debit Card,Mobile App,Pune
+ORD000792,CUST0181,2023-12-20,Returned,Credit Card,Mobile App,Pune
+ORD000793,CUST0181,2023-09-07,Delivered,Cash on Delivery,Mobile App,Pune
+ORD000794,CUST0181,2023-06-23,Delivered,UPI,Mobile App,Pune
+ORD000795,CUST0181,2023-08-05,Cancelled,Net Banking,Mobile App,Pune
+ORD000796,CUST0182,2023-05-04,Delivered,Credit Card,Mobile App,Mumbai
+ORD000797,CUST0182,2023-05-19,Delivered,Net Banking,Mobile App,Mumbai
+ORD000798,CUST0182,2023-09-21,Delivered,Cash on Delivery,Store,Mumbai
+ORD000799,CUST0182,2023-07-05,Delivered,Net Banking,Website,Mumbai
+ORD000800,CUST0182,2023-11-05,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000801,CUST0182,2023-09-26,Delivered,Net Banking,Mobile App,Mumbai
+ORD000802,CUST0182,2023-06-15,Delivered,Net Banking,Mobile App,Mumbai
+ORD000803,CUST0183,2023-09-27,Cancelled,UPI,Mobile App,Ahmedabad
+ORD000804,CUST0183,2023-07-03,Cancelled,Debit Card,Website,Ahmedabad
+ORD000805,CUST0183,2023-07-25,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000806,CUST0183,2023-11-21,Returned,Debit Card,Website,Ahmedabad
+ORD000807,CUST0183,2023-06-28,Returned,Credit Card,Mobile App,Ahmedabad
+ORD000808,CUST0183,2023-08-22,Cancelled,Cash on Delivery,Mobile App,Ahmedabad
+ORD000809,CUST0183,2023-12-12,Returned,Debit Card,Mobile App,Ahmedabad
+ORD000810,CUST0184,2023-10-19,Delivered,UPI,Website,Ahmedabad
+ORD000811,CUST0184,2023-12-02,Delivered,UPI,Mobile App,Ahmedabad
+ORD000812,CUST0185,2023-01-16,Cancelled,Debit Card,Store,Chennai
+ORD000813,CUST0185,2023-12-26,Delivered,Cash on Delivery,Store,Chennai
+ORD000814,CUST0185,2023-02-14,Delivered,Net Banking,Store,Chennai
+ORD000815,CUST0185,2023-07-24,Delivered,Debit Card,Store,Chennai
+ORD000816,CUST0185,2023-03-19,Returned,Credit Card,Store,Chennai
+ORD000817,CUST0186,2023-09-30,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000818,CUST0186,2023-08-11,Delivered,Cash on Delivery,Website,Hyderabad
+ORD000819,CUST0186,2023-01-15,Delivered,Credit Card,Mobile App,Hyderabad
+ORD000820,CUST0186,2023-12-27,Delivered,Credit Card,Website,Hyderabad
+ORD000821,CUST0186,2023-04-12,Delivered,Debit Card,Website,Hyderabad
+ORD000822,CUST0186,2023-07-06,Delivered,Net Banking,Website,Hyderabad
+ORD000823,CUST0186,2023-06-06,Cancelled,UPI,Website,Hyderabad
+ORD000824,CUST0186,2023-08-01,Delivered,Credit Card,Website,Hyderabad
+ORD000825,CUST0186,2023-01-10,Delivered,Cash on Delivery,Website,Hyderabad
+ORD000826,CUST0187,2023-04-24,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD000827,CUST0187,2023-05-23,Delivered,Credit Card,Mobile App,Kolkata
+ORD000828,CUST0187,2023-06-16,Delivered,UPI,Mobile App,Kolkata
+ORD000829,CUST0188,2023-04-15,Delivered,Debit Card,Mobile App,Chennai
+ORD000830,CUST0188,2023-06-02,Delivered,Cash on Delivery,Store,Chennai
+ORD000831,CUST0189,2023-11-03,Delivered,UPI,Mobile App,Hyderabad
+ORD000832,CUST0189,2023-03-03,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000833,CUST0189,2023-05-06,Delivered,Net Banking,Website,Hyderabad
+ORD000834,CUST0189,2023-06-14,Returned,UPI,Mobile App,Hyderabad
+ORD000835,CUST0190,2023-11-15,Returned,Credit Card,Store,Bengaluru
+ORD000836,CUST0190,2023-10-31,Returned,UPI,Store,Bengaluru
+ORD000837,CUST0190,2023-10-06,Delivered,UPI,Store,Bengaluru
+ORD000838,CUST0190,2023-12-13,Delivered,Net Banking,Mobile App,Bengaluru
+ORD000839,CUST0190,2023-12-24,Delivered,Credit Card,Store,Bengaluru
+ORD000840,CUST0190,2023-11-18,Delivered,Cash on Delivery,Store,Bengaluru
+ORD000841,CUST0191,2023-05-22,Delivered,UPI,Mobile App,Hyderabad
+ORD000842,CUST0192,2023-12-13,Delivered,Credit Card,Mobile App,Kolkata
+ORD000843,CUST0192,2023-11-21,Cancelled,UPI,Mobile App,Kolkata
+ORD000844,CUST0192,2023-10-31,Returned,Credit Card,Mobile App,Kolkata
+ORD000845,CUST0193,2023-01-29,Delivered,Net Banking,Store,Mumbai
+ORD000846,CUST0193,2023-04-25,Delivered,Net Banking,Store,Mumbai
+ORD000847,CUST0193,2023-12-12,Delivered,Net Banking,Store,Mumbai
+ORD000848,CUST0193,2023-03-30,Delivered,Cash on Delivery,Store,Mumbai
+ORD000849,CUST0193,2023-06-23,Delivered,Credit Card,Website,Mumbai
+ORD000850,CUST0193,2023-10-21,Delivered,Credit Card,Store,Mumbai
+ORD000851,CUST0193,2023-08-15,Delivered,UPI,Store,Mumbai
+ORD000852,CUST0194,2023-11-26,Delivered,UPI,Website,Mumbai
+ORD000853,CUST0195,2023-05-07,Delivered,Debit Card,Mobile App,Pune
+ORD000854,CUST0195,2023-09-10,Returned,Net Banking,Mobile App,Pune
+ORD000855,CUST0195,2023-10-02,Cancelled,Net Banking,Mobile App,Pune
+ORD000856,CUST0195,2023-12-17,Delivered,UPI,Mobile App,Pune
+ORD000857,CUST0195,2023-11-02,Delivered,Credit Card,Mobile App,Pune
+ORD000858,CUST0195,2023-10-20,Delivered,UPI,Mobile App,Pune
+ORD000859,CUST0195,2023-10-17,Delivered,Net Banking,Mobile App,Pune
+ORD000860,CUST0196,2023-08-25,Delivered,Credit Card,Website,Bengaluru
+ORD000861,CUST0196,2023-08-23,Delivered,Debit Card,Website,Bengaluru
+ORD000862,CUST0196,2023-12-08,Delivered,Cash on Delivery,Website,Bengaluru
+ORD000863,CUST0196,2023-12-14,Delivered,UPI,Website,Bengaluru
+ORD000864,CUST0196,2023-12-20,Delivered,Cash on Delivery,Website,Bengaluru
+ORD000865,CUST0196,2023-08-01,Delivered,Cash on Delivery,Website,Bengaluru
+ORD000866,CUST0197,2023-09-25,Delivered,Net Banking,Mobile App,Kolkata
+ORD000867,CUST0197,2023-11-23,Delivered,Net Banking,Mobile App,Kolkata
+ORD000868,CUST0197,2023-12-30,Delivered,Net Banking,Mobile App,Kolkata
+ORD000869,CUST0198,2023-04-18,Returned,Cash on Delivery,Store,Mumbai
+ORD000870,CUST0198,2023-10-28,Delivered,Net Banking,Store,Mumbai
+ORD000871,CUST0198,2023-10-10,Delivered,Credit Card,Store,Mumbai
+ORD000872,CUST0198,2023-05-23,Delivered,Cash on Delivery,Store,Mumbai
+ORD000873,CUST0199,2023-06-25,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000874,CUST0199,2023-08-28,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000875,CUST0199,2023-10-07,Delivered,UPI,Mobile App,Ahmedabad
+ORD000876,CUST0199,2023-09-15,Cancelled,Cash on Delivery,Mobile App,Ahmedabad
+ORD000877,CUST0199,2023-12-15,Delivered,UPI,Mobile App,Ahmedabad
+ORD000878,CUST0199,2023-06-02,Returned,Net Banking,Store,Ahmedabad
+ORD000879,CUST0200,2023-10-24,Delivered,UPI,Mobile App,Mumbai
+ORD000880,CUST0200,2023-12-22,Delivered,Credit Card,Mobile App,Mumbai
+ORD000881,CUST0200,2023-10-15,Delivered,Debit Card,Mobile App,Mumbai
+ORD000882,CUST0200,2023-09-30,Delivered,Net Banking,Store,Mumbai
+ORD000883,CUST0200,2023-11-24,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD000884,CUST0200,2023-09-25,Delivered,Net Banking,Mobile App,Mumbai
+ORD000885,CUST0200,2023-11-05,Returned,UPI,Mobile App,Mumbai
+ORD000886,CUST0201,2023-11-14,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD000887,CUST0201,2023-09-17,Delivered,UPI,Mobile App,Hyderabad
+ORD000888,CUST0201,2023-11-20,Delivered,Debit Card,Mobile App,Hyderabad
+ORD000889,CUST0201,2023-10-12,Returned,Debit Card,Mobile App,Hyderabad
+ORD000890,CUST0201,2023-11-15,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000891,CUST0202,2023-09-19,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD000892,CUST0202,2023-10-11,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000893,CUST0202,2023-09-24,Cancelled,Credit Card,Website,Ahmedabad
+ORD000894,CUST0203,2023-07-22,Delivered,UPI,Mobile App,Mumbai
+ORD000895,CUST0203,2023-09-09,Delivered,Debit Card,Mobile App,Mumbai
+ORD000896,CUST0203,2023-07-30,Delivered,Credit Card,Mobile App,Mumbai
+ORD000897,CUST0204,2023-07-30,Delivered,Debit Card,Store,Pune
+ORD000898,CUST0204,2023-12-16,Returned,Cash on Delivery,Mobile App,Pune
+ORD000899,CUST0204,2023-08-15,Delivered,UPI,Store,Pune
+ORD000900,CUST0204,2023-10-13,Delivered,Net Banking,Store,Pune
+ORD000901,CUST0204,2023-07-19,Delivered,Credit Card,Store,Pune
+ORD000902,CUST0204,2023-11-10,Delivered,Credit Card,Store,Pune
+ORD000903,CUST0205,2023-10-08,Delivered,Cash on Delivery,Store,Pune
+ORD000904,CUST0205,2023-11-09,Delivered,Net Banking,Store,Pune
+ORD000905,CUST0205,2023-11-07,Delivered,Cash on Delivery,Store,Pune
+ORD000906,CUST0205,2023-12-07,Cancelled,Cash on Delivery,Store,Pune
+ORD000907,CUST0205,2023-10-28,Delivered,Cash on Delivery,Store,Pune
+ORD000908,CUST0206,2023-12-22,Delivered,Credit Card,Store,Hyderabad
+ORD000909,CUST0206,2023-09-16,Delivered,Cash on Delivery,Store,Hyderabad
+ORD000910,CUST0207,2023-07-11,Delivered,Credit Card,Mobile App,Mumbai
+ORD000911,CUST0207,2023-07-30,Delivered,Credit Card,Mobile App,Mumbai
+ORD000912,CUST0207,2023-12-09,Delivered,Net Banking,Mobile App,Mumbai
+ORD000913,CUST0207,2023-07-12,Delivered,Net Banking,Mobile App,Mumbai
+ORD000914,CUST0208,2023-07-31,Returned,Cash on Delivery,Mobile App,Chennai
+ORD000915,CUST0208,2023-11-07,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD000916,CUST0208,2023-10-24,Returned,Debit Card,Mobile App,Chennai
+ORD000917,CUST0208,2023-08-17,Cancelled,Credit Card,Mobile App,Chennai
+ORD000918,CUST0208,2023-06-15,Delivered,Net Banking,Mobile App,Chennai
+ORD000919,CUST0208,2023-10-23,Delivered,Debit Card,Store,Chennai
+ORD000920,CUST0209,2023-10-27,Delivered,Net Banking,Mobile App,Hyderabad
+ORD000921,CUST0210,2023-10-30,Delivered,Debit Card,Store,Kolkata
+ORD000922,CUST0210,2023-09-28,Delivered,Cash on Delivery,Store,Kolkata
+ORD000923,CUST0210,2023-09-11,Delivered,Debit Card,Store,Kolkata
+ORD000924,CUST0210,2023-06-02,Delivered,Net Banking,Store,Kolkata
+ORD000925,CUST0211,2023-12-08,Delivered,Net Banking,Website,Pune
+ORD000926,CUST0211,2023-10-16,Delivered,UPI,Website,Pune
+ORD000927,CUST0211,2023-08-08,Delivered,Credit Card,Website,Pune
+ORD000928,CUST0212,2023-05-13,Delivered,Credit Card,Mobile App,Bengaluru
+ORD000929,CUST0212,2023-12-19,Delivered,Debit Card,Mobile App,Bengaluru
+ORD000930,CUST0212,2023-10-26,Cancelled,UPI,Mobile App,Bengaluru
+ORD000931,CUST0212,2023-09-16,Delivered,Debit Card,Mobile App,Bengaluru
+ORD000932,CUST0213,2023-07-05,Delivered,Net Banking,Website,Mumbai
+ORD000933,CUST0213,2023-10-27,Delivered,UPI,Website,Mumbai
+ORD000934,CUST0213,2023-09-29,Delivered,Debit Card,Store,Mumbai
+ORD000935,CUST0213,2023-11-29,Cancelled,Credit Card,Website,Mumbai
+ORD000936,CUST0213,2023-11-24,Cancelled,Credit Card,Website,Mumbai
+ORD000937,CUST0213,2023-10-08,Delivered,Net Banking,Website,Mumbai
+ORD000938,CUST0213,2023-07-28,Delivered,Cash on Delivery,Website,Mumbai
+ORD000939,CUST0214,2023-02-11,Delivered,Debit Card,Store,Chennai
+ORD000940,CUST0214,2023-04-21,Delivered,Credit Card,Store,Chennai
+ORD000941,CUST0214,2023-03-05,Delivered,Cash on Delivery,Store,Chennai
+ORD000942,CUST0214,2023-06-07,Delivered,Debit Card,Store,Chennai
+ORD000943,CUST0215,2023-08-24,Returned,Cash on Delivery,Store,Bengaluru
+ORD000944,CUST0215,2023-11-21,Delivered,Cash on Delivery,Store,Bengaluru
+ORD000945,CUST0215,2023-09-15,Delivered,UPI,Website,Bengaluru
+ORD000946,CUST0215,2023-09-29,Delivered,Debit Card,Store,Bengaluru
+ORD000947,CUST0215,2023-10-10,Delivered,Credit Card,Store,Bengaluru
+ORD000948,CUST0215,2023-10-12,Delivered,Credit Card,Store,Bengaluru
+ORD000949,CUST0215,2023-11-12,Delivered,Debit Card,Store,Bengaluru
+ORD000950,CUST0216,2023-08-02,Delivered,Credit Card,Website,Pune
+ORD000951,CUST0216,2023-07-10,Delivered,Credit Card,Website,Pune
+ORD000952,CUST0216,2023-12-08,Cancelled,Cash on Delivery,Website,Pune
+ORD000953,CUST0217,2023-10-29,Delivered,Debit Card,Store,Kolkata
+ORD000954,CUST0217,2023-11-26,Delivered,UPI,Store,Kolkata
+ORD000955,CUST0218,2023-09-22,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD000956,CUST0218,2023-08-25,Returned,Debit Card,Website,Bengaluru
+ORD000957,CUST0218,2023-06-11,Delivered,Net Banking,Store,Bengaluru
+ORD000958,CUST0219,2023-09-10,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD000959,CUST0219,2023-11-06,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD000960,CUST0219,2023-11-17,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000961,CUST0219,2023-05-11,Delivered,Net Banking,Website,Ahmedabad
+ORD000962,CUST0219,2023-11-15,Cancelled,Debit Card,Mobile App,Ahmedabad
+ORD000963,CUST0219,2023-03-08,Returned,Net Banking,Mobile App,Ahmedabad
+ORD000964,CUST0219,2023-02-18,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD000965,CUST0220,2023-05-23,Delivered,Net Banking,Mobile App,Chennai
+ORD000966,CUST0220,2023-07-10,Delivered,Cash on Delivery,Website,Chennai
+ORD000967,CUST0220,2023-05-14,Delivered,Credit Card,Mobile App,Chennai
+ORD000968,CUST0220,2023-12-14,Delivered,Debit Card,Mobile App,Chennai
+ORD000969,CUST0220,2023-05-08,Delivered,Net Banking,Store,Chennai
+ORD000970,CUST0220,2023-07-17,Returned,Net Banking,Website,Chennai
+ORD000971,CUST0221,2023-07-17,Delivered,Debit Card,Website,Chennai
+ORD000972,CUST0221,2023-08-02,Delivered,Net Banking,Website,Chennai
+ORD000973,CUST0222,2023-07-06,Delivered,Debit Card,Mobile App,Kolkata
+ORD000974,CUST0222,2023-09-23,Delivered,Credit Card,Mobile App,Kolkata
+ORD000975,CUST0222,2023-11-26,Cancelled,Cash on Delivery,Mobile App,Kolkata
+ORD000976,CUST0222,2023-08-19,Delivered,Net Banking,Store,Kolkata
+ORD000977,CUST0223,2023-12-30,Returned,Debit Card,Mobile App,Kolkata
+ORD000978,CUST0223,2023-10-03,Delivered,Debit Card,Mobile App,Kolkata
+ORD000979,CUST0223,2023-04-15,Delivered,Cash on Delivery,Website,Kolkata
+ORD000980,CUST0223,2023-07-25,Delivered,Debit Card,Mobile App,Kolkata
+ORD000981,CUST0223,2023-06-30,Delivered,UPI,Mobile App,Kolkata
+ORD000982,CUST0224,2023-04-13,Delivered,UPI,Store,Ahmedabad
+ORD000983,CUST0224,2023-11-24,Delivered,UPI,Mobile App,Ahmedabad
+ORD000984,CUST0224,2023-08-29,Cancelled,UPI,Store,Ahmedabad
+ORD000985,CUST0225,2023-08-30,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000986,CUST0225,2023-11-21,Delivered,Net Banking,Website,Ahmedabad
+ORD000987,CUST0225,2023-10-10,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD000988,CUST0225,2023-12-05,Delivered,Debit Card,Website,Ahmedabad
+ORD000989,CUST0226,2023-12-30,Delivered,Cash on Delivery,Website,Delhi
+ORD000990,CUST0226,2023-09-08,Delivered,Net Banking,Website,Delhi
+ORD000991,CUST0226,2023-10-05,Returned,Cash on Delivery,Website,Delhi
+ORD000992,CUST0226,2023-11-17,Delivered,Debit Card,Website,Delhi
+ORD000993,CUST0226,2023-12-18,Delivered,Credit Card,Website,Delhi
+ORD000994,CUST0226,2023-05-08,Returned,UPI,Website,Delhi
+ORD000995,CUST0227,2023-06-02,Delivered,UPI,Mobile App,Hyderabad
+ORD000996,CUST0227,2023-05-08,Delivered,Credit Card,Store,Hyderabad
+ORD000997,CUST0227,2023-07-29,Cancelled,Debit Card,Store,Hyderabad
+ORD000998,CUST0227,2023-08-25,Delivered,UPI,Store,Hyderabad
+ORD000999,CUST0228,2023-07-11,Delivered,Net Banking,Website,Ahmedabad
+ORD001000,CUST0228,2023-08-16,Delivered,Debit Card,Website,Ahmedabad
+ORD001001,CUST0228,2023-07-23,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001002,CUST0228,2023-10-25,Delivered,UPI,Mobile App,Ahmedabad
+ORD001003,CUST0228,2023-08-02,Returned,Debit Card,Mobile App,Ahmedabad
+ORD001004,CUST0228,2023-10-25,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001005,CUST0228,2023-09-04,Returned,Debit Card,Mobile App,Ahmedabad
+ORD001006,CUST0228,2023-08-17,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001007,CUST0228,2023-08-07,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001008,CUST0229,2023-09-10,Delivered,Net Banking,Store,Bengaluru
+ORD001009,CUST0229,2023-09-07,Cancelled,Debit Card,Store,Bengaluru
+ORD001010,CUST0230,2023-06-05,Delivered,UPI,Store,Mumbai
+ORD001011,CUST0230,2023-10-03,Delivered,Credit Card,Website,Mumbai
+ORD001012,CUST0230,2023-09-04,Delivered,Cash on Delivery,Website,Mumbai
+ORD001013,CUST0230,2023-08-05,Cancelled,Cash on Delivery,Store,Mumbai
+ORD001014,CUST0231,2023-12-05,Delivered,Net Banking,Website,Chennai
+ORD001015,CUST0231,2023-09-21,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD001016,CUST0231,2023-09-24,Delivered,Net Banking,Mobile App,Chennai
+ORD001017,CUST0231,2023-12-16,Delivered,Net Banking,Mobile App,Chennai
+ORD001018,CUST0231,2023-10-12,Delivered,Net Banking,Mobile App,Chennai
+ORD001019,CUST0232,2023-08-05,Delivered,Net Banking,Mobile App,Kolkata
+ORD001020,CUST0232,2023-12-03,Delivered,Cash on Delivery,Website,Kolkata
+ORD001021,CUST0232,2023-08-08,Delivered,Net Banking,Mobile App,Kolkata
+ORD001022,CUST0233,2023-07-17,Delivered,UPI,Mobile App,Pune
+ORD001023,CUST0233,2023-04-20,Delivered,UPI,Store,Pune
+ORD001024,CUST0233,2023-09-26,Delivered,Debit Card,Mobile App,Pune
+ORD001025,CUST0233,2023-09-01,Delivered,Debit Card,Mobile App,Pune
+ORD001026,CUST0233,2023-12-10,Returned,Debit Card,Mobile App,Pune
+ORD001027,CUST0233,2023-09-15,Delivered,UPI,Mobile App,Pune
+ORD001028,CUST0234,2023-10-14,Delivered,Net Banking,Store,Kolkata
+ORD001029,CUST0235,2023-09-02,Cancelled,Credit Card,Mobile App,Pune
+ORD001030,CUST0235,2023-11-17,Delivered,UPI,Mobile App,Pune
+ORD001031,CUST0235,2023-09-13,Delivered,Credit Card,Mobile App,Pune
+ORD001032,CUST0235,2023-11-02,Cancelled,Cash on Delivery,Mobile App,Pune
+ORD001033,CUST0235,2023-12-29,Delivered,Debit Card,Mobile App,Pune
+ORD001034,CUST0236,2023-10-07,Delivered,UPI,Store,Delhi
+ORD001035,CUST0236,2023-07-07,Delivered,Debit Card,Mobile App,Delhi
+ORD001036,CUST0236,2023-12-11,Cancelled,Net Banking,Mobile App,Delhi
+ORD001037,CUST0236,2023-07-14,Returned,Credit Card,Mobile App,Delhi
+ORD001038,CUST0236,2023-12-14,Delivered,Net Banking,Mobile App,Delhi
+ORD001039,CUST0237,2023-06-23,Delivered,Cash on Delivery,Store,Kolkata
+ORD001040,CUST0237,2023-05-29,Delivered,Net Banking,Store,Kolkata
+ORD001041,CUST0237,2023-07-06,Delivered,Debit Card,Website,Kolkata
+ORD001042,CUST0237,2023-11-14,Delivered,Net Banking,Store,Kolkata
+ORD001043,CUST0238,2023-07-15,Delivered,Credit Card,Website,Hyderabad
+ORD001044,CUST0238,2023-09-11,Returned,Net Banking,Website,Hyderabad
+ORD001045,CUST0238,2023-06-09,Returned,Cash on Delivery,Website,Hyderabad
+ORD001046,CUST0238,2023-08-02,Delivered,Net Banking,Website,Hyderabad
+ORD001047,CUST0238,2023-12-07,Delivered,Net Banking,Website,Hyderabad
+ORD001048,CUST0238,2023-10-19,Delivered,UPI,Website,Hyderabad
+ORD001049,CUST0239,2023-05-07,Returned,UPI,Website,Kolkata
+ORD001050,CUST0239,2023-05-25,Delivered,Net Banking,Website,Kolkata
+ORD001051,CUST0239,2023-09-06,Delivered,Debit Card,Website,Kolkata
+ORD001052,CUST0239,2023-04-29,Cancelled,UPI,Website,Kolkata
+ORD001053,CUST0240,2023-12-20,Delivered,Net Banking,Website,Kolkata
+ORD001054,CUST0240,2023-11-16,Delivered,UPI,Website,Kolkata
+ORD001055,CUST0240,2023-09-27,Delivered,Credit Card,Mobile App,Kolkata
+ORD001056,CUST0240,2023-08-07,Delivered,Net Banking,Website,Kolkata
+ORD001057,CUST0240,2023-08-23,Delivered,Cash on Delivery,Website,Kolkata
+ORD001058,CUST0241,2023-11-07,Cancelled,Debit Card,Mobile App,Ahmedabad
+ORD001059,CUST0241,2023-06-23,Cancelled,Credit Card,Mobile App,Ahmedabad
+ORD001060,CUST0241,2023-05-12,Returned,Net Banking,Mobile App,Ahmedabad
+ORD001061,CUST0241,2023-04-25,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001062,CUST0241,2023-12-12,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001063,CUST0242,2023-11-12,Delivered,Credit Card,Mobile App,Mumbai
+ORD001064,CUST0242,2023-11-04,Delivered,Debit Card,Mobile App,Mumbai
+ORD001065,CUST0242,2023-11-21,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001066,CUST0242,2023-08-22,Delivered,Credit Card,Mobile App,Mumbai
+ORD001067,CUST0243,2023-07-03,Delivered,Credit Card,Mobile App,Kolkata
+ORD001068,CUST0243,2023-08-18,Delivered,Debit Card,Mobile App,Kolkata
+ORD001069,CUST0243,2023-06-23,Delivered,Net Banking,Website,Kolkata
+ORD001070,CUST0244,2023-12-21,Returned,Debit Card,Mobile App,Pune
+ORD001071,CUST0244,2023-10-31,Cancelled,UPI,Mobile App,Pune
+ORD001072,CUST0244,2023-12-26,Delivered,Net Banking,Mobile App,Pune
+ORD001073,CUST0245,2023-11-04,Cancelled,Debit Card,Store,Hyderabad
+ORD001074,CUST0245,2023-11-13,Delivered,Net Banking,Mobile App,Hyderabad
+ORD001075,CUST0245,2023-10-23,Delivered,UPI,Store,Hyderabad
+ORD001076,CUST0245,2023-10-16,Returned,Cash on Delivery,Mobile App,Hyderabad
+ORD001077,CUST0245,2023-12-11,Delivered,Net Banking,Mobile App,Hyderabad
+ORD001078,CUST0245,2023-10-14,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD001079,CUST0246,2023-12-25,Delivered,Cash on Delivery,Website,Kolkata
+ORD001080,CUST0247,2023-11-20,Delivered,Debit Card,Website,Ahmedabad
+ORD001081,CUST0247,2023-08-30,Cancelled,UPI,Website,Ahmedabad
+ORD001082,CUST0248,2023-08-15,Delivered,Credit Card,Website,Chennai
+ORD001083,CUST0248,2023-10-16,Delivered,Debit Card,Website,Chennai
+ORD001084,CUST0248,2023-10-10,Delivered,Net Banking,Website,Chennai
+ORD001085,CUST0248,2023-12-06,Returned,Net Banking,Website,Chennai
+ORD001086,CUST0248,2023-09-04,Delivered,UPI,Mobile App,Chennai
+ORD001087,CUST0248,2023-10-24,Delivered,Cash on Delivery,Website,Chennai
+ORD001088,CUST0248,2023-12-15,Cancelled,Net Banking,Website,Chennai
+ORD001089,CUST0249,2023-10-20,Delivered,Debit Card,Mobile App,Mumbai
+ORD001090,CUST0249,2023-11-28,Delivered,Debit Card,Mobile App,Mumbai
+ORD001091,CUST0249,2023-12-17,Returned,Credit Card,Mobile App,Mumbai
+ORD001092,CUST0249,2023-10-26,Delivered,Debit Card,Mobile App,Mumbai
+ORD001093,CUST0249,2023-08-19,Delivered,Debit Card,Mobile App,Mumbai
+ORD001094,CUST0250,2023-10-30,Delivered,Net Banking,Mobile App,Pune
+ORD001095,CUST0250,2023-10-07,Delivered,Debit Card,Mobile App,Pune
+ORD001096,CUST0250,2023-11-02,Delivered,UPI,Store,Pune
+ORD001097,CUST0250,2023-11-08,Cancelled,Debit Card,Mobile App,Pune
+ORD001098,CUST0251,2023-12-11,Delivered,Credit Card,Store,Delhi
+ORD001099,CUST0251,2023-10-07,Cancelled,Net Banking,Store,Delhi
+ORD001100,CUST0251,2023-11-13,Delivered,Net Banking,Mobile App,Delhi
+ORD001101,CUST0251,2023-12-03,Cancelled,Debit Card,Store,Delhi
+ORD001102,CUST0251,2023-10-04,Delivered,Debit Card,Store,Delhi
+ORD001103,CUST0251,2023-10-04,Delivered,Credit Card,Store,Delhi
+ORD001104,CUST0252,2023-02-22,Delivered,Debit Card,Mobile App,Delhi
+ORD001105,CUST0252,2023-05-16,Cancelled,UPI,Mobile App,Delhi
+ORD001106,CUST0252,2023-08-11,Delivered,Debit Card,Mobile App,Delhi
+ORD001107,CUST0253,2023-12-04,Returned,UPI,Website,Delhi
+ORD001108,CUST0253,2023-08-11,Delivered,UPI,Mobile App,Delhi
+ORD001109,CUST0254,2023-11-13,Delivered,Net Banking,Mobile App,Delhi
+ORD001110,CUST0254,2023-09-18,Cancelled,Debit Card,Mobile App,Delhi
+ORD001111,CUST0254,2023-10-10,Returned,UPI,Store,Delhi
+ORD001112,CUST0254,2023-12-24,Delivered,Debit Card,Store,Delhi
+ORD001113,CUST0254,2023-09-28,Cancelled,Net Banking,Mobile App,Delhi
+ORD001114,CUST0254,2023-11-09,Delivered,Credit Card,Mobile App,Delhi
+ORD001115,CUST0255,2023-04-19,Delivered,Credit Card,Store,Ahmedabad
+ORD001116,CUST0255,2023-06-20,Delivered,Debit Card,Store,Ahmedabad
+ORD001117,CUST0255,2023-06-07,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001118,CUST0255,2023-12-06,Delivered,Credit Card,Store,Ahmedabad
+ORD001119,CUST0255,2023-09-25,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD001120,CUST0255,2023-10-12,Cancelled,Credit Card,Store,Ahmedabad
+ORD001121,CUST0256,2023-04-16,Delivered,Credit Card,Mobile App,Bengaluru
+ORD001122,CUST0256,2023-08-07,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD001123,CUST0256,2023-08-17,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001124,CUST0256,2023-05-05,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001125,CUST0256,2023-11-14,Delivered,Net Banking,Mobile App,Bengaluru
+ORD001126,CUST0257,2023-10-19,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001127,CUST0257,2023-09-03,Returned,UPI,Store,Mumbai
+ORD001128,CUST0257,2023-12-24,Delivered,UPI,Mobile App,Mumbai
+ORD001129,CUST0257,2023-10-14,Returned,UPI,Mobile App,Mumbai
+ORD001130,CUST0257,2023-08-13,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001131,CUST0257,2023-09-04,Delivered,Credit Card,Mobile App,Mumbai
+ORD001132,CUST0257,2023-11-07,Returned,Cash on Delivery,Mobile App,Mumbai
+ORD001133,CUST0257,2023-12-10,Delivered,UPI,Mobile App,Mumbai
+ORD001134,CUST0258,2023-10-28,Delivered,UPI,Website,Delhi
+ORD001135,CUST0258,2023-08-15,Delivered,Net Banking,Website,Delhi
+ORD001136,CUST0258,2023-09-16,Delivered,Debit Card,Website,Delhi
+ORD001137,CUST0258,2023-10-07,Delivered,Cash on Delivery,Website,Delhi
+ORD001138,CUST0259,2023-11-08,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001139,CUST0259,2023-08-21,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001140,CUST0259,2023-11-07,Cancelled,Credit Card,Website,Hyderabad
+ORD001141,CUST0259,2023-10-25,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001142,CUST0259,2023-09-21,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD001143,CUST0260,2023-02-22,Delivered,Cash on Delivery,Store,Bengaluru
+ORD001144,CUST0260,2023-05-26,Delivered,UPI,Store,Bengaluru
+ORD001145,CUST0260,2023-11-08,Cancelled,Debit Card,Store,Bengaluru
+ORD001146,CUST0260,2023-03-05,Delivered,Net Banking,Store,Bengaluru
+ORD001147,CUST0260,2023-04-04,Delivered,Net Banking,Store,Bengaluru
+ORD001148,CUST0261,2023-12-24,Cancelled,Net Banking,Mobile App,Bengaluru
+ORD001149,CUST0261,2023-11-16,Returned,Credit Card,Website,Bengaluru
+ORD001150,CUST0262,2023-07-06,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD001151,CUST0262,2023-09-11,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD001152,CUST0262,2023-11-11,Delivered,Debit Card,Store,Ahmedabad
+ORD001153,CUST0262,2023-08-21,Cancelled,Cash on Delivery,Mobile App,Ahmedabad
+ORD001154,CUST0262,2023-06-15,Delivered,Net Banking,Store,Ahmedabad
+ORD001155,CUST0263,2023-12-09,Delivered,UPI,Website,Kolkata
+ORD001156,CUST0263,2023-09-01,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001157,CUST0264,2023-12-07,Delivered,Debit Card,Website,Chennai
+ORD001158,CUST0264,2023-03-15,Delivered,UPI,Website,Chennai
+ORD001159,CUST0264,2023-03-11,Delivered,Net Banking,Mobile App,Chennai
+ORD001160,CUST0264,2023-02-16,Delivered,Cash on Delivery,Website,Chennai
+ORD001161,CUST0264,2023-12-15,Delivered,Credit Card,Website,Chennai
+ORD001162,CUST0264,2023-05-23,Delivered,UPI,Website,Chennai
+ORD001163,CUST0264,2023-07-12,Delivered,Cash on Delivery,Website,Chennai
+ORD001164,CUST0265,2023-07-09,Delivered,UPI,Store,Ahmedabad
+ORD001165,CUST0265,2023-12-04,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD001166,CUST0265,2023-09-26,Delivered,UPI,Store,Ahmedabad
+ORD001167,CUST0265,2023-10-01,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD001168,CUST0265,2023-12-17,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD001169,CUST0266,2023-08-14,Delivered,Credit Card,Mobile App,Bengaluru
+ORD001170,CUST0266,2023-09-11,Cancelled,Credit Card,Mobile App,Bengaluru
+ORD001171,CUST0266,2023-08-02,Delivered,UPI,Mobile App,Bengaluru
+ORD001172,CUST0266,2023-09-29,Delivered,Net Banking,Mobile App,Bengaluru
+ORD001173,CUST0266,2023-07-30,Delivered,UPI,Mobile App,Bengaluru
+ORD001174,CUST0266,2023-10-29,Delivered,UPI,Mobile App,Bengaluru
+ORD001175,CUST0267,2023-09-29,Delivered,Credit Card,Website,Delhi
+ORD001176,CUST0267,2023-11-28,Delivered,Credit Card,Website,Delhi
+ORD001177,CUST0267,2023-11-13,Delivered,Net Banking,Website,Delhi
+ORD001178,CUST0267,2023-10-10,Delivered,UPI,Website,Delhi
+ORD001179,CUST0267,2023-08-07,Delivered,Debit Card,Website,Delhi
+ORD001180,CUST0267,2023-11-24,Delivered,UPI,Website,Delhi
+ORD001181,CUST0267,2023-10-10,Delivered,Debit Card,Website,Delhi
+ORD001182,CUST0268,2023-12-05,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001183,CUST0268,2023-12-23,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001184,CUST0268,2023-10-07,Returned,Cash on Delivery,Mobile App,Bengaluru
+ORD001185,CUST0268,2023-10-08,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD001186,CUST0269,2023-10-29,Returned,Credit Card,Mobile App,Mumbai
+ORD001187,CUST0269,2023-12-06,Delivered,UPI,Mobile App,Mumbai
+ORD001188,CUST0269,2023-11-23,Delivered,Debit Card,Website,Mumbai
+ORD001189,CUST0269,2023-11-19,Delivered,Net Banking,Mobile App,Mumbai
+ORD001190,CUST0270,2023-09-14,Returned,Debit Card,Store,Ahmedabad
+ORD001191,CUST0271,2023-12-18,Delivered,Cash on Delivery,Website,Delhi
+ORD001192,CUST0271,2023-08-28,Cancelled,Net Banking,Website,Delhi
+ORD001193,CUST0272,2023-08-29,Delivered,Net Banking,Store,Hyderabad
+ORD001194,CUST0273,2023-11-08,Delivered,Credit Card,Website,Delhi
+ORD001195,CUST0273,2023-04-29,Delivered,Debit Card,Website,Delhi
+ORD001196,CUST0273,2023-11-09,Delivered,Net Banking,Website,Delhi
+ORD001197,CUST0273,2023-03-25,Delivered,UPI,Store,Delhi
+ORD001198,CUST0273,2023-02-15,Delivered,Cash on Delivery,Website,Delhi
+ORD001199,CUST0273,2023-07-11,Delivered,Cash on Delivery,Website,Delhi
+ORD001200,CUST0273,2023-12-05,Cancelled,Cash on Delivery,Website,Delhi
+ORD001201,CUST0274,2023-10-23,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001202,CUST0274,2023-07-13,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD001203,CUST0274,2023-09-12,Delivered,UPI,Mobile App,Ahmedabad
+ORD001204,CUST0274,2023-11-16,Delivered,Credit Card,Store,Ahmedabad
+ORD001205,CUST0274,2023-07-26,Returned,Net Banking,Website,Ahmedabad
+ORD001206,CUST0275,2023-08-22,Returned,Net Banking,Website,Delhi
+ORD001207,CUST0275,2023-02-15,Delivered,Credit Card,Store,Delhi
+ORD001208,CUST0275,2023-07-21,Delivered,Debit Card,Website,Delhi
+ORD001209,CUST0275,2023-09-21,Cancelled,Net Banking,Website,Delhi
+ORD001210,CUST0275,2023-02-12,Delivered,Net Banking,Website,Delhi
+ORD001211,CUST0275,2023-08-21,Delivered,UPI,Mobile App,Delhi
+ORD001212,CUST0275,2023-04-20,Delivered,Debit Card,Website,Delhi
+ORD001213,CUST0275,2023-04-05,Delivered,UPI,Website,Delhi
+ORD001214,CUST0275,2023-11-12,Delivered,Net Banking,Store,Delhi
+ORD001215,CUST0275,2023-03-19,Cancelled,Debit Card,Website,Delhi
+ORD001216,CUST0276,2023-12-30,Returned,UPI,Mobile App,Chennai
+ORD001217,CUST0276,2023-10-17,Delivered,Net Banking,Mobile App,Chennai
+ORD001218,CUST0276,2023-11-24,Delivered,Net Banking,Mobile App,Chennai
+ORD001219,CUST0276,2023-12-26,Delivered,Cash on Delivery,Website,Chennai
+ORD001220,CUST0276,2023-10-07,Delivered,Credit Card,Store,Chennai
+ORD001221,CUST0277,2023-10-09,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001222,CUST0277,2023-08-15,Cancelled,Net Banking,Mobile App,Ahmedabad
+ORD001223,CUST0277,2023-11-03,Cancelled,Net Banking,Mobile App,Ahmedabad
+ORD001224,CUST0277,2023-12-28,Cancelled,UPI,Mobile App,Ahmedabad
+ORD001225,CUST0277,2023-11-13,Returned,Credit Card,Website,Ahmedabad
+ORD001226,CUST0277,2023-08-31,Returned,UPI,Mobile App,Ahmedabad
+ORD001227,CUST0278,2023-12-06,Delivered,Debit Card,Website,Chennai
+ORD001228,CUST0278,2023-01-11,Cancelled,Credit Card,Mobile App,Chennai
+ORD001229,CUST0278,2023-08-31,Delivered,Debit Card,Mobile App,Chennai
+ORD001230,CUST0278,2023-07-24,Delivered,Net Banking,Website,Chennai
+ORD001231,CUST0278,2023-03-03,Delivered,Net Banking,Store,Chennai
+ORD001232,CUST0279,2023-11-15,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD001233,CUST0279,2023-10-05,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001234,CUST0279,2023-09-27,Delivered,Net Banking,Website,Ahmedabad
+ORD001235,CUST0279,2023-10-01,Cancelled,Credit Card,Mobile App,Ahmedabad
+ORD001236,CUST0279,2023-11-22,Delivered,UPI,Website,Ahmedabad
+ORD001237,CUST0279,2023-10-18,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001238,CUST0279,2023-10-19,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001239,CUST0280,2023-04-19,Returned,UPI,Mobile App,Ahmedabad
+ORD001240,CUST0280,2023-05-03,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD001241,CUST0280,2023-11-09,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001242,CUST0280,2023-12-22,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001243,CUST0281,2023-12-17,Returned,UPI,Website,Kolkata
+ORD001244,CUST0281,2023-11-01,Cancelled,Debit Card,Mobile App,Kolkata
+ORD001245,CUST0281,2023-12-02,Delivered,Credit Card,Website,Kolkata
+ORD001246,CUST0281,2023-11-29,Delivered,Debit Card,Website,Kolkata
+ORD001247,CUST0281,2023-10-30,Returned,Cash on Delivery,Mobile App,Kolkata
+ORD001248,CUST0282,2023-08-22,Delivered,Debit Card,Mobile App,Pune
+ORD001249,CUST0282,2023-10-28,Delivered,Debit Card,Website,Pune
+ORD001250,CUST0282,2023-07-19,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001251,CUST0282,2023-11-20,Delivered,Net Banking,Mobile App,Pune
+ORD001252,CUST0282,2023-07-22,Delivered,Credit Card,Mobile App,Pune
+ORD001253,CUST0283,2023-11-21,Delivered,Credit Card,Store,Chennai
+ORD001254,CUST0283,2023-08-29,Delivered,Credit Card,Mobile App,Chennai
+ORD001255,CUST0283,2023-10-25,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD001256,CUST0283,2023-07-04,Returned,Net Banking,Store,Chennai
+ORD001257,CUST0283,2023-10-02,Returned,UPI,Mobile App,Chennai
+ORD001258,CUST0283,2023-11-06,Returned,Debit Card,Mobile App,Chennai
+ORD001259,CUST0283,2023-07-16,Delivered,Credit Card,Mobile App,Chennai
+ORD001260,CUST0284,2023-11-02,Delivered,Debit Card,Mobile App,Chennai
+ORD001261,CUST0284,2023-10-27,Returned,Credit Card,Mobile App,Chennai
+ORD001262,CUST0284,2023-07-30,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD001263,CUST0285,2023-06-05,Delivered,Net Banking,Store,Kolkata
+ORD001264,CUST0285,2023-06-17,Returned,Credit Card,Store,Kolkata
+ORD001265,CUST0285,2023-04-18,Delivered,Cash on Delivery,Store,Kolkata
+ORD001266,CUST0285,2023-11-24,Delivered,Debit Card,Store,Kolkata
+ORD001267,CUST0286,2023-05-16,Delivered,Debit Card,Store,Hyderabad
+ORD001268,CUST0286,2023-06-06,Cancelled,Debit Card,Store,Hyderabad
+ORD001269,CUST0286,2023-04-14,Delivered,Net Banking,Store,Hyderabad
+ORD001270,CUST0286,2023-07-02,Delivered,Debit Card,Store,Hyderabad
+ORD001271,CUST0287,2023-02-17,Returned,Debit Card,Store,Ahmedabad
+ORD001272,CUST0287,2023-12-06,Delivered,UPI,Mobile App,Ahmedabad
+ORD001273,CUST0287,2023-03-08,Delivered,UPI,Mobile App,Ahmedabad
+ORD001274,CUST0287,2023-12-17,Cancelled,UPI,Mobile App,Ahmedabad
+ORD001275,CUST0288,2023-07-28,Delivered,Debit Card,Website,Ahmedabad
+ORD001276,CUST0288,2023-07-02,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001277,CUST0288,2023-09-20,Cancelled,UPI,Website,Ahmedabad
+ORD001278,CUST0288,2023-09-25,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001279,CUST0288,2023-11-15,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001280,CUST0289,2023-11-16,Delivered,UPI,Store,Bengaluru
+ORD001281,CUST0289,2023-12-03,Cancelled,Credit Card,Store,Bengaluru
+ORD001282,CUST0289,2023-12-21,Delivered,Cash on Delivery,Store,Bengaluru
+ORD001283,CUST0290,2023-07-18,Delivered,UPI,Mobile App,Hyderabad
+ORD001284,CUST0290,2023-12-01,Delivered,Net Banking,Mobile App,Hyderabad
+ORD001285,CUST0290,2023-06-23,Delivered,Net Banking,Mobile App,Hyderabad
+ORD001286,CUST0290,2023-08-27,Delivered,Credit Card,Mobile App,Hyderabad
+ORD001287,CUST0290,2023-12-13,Delivered,Net Banking,Mobile App,Hyderabad
+ORD001288,CUST0290,2023-11-30,Delivered,UPI,Mobile App,Hyderabad
+ORD001289,CUST0291,2023-06-23,Delivered,Cash on Delivery,Website,Pune
+ORD001290,CUST0291,2023-09-23,Returned,Debit Card,Website,Pune
+ORD001291,CUST0291,2023-12-29,Delivered,Cash on Delivery,Website,Pune
+ORD001292,CUST0291,2023-06-22,Delivered,Credit Card,Website,Pune
+ORD001293,CUST0291,2023-06-03,Returned,Credit Card,Website,Pune
+ORD001294,CUST0292,2023-11-07,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001295,CUST0292,2023-07-27,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001296,CUST0293,2023-10-30,Delivered,Debit Card,Website,Mumbai
+ORD001297,CUST0293,2023-11-25,Returned,UPI,Website,Mumbai
+ORD001298,CUST0293,2023-11-17,Delivered,Debit Card,Website,Mumbai
+ORD001299,CUST0293,2023-12-22,Returned,Net Banking,Website,Mumbai
+ORD001300,CUST0293,2023-12-16,Returned,Credit Card,Website,Mumbai
+ORD001301,CUST0294,2023-07-27,Delivered,Credit Card,Store,Mumbai
+ORD001302,CUST0294,2023-09-18,Returned,Credit Card,Store,Mumbai
+ORD001303,CUST0294,2023-09-13,Returned,Credit Card,Store,Mumbai
+ORD001304,CUST0294,2023-11-30,Delivered,Net Banking,Mobile App,Mumbai
+ORD001305,CUST0295,2023-11-19,Delivered,Cash on Delivery,Store,Delhi
+ORD001306,CUST0295,2023-10-30,Returned,Cash on Delivery,Mobile App,Delhi
+ORD001307,CUST0295,2023-12-13,Returned,Credit Card,Mobile App,Delhi
+ORD001308,CUST0295,2023-10-22,Delivered,Debit Card,Website,Delhi
+ORD001309,CUST0295,2023-11-10,Delivered,Debit Card,Mobile App,Delhi
+ORD001310,CUST0296,2023-08-23,Delivered,Credit Card,Store,Hyderabad
+ORD001311,CUST0296,2023-11-14,Delivered,UPI,Store,Hyderabad
+ORD001312,CUST0296,2023-08-18,Delivered,Credit Card,Store,Hyderabad
+ORD001313,CUST0296,2023-10-09,Returned,Net Banking,Website,Hyderabad
+ORD001314,CUST0297,2023-12-09,Delivered,Credit Card,Website,Delhi
+ORD001315,CUST0297,2023-10-21,Cancelled,Cash on Delivery,Website,Delhi
+ORD001316,CUST0297,2023-10-10,Returned,UPI,Mobile App,Delhi
+ORD001317,CUST0297,2023-10-24,Delivered,UPI,Website,Delhi
+ORD001318,CUST0298,2023-09-14,Returned,Net Banking,Website,Chennai
+ORD001319,CUST0298,2023-03-26,Delivered,Net Banking,Website,Chennai
+ORD001320,CUST0298,2023-05-12,Delivered,UPI,Website,Chennai
+ORD001321,CUST0298,2023-03-28,Delivered,Net Banking,Mobile App,Chennai
+ORD001322,CUST0298,2023-12-23,Cancelled,Cash on Delivery,Website,Chennai
+ORD001323,CUST0299,2023-09-11,Delivered,Credit Card,Website,Chennai
+ORD001324,CUST0299,2023-07-04,Returned,Net Banking,Website,Chennai
+ORD001325,CUST0299,2023-07-27,Delivered,Net Banking,Website,Chennai
+ORD001326,CUST0299,2023-09-25,Delivered,Credit Card,Store,Chennai
+ORD001327,CUST0299,2023-11-16,Delivered,Credit Card,Store,Chennai
+ORD001328,CUST0299,2023-11-15,Delivered,UPI,Website,Chennai
+ORD001329,CUST0300,2023-08-28,Returned,Cash on Delivery,Store,Ahmedabad
+ORD001330,CUST0300,2023-10-17,Cancelled,Net Banking,Store,Ahmedabad
+ORD001331,CUST0300,2023-09-24,Delivered,Debit Card,Store,Ahmedabad
+ORD001332,CUST0300,2023-10-03,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD001333,CUST0301,2023-06-02,Returned,Cash on Delivery,Mobile App,Pune
+ORD001334,CUST0301,2023-11-29,Cancelled,UPI,Mobile App,Pune
+ORD001335,CUST0301,2023-05-15,Returned,UPI,Mobile App,Pune
+ORD001336,CUST0301,2023-10-16,Delivered,UPI,Mobile App,Pune
+ORD001337,CUST0302,2023-08-19,Delivered,Debit Card,Website,Bengaluru
+ORD001338,CUST0302,2023-11-19,Delivered,UPI,Store,Bengaluru
+ORD001339,CUST0302,2023-09-28,Returned,UPI,Website,Bengaluru
+ORD001340,CUST0303,2023-12-08,Cancelled,UPI,Website,Kolkata
+ORD001341,CUST0303,2023-12-04,Cancelled,Net Banking,Mobile App,Kolkata
+ORD001342,CUST0303,2023-10-19,Delivered,Debit Card,Mobile App,Kolkata
+ORD001343,CUST0303,2023-05-03,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001344,CUST0303,2023-12-11,Delivered,Net Banking,Mobile App,Kolkata
+ORD001345,CUST0303,2023-11-24,Delivered,UPI,Website,Kolkata
+ORD001346,CUST0303,2023-11-06,Delivered,Net Banking,Mobile App,Kolkata
+ORD001347,CUST0303,2023-05-03,Delivered,UPI,Mobile App,Kolkata
+ORD001348,CUST0303,2023-10-01,Delivered,Credit Card,Mobile App,Kolkata
+ORD001349,CUST0304,2023-11-03,Returned,Debit Card,Mobile App,Kolkata
+ORD001350,CUST0304,2023-11-20,Cancelled,Credit Card,Mobile App,Kolkata
+ORD001351,CUST0304,2023-11-28,Returned,Debit Card,Mobile App,Kolkata
+ORD001352,CUST0304,2023-11-03,Cancelled,Cash on Delivery,Mobile App,Kolkata
+ORD001353,CUST0304,2023-09-01,Delivered,Debit Card,Mobile App,Kolkata
+ORD001354,CUST0304,2023-08-22,Delivered,Cash on Delivery,Website,Kolkata
+ORD001355,CUST0304,2023-11-13,Delivered,Net Banking,Mobile App,Kolkata
+ORD001356,CUST0304,2023-09-13,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001357,CUST0305,2023-08-06,Cancelled,UPI,Website,Pune
+ORD001358,CUST0305,2023-07-13,Delivered,Credit Card,Website,Pune
+ORD001359,CUST0305,2023-05-26,Delivered,Net Banking,Store,Pune
+ORD001360,CUST0306,2023-06-14,Returned,Debit Card,Mobile App,Pune
+ORD001361,CUST0306,2023-11-14,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001362,CUST0306,2023-12-29,Cancelled,Credit Card,Mobile App,Pune
+ORD001363,CUST0306,2023-03-15,Delivered,Net Banking,Mobile App,Pune
+ORD001364,CUST0307,2023-03-02,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001365,CUST0308,2023-12-26,Delivered,Cash on Delivery,Website,Pune
+ORD001366,CUST0308,2023-12-16,Delivered,Net Banking,Store,Pune
+ORD001367,CUST0308,2023-11-24,Delivered,Credit Card,Website,Pune
+ORD001368,CUST0308,2023-12-04,Returned,Credit Card,Website,Pune
+ORD001369,CUST0308,2023-11-15,Delivered,UPI,Website,Pune
+ORD001370,CUST0308,2023-11-11,Cancelled,Net Banking,Website,Pune
+ORD001371,CUST0308,2023-10-16,Delivered,Credit Card,Website,Pune
+ORD001372,CUST0309,2023-12-21,Delivered,Net Banking,Website,Delhi
+ORD001373,CUST0309,2023-11-11,Delivered,Cash on Delivery,Website,Delhi
+ORD001374,CUST0309,2023-09-27,Delivered,UPI,Mobile App,Delhi
+ORD001375,CUST0309,2023-08-18,Cancelled,Net Banking,Website,Delhi
+ORD001376,CUST0309,2023-11-20,Delivered,Cash on Delivery,Website,Delhi
+ORD001377,CUST0310,2023-10-10,Delivered,Debit Card,Mobile App,Pune
+ORD001378,CUST0310,2023-06-23,Delivered,Credit Card,Website,Pune
+ORD001379,CUST0310,2023-10-06,Delivered,Net Banking,Mobile App,Pune
+ORD001380,CUST0310,2023-06-25,Delivered,Debit Card,Website,Pune
+ORD001381,CUST0311,2023-09-24,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD001382,CUST0311,2023-11-22,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001383,CUST0311,2023-11-11,Delivered,UPI,Mobile App,Ahmedabad
+ORD001384,CUST0311,2023-11-18,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001385,CUST0311,2023-09-22,Cancelled,Credit Card,Mobile App,Ahmedabad
+ORD001386,CUST0311,2023-11-01,Delivered,Net Banking,Website,Ahmedabad
+ORD001387,CUST0311,2023-08-30,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001388,CUST0312,2023-05-19,Cancelled,Net Banking,Mobile App,Ahmedabad
+ORD001389,CUST0312,2023-12-23,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001390,CUST0312,2023-04-13,Returned,UPI,Website,Ahmedabad
+ORD001391,CUST0312,2023-09-25,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001392,CUST0313,2023-10-25,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001393,CUST0313,2023-07-14,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD001394,CUST0313,2023-05-03,Delivered,Net Banking,Mobile App,Bengaluru
+ORD001395,CUST0314,2023-08-12,Delivered,UPI,Website,Bengaluru
+ORD001396,CUST0314,2023-10-24,Delivered,Debit Card,Website,Bengaluru
+ORD001397,CUST0314,2023-11-29,Delivered,UPI,Website,Bengaluru
+ORD001398,CUST0314,2023-12-01,Cancelled,Debit Card,Website,Bengaluru
+ORD001399,CUST0314,2023-12-20,Returned,UPI,Website,Bengaluru
+ORD001400,CUST0314,2023-11-13,Delivered,Cash on Delivery,Website,Bengaluru
+ORD001401,CUST0315,2023-09-15,Delivered,Net Banking,Website,Chennai
+ORD001402,CUST0315,2023-07-22,Returned,Net Banking,Website,Chennai
+ORD001403,CUST0315,2023-10-21,Delivered,Cash on Delivery,Website,Chennai
+ORD001404,CUST0315,2023-11-07,Delivered,Net Banking,Website,Chennai
+ORD001405,CUST0316,2023-09-03,Returned,Credit Card,Store,Hyderabad
+ORD001406,CUST0316,2023-11-11,Returned,Credit Card,Website,Hyderabad
+ORD001407,CUST0316,2023-11-15,Delivered,Net Banking,Website,Hyderabad
+ORD001408,CUST0317,2023-10-27,Cancelled,Net Banking,Mobile App,Pune
+ORD001409,CUST0317,2023-11-11,Delivered,Net Banking,Store,Pune
+ORD001410,CUST0317,2023-12-14,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001411,CUST0317,2023-12-05,Returned,Net Banking,Website,Pune
+ORD001412,CUST0317,2023-06-10,Returned,Debit Card,Mobile App,Pune
+ORD001413,CUST0318,2023-09-10,Delivered,Credit Card,Mobile App,Delhi
+ORD001414,CUST0318,2023-11-28,Delivered,Credit Card,Mobile App,Delhi
+ORD001415,CUST0318,2023-06-30,Delivered,Debit Card,Mobile App,Delhi
+ORD001416,CUST0318,2023-08-14,Delivered,Debit Card,Mobile App,Delhi
+ORD001417,CUST0318,2023-06-15,Returned,Credit Card,Mobile App,Delhi
+ORD001418,CUST0318,2023-10-13,Delivered,Credit Card,Website,Delhi
+ORD001419,CUST0318,2023-07-15,Delivered,Debit Card,Mobile App,Delhi
+ORD001420,CUST0318,2023-07-19,Delivered,UPI,Mobile App,Delhi
+ORD001421,CUST0319,2023-05-12,Delivered,Net Banking,Store,Delhi
+ORD001422,CUST0319,2023-07-12,Delivered,Credit Card,Website,Delhi
+ORD001423,CUST0320,2023-07-13,Delivered,Debit Card,Mobile App,Mumbai
+ORD001424,CUST0320,2023-03-30,Returned,Debit Card,Website,Mumbai
+ORD001425,CUST0320,2023-04-07,Delivered,UPI,Mobile App,Mumbai
+ORD001426,CUST0320,2023-08-05,Returned,Cash on Delivery,Mobile App,Mumbai
+ORD001427,CUST0320,2023-06-14,Returned,Credit Card,Mobile App,Mumbai
+ORD001428,CUST0321,2023-07-22,Delivered,UPI,Mobile App,Hyderabad
+ORD001429,CUST0321,2023-04-09,Delivered,UPI,Website,Hyderabad
+ORD001430,CUST0321,2023-07-16,Cancelled,UPI,Website,Hyderabad
+ORD001431,CUST0321,2023-08-01,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001432,CUST0321,2023-06-09,Cancelled,Debit Card,Website,Hyderabad
+ORD001433,CUST0321,2023-06-10,Delivered,Net Banking,Website,Hyderabad
+ORD001434,CUST0322,2023-03-23,Delivered,Cash on Delivery,Website,Delhi
+ORD001435,CUST0322,2023-12-28,Cancelled,Net Banking,Mobile App,Delhi
+ORD001436,CUST0322,2023-10-14,Delivered,Net Banking,Mobile App,Delhi
+ORD001437,CUST0322,2023-08-09,Delivered,UPI,Mobile App,Delhi
+ORD001438,CUST0322,2023-09-15,Delivered,Credit Card,Mobile App,Delhi
+ORD001439,CUST0322,2023-08-28,Delivered,Debit Card,Website,Delhi
+ORD001440,CUST0322,2023-10-07,Cancelled,Debit Card,Mobile App,Delhi
+ORD001441,CUST0322,2023-06-26,Delivered,Net Banking,Mobile App,Delhi
+ORD001442,CUST0322,2023-06-09,Delivered,Credit Card,Mobile App,Delhi
+ORD001443,CUST0323,2023-08-19,Delivered,Net Banking,Mobile App,Bengaluru
+ORD001444,CUST0323,2023-09-21,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001445,CUST0323,2023-12-13,Delivered,Credit Card,Mobile App,Bengaluru
+ORD001446,CUST0324,2023-12-18,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001447,CUST0324,2023-11-12,Delivered,Credit Card,Website,Ahmedabad
+ORD001448,CUST0325,2023-10-06,Delivered,Cash on Delivery,Website,Kolkata
+ORD001449,CUST0325,2023-07-23,Delivered,Debit Card,Mobile App,Kolkata
+ORD001450,CUST0325,2023-05-14,Delivered,Net Banking,Website,Kolkata
+ORD001451,CUST0325,2023-09-01,Delivered,Cash on Delivery,Website,Kolkata
+ORD001452,CUST0326,2023-09-08,Cancelled,Cash on Delivery,Store,Kolkata
+ORD001453,CUST0326,2023-09-24,Delivered,Credit Card,Mobile App,Kolkata
+ORD001454,CUST0326,2023-11-07,Delivered,UPI,Mobile App,Kolkata
+ORD001455,CUST0326,2023-12-26,Delivered,Debit Card,Store,Kolkata
+ORD001456,CUST0326,2023-09-19,Returned,Credit Card,Store,Kolkata
+ORD001457,CUST0326,2023-12-26,Returned,Cash on Delivery,Store,Kolkata
+ORD001458,CUST0326,2023-10-31,Delivered,Debit Card,Website,Kolkata
+ORD001459,CUST0326,2023-11-16,Cancelled,Debit Card,Store,Kolkata
+ORD001460,CUST0326,2023-11-19,Delivered,Net Banking,Store,Kolkata
+ORD001461,CUST0327,2023-10-16,Delivered,Cash on Delivery,Store,Chennai
+ORD001462,CUST0327,2023-08-17,Delivered,Net Banking,Store,Chennai
+ORD001463,CUST0327,2023-10-03,Delivered,Debit Card,Store,Chennai
+ORD001464,CUST0328,2023-12-09,Delivered,Debit Card,Mobile App,Mumbai
+ORD001465,CUST0328,2023-05-27,Returned,Cash on Delivery,Mobile App,Mumbai
+ORD001466,CUST0328,2023-09-29,Delivered,UPI,Mobile App,Mumbai
+ORD001467,CUST0329,2023-10-08,Delivered,Cash on Delivery,Store,Pune
+ORD001468,CUST0329,2023-08-21,Delivered,Cash on Delivery,Website,Pune
+ORD001469,CUST0329,2023-11-29,Delivered,Cash on Delivery,Website,Pune
+ORD001470,CUST0329,2023-07-27,Delivered,Debit Card,Mobile App,Pune
+ORD001471,CUST0329,2023-08-14,Delivered,UPI,Website,Pune
+ORD001472,CUST0330,2023-11-22,Returned,Debit Card,Mobile App,Chennai
+ORD001473,CUST0330,2023-04-08,Cancelled,Cash on Delivery,Mobile App,Chennai
+ORD001474,CUST0330,2023-06-28,Delivered,UPI,Mobile App,Chennai
+ORD001475,CUST0330,2023-10-25,Delivered,Debit Card,Website,Chennai
+ORD001476,CUST0330,2023-10-14,Returned,Net Banking,Mobile App,Chennai
+ORD001477,CUST0331,2023-05-11,Delivered,UPI,Website,Ahmedabad
+ORD001478,CUST0332,2023-09-12,Delivered,Net Banking,Website,Hyderabad
+ORD001479,CUST0332,2023-05-23,Delivered,UPI,Mobile App,Hyderabad
+ORD001480,CUST0333,2023-12-27,Delivered,UPI,Mobile App,Delhi
+ORD001481,CUST0333,2023-07-27,Returned,Cash on Delivery,Mobile App,Delhi
+ORD001482,CUST0333,2023-12-27,Delivered,Debit Card,Website,Delhi
+ORD001483,CUST0334,2023-10-06,Delivered,UPI,Mobile App,Chennai
+ORD001484,CUST0334,2023-07-11,Returned,Credit Card,Mobile App,Chennai
+ORD001485,CUST0334,2023-09-26,Delivered,Debit Card,Mobile App,Chennai
+ORD001486,CUST0334,2023-07-09,Delivered,Credit Card,Mobile App,Chennai
+ORD001487,CUST0334,2023-06-17,Delivered,Debit Card,Website,Chennai
+ORD001488,CUST0335,2023-11-22,Delivered,Debit Card,Website,Hyderabad
+ORD001489,CUST0335,2023-10-04,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001490,CUST0335,2023-10-06,Delivered,Credit Card,Website,Hyderabad
+ORD001491,CUST0335,2023-09-24,Delivered,Debit Card,Website,Hyderabad
+ORD001492,CUST0335,2023-12-16,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001493,CUST0335,2023-11-12,Delivered,Debit Card,Website,Hyderabad
+ORD001494,CUST0335,2023-10-01,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001495,CUST0336,2023-04-14,Cancelled,Net Banking,Website,Pune
+ORD001496,CUST0337,2023-10-22,Delivered,UPI,Website,Hyderabad
+ORD001497,CUST0337,2023-10-28,Delivered,Credit Card,Website,Hyderabad
+ORD001498,CUST0337,2023-10-29,Delivered,UPI,Website,Hyderabad
+ORD001499,CUST0337,2023-12-28,Returned,Cash on Delivery,Website,Hyderabad
+ORD001500,CUST0337,2023-11-30,Delivered,Credit Card,Website,Hyderabad
+ORD001501,CUST0337,2023-12-05,Cancelled,Net Banking,Website,Hyderabad
+ORD001502,CUST0338,2023-11-30,Delivered,UPI,Mobile App,Bengaluru
+ORD001503,CUST0338,2023-12-24,Delivered,Credit Card,Website,Bengaluru
+ORD001504,CUST0338,2023-11-26,Delivered,Debit Card,Website,Bengaluru
+ORD001505,CUST0339,2023-08-04,Delivered,Debit Card,Mobile App,Delhi
+ORD001506,CUST0339,2023-12-24,Delivered,Net Banking,Mobile App,Delhi
+ORD001507,CUST0339,2023-07-08,Delivered,Net Banking,Mobile App,Delhi
+ORD001508,CUST0339,2023-12-12,Delivered,Debit Card,Store,Delhi
+ORD001509,CUST0339,2023-12-28,Delivered,Credit Card,Mobile App,Delhi
+ORD001510,CUST0340,2023-07-02,Delivered,Debit Card,Website,Ahmedabad
+ORD001511,CUST0340,2023-09-28,Returned,Credit Card,Website,Ahmedabad
+ORD001512,CUST0340,2023-10-13,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001513,CUST0341,2023-09-13,Delivered,Net Banking,Store,Kolkata
+ORD001514,CUST0341,2023-06-14,Cancelled,Cash on Delivery,Mobile App,Kolkata
+ORD001515,CUST0341,2023-07-27,Delivered,Debit Card,Mobile App,Kolkata
+ORD001516,CUST0341,2023-05-04,Delivered,Credit Card,Mobile App,Kolkata
+ORD001517,CUST0341,2023-06-22,Cancelled,UPI,Mobile App,Kolkata
+ORD001518,CUST0341,2023-07-26,Returned,Net Banking,Website,Kolkata
+ORD001519,CUST0341,2023-10-29,Delivered,Credit Card,Mobile App,Kolkata
+ORD001520,CUST0341,2023-12-29,Delivered,UPI,Mobile App,Kolkata
+ORD001521,CUST0342,2023-12-30,Cancelled,Credit Card,Website,Hyderabad
+ORD001522,CUST0342,2023-12-21,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001523,CUST0343,2023-08-28,Delivered,Debit Card,Mobile App,Delhi
+ORD001524,CUST0343,2023-08-08,Cancelled,UPI,Mobile App,Delhi
+ORD001525,CUST0343,2023-11-21,Delivered,Net Banking,Mobile App,Delhi
+ORD001526,CUST0344,2023-08-08,Returned,Credit Card,Mobile App,Pune
+ORD001527,CUST0344,2023-05-08,Delivered,Debit Card,Website,Pune
+ORD001528,CUST0344,2023-04-24,Delivered,Credit Card,Website,Pune
+ORD001529,CUST0344,2023-09-18,Delivered,Debit Card,Website,Pune
+ORD001530,CUST0345,2023-09-29,Cancelled,Cash on Delivery,Mobile App,Hyderabad
+ORD001531,CUST0345,2023-11-04,Delivered,Credit Card,Mobile App,Hyderabad
+ORD001532,CUST0345,2023-08-22,Returned,Credit Card,Mobile App,Hyderabad
+ORD001533,CUST0346,2023-10-12,Delivered,Net Banking,Mobile App,Pune
+ORD001534,CUST0346,2023-10-10,Returned,Debit Card,Mobile App,Pune
+ORD001535,CUST0346,2023-08-03,Delivered,Credit Card,Mobile App,Pune
+ORD001536,CUST0346,2023-10-24,Delivered,UPI,Mobile App,Pune
+ORD001537,CUST0346,2023-07-20,Delivered,UPI,Mobile App,Pune
+ORD001538,CUST0347,2023-11-12,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001539,CUST0347,2023-11-24,Delivered,Credit Card,Mobile App,Mumbai
+ORD001540,CUST0347,2023-10-04,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001541,CUST0347,2023-10-05,Cancelled,UPI,Mobile App,Mumbai
+ORD001542,CUST0347,2023-11-22,Delivered,Debit Card,Store,Mumbai
+ORD001543,CUST0347,2023-10-25,Delivered,Debit Card,Mobile App,Mumbai
+ORD001544,CUST0347,2023-11-16,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001545,CUST0347,2023-10-29,Cancelled,Credit Card,Mobile App,Mumbai
+ORD001546,CUST0348,2023-10-21,Delivered,Net Banking,Mobile App,Delhi
+ORD001547,CUST0348,2023-10-24,Delivered,Debit Card,Mobile App,Delhi
+ORD001548,CUST0348,2023-12-24,Delivered,UPI,Mobile App,Delhi
+ORD001549,CUST0349,2023-11-01,Delivered,UPI,Mobile App,Pune
+ORD001550,CUST0349,2023-12-13,Delivered,UPI,Mobile App,Pune
+ORD001551,CUST0349,2023-04-29,Returned,Net Banking,Mobile App,Pune
+ORD001552,CUST0349,2023-05-02,Returned,Net Banking,Store,Pune
+ORD001553,CUST0349,2023-06-19,Delivered,UPI,Mobile App,Pune
+ORD001554,CUST0349,2023-09-11,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001555,CUST0350,2023-11-15,Delivered,Credit Card,Website,Mumbai
+ORD001556,CUST0350,2023-11-15,Delivered,Credit Card,Website,Mumbai
+ORD001557,CUST0351,2023-09-21,Delivered,Credit Card,Store,Pune
+ORD001558,CUST0352,2023-08-23,Returned,Cash on Delivery,Mobile App,Hyderabad
+ORD001559,CUST0352,2023-10-07,Delivered,UPI,Mobile App,Hyderabad
+ORD001560,CUST0352,2023-05-16,Cancelled,Cash on Delivery,Mobile App,Hyderabad
+ORD001561,CUST0352,2023-07-21,Cancelled,UPI,Mobile App,Hyderabad
+ORD001562,CUST0353,2023-11-01,Returned,Debit Card,Mobile App,Mumbai
+ORD001563,CUST0353,2023-08-13,Returned,Net Banking,Mobile App,Mumbai
+ORD001564,CUST0353,2023-12-02,Delivered,UPI,Mobile App,Mumbai
+ORD001565,CUST0353,2023-06-02,Delivered,UPI,Mobile App,Mumbai
+ORD001566,CUST0353,2023-07-31,Delivered,Debit Card,Store,Mumbai
+ORD001567,CUST0354,2023-09-27,Delivered,Net Banking,Website,Kolkata
+ORD001568,CUST0354,2023-07-28,Delivered,UPI,Website,Kolkata
+ORD001569,CUST0354,2023-10-22,Delivered,UPI,Website,Kolkata
+ORD001570,CUST0355,2023-11-06,Delivered,Credit Card,Mobile App,Pune
+ORD001571,CUST0355,2023-10-12,Delivered,Net Banking,Store,Pune
+ORD001572,CUST0355,2023-12-30,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001573,CUST0355,2023-10-27,Delivered,Credit Card,Store,Pune
+ORD001574,CUST0355,2023-09-16,Delivered,Credit Card,Mobile App,Pune
+ORD001575,CUST0356,2023-10-26,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001576,CUST0356,2023-09-22,Delivered,Net Banking,Store,Kolkata
+ORD001577,CUST0356,2023-07-09,Cancelled,Cash on Delivery,Store,Kolkata
+ORD001578,CUST0356,2023-10-03,Delivered,Debit Card,Store,Kolkata
+ORD001579,CUST0357,2023-11-07,Cancelled,Cash on Delivery,Mobile App,Ahmedabad
+ORD001580,CUST0357,2023-10-01,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD001581,CUST0357,2023-11-15,Delivered,Net Banking,Store,Ahmedabad
+ORD001582,CUST0357,2023-11-14,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001583,CUST0357,2023-11-05,Returned,UPI,Store,Ahmedabad
+ORD001584,CUST0357,2023-10-27,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001585,CUST0358,2023-10-25,Delivered,Debit Card,Mobile App,Pune
+ORD001586,CUST0358,2023-03-22,Cancelled,Net Banking,Website,Pune
+ORD001587,CUST0358,2023-09-11,Delivered,Debit Card,Mobile App,Pune
+ORD001588,CUST0359,2023-11-30,Delivered,Net Banking,Mobile App,Kolkata
+ORD001589,CUST0359,2023-12-30,Cancelled,Cash on Delivery,Mobile App,Kolkata
+ORD001590,CUST0359,2023-10-17,Delivered,Debit Card,Website,Kolkata
+ORD001591,CUST0360,2023-11-13,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001592,CUST0360,2023-12-09,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001593,CUST0360,2023-09-11,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001594,CUST0360,2023-12-26,Delivered,Cash on Delivery,Store,Mumbai
+ORD001595,CUST0360,2023-09-02,Delivered,UPI,Mobile App,Mumbai
+ORD001596,CUST0360,2023-09-29,Cancelled,UPI,Mobile App,Mumbai
+ORD001597,CUST0360,2023-09-04,Delivered,Debit Card,Mobile App,Mumbai
+ORD001598,CUST0360,2023-10-17,Delivered,Credit Card,Mobile App,Mumbai
+ORD001599,CUST0361,2023-07-16,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001600,CUST0361,2023-11-05,Delivered,UPI,Mobile App,Ahmedabad
+ORD001601,CUST0361,2023-09-14,Delivered,Credit Card,Website,Ahmedabad
+ORD001602,CUST0361,2023-04-19,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001603,CUST0361,2023-08-12,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001604,CUST0361,2023-08-15,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001605,CUST0362,2023-12-16,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD001606,CUST0362,2023-10-21,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001607,CUST0362,2023-09-03,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001608,CUST0362,2023-11-22,Returned,UPI,Mobile App,Ahmedabad
+ORD001609,CUST0363,2023-10-12,Delivered,Credit Card,Website,Pune
+ORD001610,CUST0363,2023-07-08,Delivered,Net Banking,Website,Pune
+ORD001611,CUST0364,2023-08-16,Delivered,Credit Card,Store,Kolkata
+ORD001612,CUST0364,2023-10-09,Delivered,Debit Card,Store,Kolkata
+ORD001613,CUST0364,2023-09-09,Returned,Credit Card,Mobile App,Kolkata
+ORD001614,CUST0364,2023-12-01,Delivered,Net Banking,Store,Kolkata
+ORD001615,CUST0365,2023-07-30,Delivered,Net Banking,Mobile App,Pune
+ORD001616,CUST0365,2023-12-14,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001617,CUST0365,2023-09-18,Returned,UPI,Mobile App,Pune
+ORD001618,CUST0366,2023-08-26,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001619,CUST0366,2023-10-02,Delivered,Net Banking,Store,Ahmedabad
+ORD001620,CUST0366,2023-08-16,Delivered,Net Banking,Website,Ahmedabad
+ORD001621,CUST0366,2023-10-02,Delivered,UPI,Website,Ahmedabad
+ORD001622,CUST0367,2023-07-01,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD001623,CUST0367,2023-06-01,Delivered,Net Banking,Store,Ahmedabad
+ORD001624,CUST0367,2023-10-22,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001625,CUST0367,2023-02-14,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD001626,CUST0367,2023-03-29,Returned,Net Banking,Mobile App,Ahmedabad
+ORD001627,CUST0367,2023-08-09,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD001628,CUST0368,2023-09-12,Delivered,Net Banking,Website,Chennai
+ORD001629,CUST0368,2023-12-02,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD001630,CUST0368,2023-11-13,Delivered,Cash on Delivery,Website,Chennai
+ORD001631,CUST0368,2023-06-12,Returned,Credit Card,Website,Chennai
+ORD001632,CUST0368,2023-03-29,Cancelled,Debit Card,Mobile App,Chennai
+ORD001633,CUST0368,2023-06-04,Delivered,UPI,Website,Chennai
+ORD001634,CUST0369,2023-12-03,Delivered,Credit Card,Mobile App,Kolkata
+ORD001635,CUST0369,2023-08-20,Returned,Credit Card,Mobile App,Kolkata
+ORD001636,CUST0369,2023-11-02,Delivered,Debit Card,Mobile App,Kolkata
+ORD001637,CUST0369,2023-12-28,Delivered,Debit Card,Mobile App,Kolkata
+ORD001638,CUST0370,2023-08-01,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD001639,CUST0370,2023-11-13,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001640,CUST0370,2023-11-06,Delivered,UPI,Store,Ahmedabad
+ORD001641,CUST0370,2023-12-21,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001642,CUST0370,2023-11-07,Delivered,UPI,Store,Ahmedabad
+ORD001643,CUST0371,2023-07-04,Delivered,Cash on Delivery,Website,Bengaluru
+ORD001644,CUST0371,2023-09-18,Delivered,Net Banking,Website,Bengaluru
+ORD001645,CUST0371,2023-01-30,Delivered,Credit Card,Website,Bengaluru
+ORD001646,CUST0371,2023-12-16,Delivered,Net Banking,Website,Bengaluru
+ORD001647,CUST0372,2023-07-17,Delivered,Cash on Delivery,Website,Mumbai
+ORD001648,CUST0372,2023-07-12,Delivered,UPI,Website,Mumbai
+ORD001649,CUST0372,2023-06-18,Delivered,Debit Card,Website,Mumbai
+ORD001650,CUST0372,2023-09-29,Delivered,Cash on Delivery,Website,Mumbai
+ORD001651,CUST0372,2023-07-13,Delivered,UPI,Website,Mumbai
+ORD001652,CUST0372,2023-08-18,Delivered,Debit Card,Website,Mumbai
+ORD001653,CUST0372,2023-08-08,Returned,Debit Card,Website,Mumbai
+ORD001654,CUST0372,2023-12-07,Delivered,Credit Card,Website,Mumbai
+ORD001655,CUST0372,2023-07-20,Delivered,UPI,Website,Mumbai
+ORD001656,CUST0373,2023-11-23,Cancelled,Cash on Delivery,Mobile App,Delhi
+ORD001657,CUST0373,2023-10-23,Cancelled,Net Banking,Mobile App,Delhi
+ORD001658,CUST0374,2023-10-14,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001659,CUST0374,2023-11-06,Delivered,Credit Card,Mobile App,Mumbai
+ORD001660,CUST0374,2023-10-11,Delivered,Debit Card,Mobile App,Mumbai
+ORD001661,CUST0374,2023-11-22,Returned,Net Banking,Mobile App,Mumbai
+ORD001662,CUST0375,2023-06-17,Delivered,Debit Card,Website,Hyderabad
+ORD001663,CUST0375,2023-10-01,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001664,CUST0375,2023-07-02,Delivered,Credit Card,Website,Hyderabad
+ORD001665,CUST0376,2023-11-15,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001666,CUST0376,2023-10-31,Delivered,Cash on Delivery,Store,Mumbai
+ORD001667,CUST0377,2023-09-02,Delivered,Debit Card,Store,Bengaluru
+ORD001668,CUST0377,2023-10-06,Delivered,Credit Card,Website,Bengaluru
+ORD001669,CUST0377,2023-08-20,Delivered,UPI,Website,Bengaluru
+ORD001670,CUST0377,2023-11-13,Delivered,UPI,Website,Bengaluru
+ORD001671,CUST0377,2023-09-21,Delivered,UPI,Website,Bengaluru
+ORD001672,CUST0377,2023-12-28,Delivered,Cash on Delivery,Website,Bengaluru
+ORD001673,CUST0378,2023-06-06,Delivered,Net Banking,Store,Bengaluru
+ORD001674,CUST0378,2023-07-23,Cancelled,Credit Card,Store,Bengaluru
+ORD001675,CUST0378,2023-09-22,Delivered,Credit Card,Store,Bengaluru
+ORD001676,CUST0378,2023-08-14,Delivered,UPI,Store,Bengaluru
+ORD001677,CUST0379,2023-11-18,Delivered,Cash on Delivery,Store,Pune
+ORD001678,CUST0379,2023-10-23,Delivered,Credit Card,Store,Pune
+ORD001679,CUST0379,2023-09-19,Cancelled,UPI,Store,Pune
+ORD001680,CUST0379,2023-08-17,Delivered,Credit Card,Store,Pune
+ORD001681,CUST0379,2023-12-13,Returned,Net Banking,Mobile App,Pune
+ORD001682,CUST0380,2023-11-02,Delivered,Cash on Delivery,Store,Delhi
+ORD001683,CUST0381,2023-11-21,Delivered,UPI,Website,Ahmedabad
+ORD001684,CUST0381,2023-09-06,Delivered,Credit Card,Store,Ahmedabad
+ORD001685,CUST0381,2023-11-09,Delivered,Debit Card,Website,Ahmedabad
+ORD001686,CUST0381,2023-07-26,Delivered,Net Banking,Website,Ahmedabad
+ORD001687,CUST0381,2023-06-18,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001688,CUST0381,2023-05-14,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001689,CUST0381,2023-07-27,Delivered,Credit Card,Website,Ahmedabad
+ORD001690,CUST0381,2023-06-14,Returned,Cash on Delivery,Website,Ahmedabad
+ORD001691,CUST0381,2023-07-05,Delivered,UPI,Website,Ahmedabad
+ORD001692,CUST0382,2023-06-09,Delivered,Net Banking,Mobile App,Delhi
+ORD001693,CUST0382,2023-02-21,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD001694,CUST0382,2023-05-05,Returned,UPI,Mobile App,Delhi
+ORD001695,CUST0382,2023-02-23,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD001696,CUST0382,2023-07-10,Delivered,Debit Card,Mobile App,Delhi
+ORD001697,CUST0383,2023-12-17,Delivered,UPI,Mobile App,Ahmedabad
+ORD001698,CUST0383,2023-12-09,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD001699,CUST0383,2023-12-07,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001700,CUST0384,2023-10-07,Delivered,UPI,Website,Chennai
+ORD001701,CUST0384,2023-07-07,Delivered,Debit Card,Website,Chennai
+ORD001702,CUST0384,2023-03-24,Delivered,Cash on Delivery,Website,Chennai
+ORD001703,CUST0384,2023-05-11,Cancelled,Debit Card,Website,Chennai
+ORD001704,CUST0384,2023-07-08,Cancelled,Cash on Delivery,Website,Chennai
+ORD001705,CUST0385,2023-09-21,Delivered,Cash on Delivery,Store,Delhi
+ORD001706,CUST0385,2023-12-27,Delivered,Credit Card,Mobile App,Delhi
+ORD001707,CUST0385,2023-12-17,Cancelled,Net Banking,Store,Delhi
+ORD001708,CUST0385,2023-10-19,Delivered,Net Banking,Store,Delhi
+ORD001709,CUST0386,2023-09-30,Delivered,Credit Card,Website,Mumbai
+ORD001710,CUST0386,2023-10-29,Delivered,Credit Card,Mobile App,Mumbai
+ORD001711,CUST0386,2023-11-11,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001712,CUST0386,2023-06-09,Returned,Net Banking,Website,Mumbai
+ORD001713,CUST0386,2023-09-25,Delivered,Net Banking,Mobile App,Mumbai
+ORD001714,CUST0386,2023-08-12,Delivered,UPI,Mobile App,Mumbai
+ORD001715,CUST0386,2023-05-14,Delivered,Net Banking,Mobile App,Mumbai
+ORD001716,CUST0386,2023-05-15,Delivered,UPI,Mobile App,Mumbai
+ORD001717,CUST0386,2023-05-27,Delivered,UPI,Store,Mumbai
+ORD001718,CUST0387,2023-12-29,Delivered,Net Banking,Mobile App,Bengaluru
+ORD001719,CUST0388,2023-12-23,Delivered,UPI,Store,Chennai
+ORD001720,CUST0388,2023-12-15,Delivered,UPI,Mobile App,Chennai
+ORD001721,CUST0389,2023-10-25,Delivered,UPI,Website,Mumbai
+ORD001722,CUST0389,2023-10-15,Delivered,Net Banking,Store,Mumbai
+ORD001723,CUST0389,2023-12-20,Delivered,Debit Card,Website,Mumbai
+ORD001724,CUST0389,2023-10-29,Delivered,Cash on Delivery,Website,Mumbai
+ORD001725,CUST0389,2023-10-31,Cancelled,Debit Card,Website,Mumbai
+ORD001726,CUST0389,2023-10-31,Delivered,UPI,Website,Mumbai
+ORD001727,CUST0389,2023-10-29,Delivered,Credit Card,Website,Mumbai
+ORD001728,CUST0389,2023-12-27,Delivered,Net Banking,Website,Mumbai
+ORD001729,CUST0389,2023-11-13,Delivered,Cash on Delivery,Website,Mumbai
+ORD001730,CUST0390,2023-11-17,Delivered,UPI,Store,Delhi
+ORD001731,CUST0390,2023-07-24,Delivered,Credit Card,Website,Delhi
+ORD001732,CUST0390,2023-08-21,Delivered,Cash on Delivery,Store,Delhi
+ORD001733,CUST0390,2023-10-20,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD001734,CUST0391,2023-07-30,Cancelled,UPI,Website,Mumbai
+ORD001735,CUST0391,2023-11-30,Delivered,Net Banking,Website,Mumbai
+ORD001736,CUST0391,2023-11-10,Returned,UPI,Website,Mumbai
+ORD001737,CUST0391,2023-12-17,Delivered,UPI,Website,Mumbai
+ORD001738,CUST0391,2023-08-05,Delivered,Net Banking,Website,Mumbai
+ORD001739,CUST0392,2023-05-06,Delivered,Credit Card,Mobile App,Pune
+ORD001740,CUST0392,2023-06-11,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001741,CUST0393,2023-09-14,Delivered,Debit Card,Website,Mumbai
+ORD001742,CUST0393,2023-04-27,Returned,Debit Card,Store,Mumbai
+ORD001743,CUST0394,2023-09-12,Delivered,Cash on Delivery,Website,Mumbai
+ORD001744,CUST0394,2023-12-17,Delivered,Debit Card,Website,Mumbai
+ORD001745,CUST0394,2023-09-05,Delivered,Cash on Delivery,Website,Mumbai
+ORD001746,CUST0394,2023-08-01,Delivered,Credit Card,Website,Mumbai
+ORD001747,CUST0394,2023-05-28,Delivered,Debit Card,Mobile App,Mumbai
+ORD001748,CUST0394,2023-12-28,Delivered,UPI,Website,Mumbai
+ORD001749,CUST0394,2023-07-12,Delivered,Net Banking,Website,Mumbai
+ORD001750,CUST0394,2023-12-01,Delivered,Net Banking,Mobile App,Mumbai
+ORD001751,CUST0394,2023-05-11,Delivered,Credit Card,Website,Mumbai
+ORD001752,CUST0395,2023-11-19,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001753,CUST0395,2023-05-08,Cancelled,Cash on Delivery,Mobile App,Hyderabad
+ORD001754,CUST0395,2023-09-17,Delivered,Debit Card,Mobile App,Hyderabad
+ORD001755,CUST0395,2023-11-17,Delivered,UPI,Mobile App,Hyderabad
+ORD001756,CUST0395,2023-08-02,Delivered,UPI,Mobile App,Hyderabad
+ORD001757,CUST0395,2023-02-15,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD001758,CUST0395,2023-12-07,Delivered,Debit Card,Mobile App,Hyderabad
+ORD001759,CUST0395,2023-11-09,Delivered,Credit Card,Website,Hyderabad
+ORD001760,CUST0396,2023-09-08,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001761,CUST0396,2023-07-17,Delivered,Net Banking,Mobile App,Bengaluru
+ORD001762,CUST0396,2023-12-23,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD001763,CUST0397,2023-06-26,Delivered,Credit Card,Mobile App,Chennai
+ORD001764,CUST0397,2023-11-26,Delivered,UPI,Mobile App,Chennai
+ORD001765,CUST0397,2023-04-19,Delivered,UPI,Mobile App,Chennai
+ORD001766,CUST0397,2023-09-21,Delivered,Net Banking,Mobile App,Chennai
+ORD001767,CUST0398,2023-05-27,Delivered,Net Banking,Website,Ahmedabad
+ORD001768,CUST0398,2023-05-07,Delivered,Credit Card,Website,Ahmedabad
+ORD001769,CUST0398,2023-08-10,Delivered,Cash on Delivery,Website,Ahmedabad
+ORD001770,CUST0398,2023-08-28,Delivered,Debit Card,Website,Ahmedabad
+ORD001771,CUST0399,2023-12-30,Delivered,Credit Card,Mobile App,Kolkata
+ORD001772,CUST0399,2023-10-23,Returned,Credit Card,Mobile App,Kolkata
+ORD001773,CUST0399,2023-12-18,Delivered,Net Banking,Store,Kolkata
+ORD001774,CUST0399,2023-12-17,Delivered,Credit Card,Mobile App,Kolkata
+ORD001775,CUST0399,2023-07-27,Delivered,Net Banking,Store,Kolkata
+ORD001776,CUST0399,2023-09-06,Delivered,UPI,Website,Kolkata
+ORD001777,CUST0399,2023-11-19,Delivered,Debit Card,Mobile App,Kolkata
+ORD001778,CUST0400,2023-10-29,Delivered,Credit Card,Mobile App,Chennai
+ORD001779,CUST0400,2023-09-27,Delivered,Net Banking,Mobile App,Chennai
+ORD001780,CUST0400,2023-11-27,Delivered,UPI,Mobile App,Chennai
+ORD001781,CUST0400,2023-09-27,Returned,Net Banking,Mobile App,Chennai
+ORD001782,CUST0400,2023-10-21,Delivered,Debit Card,Website,Chennai
+ORD001783,CUST0400,2023-11-16,Delivered,Debit Card,Mobile App,Chennai
+ORD001784,CUST0401,2023-11-02,Returned,Cash on Delivery,Mobile App,Pune
+ORD001785,CUST0401,2023-11-05,Delivered,Net Banking,Mobile App,Pune
+ORD001786,CUST0401,2023-12-15,Delivered,Net Banking,Mobile App,Pune
+ORD001787,CUST0401,2023-10-28,Delivered,Net Banking,Mobile App,Pune
+ORD001788,CUST0401,2023-10-29,Returned,UPI,Mobile App,Pune
+ORD001789,CUST0401,2023-12-04,Delivered,Net Banking,Mobile App,Pune
+ORD001790,CUST0402,2023-07-22,Cancelled,Cash on Delivery,Mobile App,Kolkata
+ORD001791,CUST0402,2023-05-17,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001792,CUST0402,2023-12-05,Delivered,Debit Card,Mobile App,Kolkata
+ORD001793,CUST0402,2023-08-07,Delivered,Credit Card,Mobile App,Kolkata
+ORD001794,CUST0403,2023-11-05,Delivered,Credit Card,Website,Hyderabad
+ORD001795,CUST0403,2023-09-11,Returned,Cash on Delivery,Website,Hyderabad
+ORD001796,CUST0403,2023-11-07,Cancelled,Cash on Delivery,Store,Hyderabad
+ORD001797,CUST0403,2023-12-10,Returned,Debit Card,Mobile App,Hyderabad
+ORD001798,CUST0404,2023-10-09,Delivered,Cash on Delivery,Website,Pune
+ORD001799,CUST0404,2023-10-05,Delivered,Net Banking,Website,Pune
+ORD001800,CUST0404,2023-09-03,Delivered,Credit Card,Website,Pune
+ORD001801,CUST0404,2023-11-07,Returned,Net Banking,Website,Pune
+ORD001802,CUST0405,2023-12-25,Delivered,UPI,Mobile App,Delhi
+ORD001803,CUST0405,2023-12-24,Delivered,Net Banking,Store,Delhi
+ORD001804,CUST0406,2023-11-14,Delivered,Cash on Delivery,Store,Chennai
+ORD001805,CUST0406,2023-12-11,Delivered,Credit Card,Website,Chennai
+ORD001806,CUST0406,2023-06-01,Delivered,Net Banking,Store,Chennai
+ORD001807,CUST0406,2023-10-14,Delivered,UPI,Store,Chennai
+ORD001808,CUST0406,2023-11-08,Delivered,Net Banking,Mobile App,Chennai
+ORD001809,CUST0407,2023-08-03,Delivered,Credit Card,Mobile App,Delhi
+ORD001810,CUST0407,2023-08-21,Delivered,Credit Card,Website,Delhi
+ORD001811,CUST0408,2023-12-17,Cancelled,Credit Card,Mobile App,Delhi
+ORD001812,CUST0408,2023-10-28,Delivered,Credit Card,Mobile App,Delhi
+ORD001813,CUST0408,2023-11-07,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD001814,CUST0408,2023-12-18,Delivered,Net Banking,Mobile App,Delhi
+ORD001815,CUST0408,2023-11-09,Delivered,Credit Card,Mobile App,Delhi
+ORD001816,CUST0409,2023-10-15,Delivered,UPI,Website,Kolkata
+ORD001817,CUST0409,2023-10-13,Cancelled,Net Banking,Website,Kolkata
+ORD001818,CUST0409,2023-10-13,Delivered,Net Banking,Website,Kolkata
+ORD001819,CUST0410,2023-03-25,Delivered,Credit Card,Website,Chennai
+ORD001820,CUST0410,2023-03-07,Delivered,Credit Card,Website,Chennai
+ORD001821,CUST0410,2023-07-03,Delivered,Cash on Delivery,Website,Chennai
+ORD001822,CUST0410,2023-12-24,Delivered,Credit Card,Website,Chennai
+ORD001823,CUST0410,2023-06-24,Delivered,Credit Card,Website,Chennai
+ORD001824,CUST0411,2023-05-22,Cancelled,UPI,Website,Hyderabad
+ORD001825,CUST0411,2023-07-15,Delivered,Net Banking,Mobile App,Hyderabad
+ORD001826,CUST0411,2023-03-09,Delivered,Debit Card,Website,Hyderabad
+ORD001827,CUST0411,2023-08-15,Delivered,Credit Card,Website,Hyderabad
+ORD001828,CUST0411,2023-06-21,Delivered,UPI,Website,Hyderabad
+ORD001829,CUST0412,2023-10-18,Delivered,UPI,Website,Mumbai
+ORD001830,CUST0412,2023-09-07,Returned,Cash on Delivery,Mobile App,Mumbai
+ORD001831,CUST0412,2023-11-27,Delivered,UPI,Website,Mumbai
+ORD001832,CUST0413,2023-04-17,Delivered,Credit Card,Mobile App,Delhi
+ORD001833,CUST0413,2023-03-02,Delivered,Credit Card,Store,Delhi
+ORD001834,CUST0413,2023-09-22,Delivered,Net Banking,Store,Delhi
+ORD001835,CUST0413,2023-11-08,Delivered,Credit Card,Mobile App,Delhi
+ORD001836,CUST0414,2023-12-25,Delivered,UPI,Mobile App,Kolkata
+ORD001837,CUST0414,2023-09-30,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001838,CUST0414,2023-11-05,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001839,CUST0414,2023-11-05,Delivered,Debit Card,Mobile App,Kolkata
+ORD001840,CUST0414,2023-12-05,Delivered,Debit Card,Mobile App,Kolkata
+ORD001841,CUST0415,2023-11-06,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001842,CUST0415,2023-08-22,Delivered,Net Banking,Website,Hyderabad
+ORD001843,CUST0415,2023-09-30,Returned,Credit Card,Website,Hyderabad
+ORD001844,CUST0415,2023-07-31,Delivered,Net Banking,Website,Hyderabad
+ORD001845,CUST0415,2023-09-13,Delivered,Credit Card,Website,Hyderabad
+ORD001846,CUST0415,2023-09-11,Returned,Credit Card,Store,Hyderabad
+ORD001847,CUST0416,2023-08-15,Delivered,Credit Card,Store,Ahmedabad
+ORD001848,CUST0416,2023-07-02,Delivered,UPI,Store,Ahmedabad
+ORD001849,CUST0417,2023-03-19,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD001850,CUST0417,2023-06-30,Returned,UPI,Mobile App,Ahmedabad
+ORD001851,CUST0418,2023-10-19,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001852,CUST0418,2023-04-23,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001853,CUST0418,2023-05-20,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001854,CUST0418,2023-04-05,Delivered,Credit Card,Website,Kolkata
+ORD001855,CUST0418,2023-06-10,Delivered,UPI,Mobile App,Kolkata
+ORD001856,CUST0418,2023-12-25,Delivered,Net Banking,Mobile App,Kolkata
+ORD001857,CUST0418,2023-09-07,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001858,CUST0419,2023-08-26,Delivered,Net Banking,Mobile App,Mumbai
+ORD001859,CUST0419,2023-10-21,Returned,Net Banking,Mobile App,Mumbai
+ORD001860,CUST0419,2023-11-23,Delivered,Debit Card,Store,Mumbai
+ORD001861,CUST0419,2023-06-14,Cancelled,UPI,Store,Mumbai
+ORD001862,CUST0419,2023-10-26,Returned,Credit Card,Mobile App,Mumbai
+ORD001863,CUST0419,2023-08-14,Returned,Debit Card,Mobile App,Mumbai
+ORD001864,CUST0420,2023-11-05,Delivered,UPI,Mobile App,Mumbai
+ORD001865,CUST0420,2023-09-06,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD001866,CUST0421,2023-10-27,Delivered,Debit Card,Mobile App,Chennai
+ORD001867,CUST0421,2023-04-10,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD001868,CUST0421,2023-08-15,Cancelled,Credit Card,Mobile App,Chennai
+ORD001869,CUST0421,2023-07-10,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD001870,CUST0421,2023-11-18,Returned,Net Banking,Mobile App,Chennai
+ORD001871,CUST0422,2023-09-11,Delivered,Credit Card,Mobile App,Bengaluru
+ORD001872,CUST0422,2023-06-02,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD001873,CUST0423,2023-10-23,Cancelled,UPI,Store,Kolkata
+ORD001874,CUST0423,2023-12-23,Delivered,Debit Card,Mobile App,Kolkata
+ORD001875,CUST0423,2023-09-20,Delivered,Net Banking,Store,Kolkata
+ORD001876,CUST0423,2023-10-10,Returned,Debit Card,Mobile App,Kolkata
+ORD001877,CUST0423,2023-10-07,Cancelled,UPI,Store,Kolkata
+ORD001878,CUST0423,2023-12-26,Delivered,Credit Card,Mobile App,Kolkata
+ORD001879,CUST0423,2023-11-14,Delivered,Net Banking,Store,Kolkata
+ORD001880,CUST0424,2023-07-28,Delivered,Net Banking,Website,Bengaluru
+ORD001881,CUST0424,2023-11-21,Delivered,UPI,Website,Bengaluru
+ORD001882,CUST0424,2023-12-04,Delivered,Net Banking,Store,Bengaluru
+ORD001883,CUST0425,2023-06-11,Delivered,Credit Card,Mobile App,Delhi
+ORD001884,CUST0425,2023-07-13,Delivered,Net Banking,Mobile App,Delhi
+ORD001885,CUST0425,2023-09-13,Cancelled,UPI,Website,Delhi
+ORD001886,CUST0426,2023-12-05,Returned,Debit Card,Store,Mumbai
+ORD001887,CUST0426,2023-12-06,Returned,Net Banking,Mobile App,Mumbai
+ORD001888,CUST0426,2023-10-30,Delivered,UPI,Store,Mumbai
+ORD001889,CUST0426,2023-08-23,Cancelled,UPI,Store,Mumbai
+ORD001890,CUST0426,2023-09-23,Delivered,Credit Card,Store,Mumbai
+ORD001891,CUST0426,2023-12-23,Delivered,UPI,Website,Mumbai
+ORD001892,CUST0426,2023-12-20,Delivered,Cash on Delivery,Store,Mumbai
+ORD001893,CUST0426,2023-10-11,Returned,Cash on Delivery,Store,Mumbai
+ORD001894,CUST0426,2023-09-11,Delivered,Debit Card,Website,Mumbai
+ORD001895,CUST0427,2023-08-20,Delivered,Credit Card,Mobile App,Bengaluru
+ORD001896,CUST0427,2023-12-02,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001897,CUST0427,2023-08-10,Delivered,Credit Card,Store,Bengaluru
+ORD001898,CUST0428,2023-09-05,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001899,CUST0428,2023-08-06,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001900,CUST0428,2023-08-22,Delivered,Cash on Delivery,Mobile App,Pune
+ORD001901,CUST0428,2023-11-27,Delivered,UPI,Mobile App,Pune
+ORD001902,CUST0429,2023-05-13,Delivered,Credit Card,Mobile App,Delhi
+ORD001903,CUST0429,2023-06-07,Delivered,Net Banking,Mobile App,Delhi
+ORD001904,CUST0429,2023-09-05,Delivered,UPI,Mobile App,Delhi
+ORD001905,CUST0429,2023-12-03,Delivered,UPI,Store,Delhi
+ORD001906,CUST0429,2023-08-01,Delivered,Net Banking,Mobile App,Delhi
+ORD001907,CUST0429,2023-10-15,Delivered,Credit Card,Mobile App,Delhi
+ORD001908,CUST0429,2023-05-14,Delivered,Credit Card,Mobile App,Delhi
+ORD001909,CUST0429,2023-03-28,Delivered,UPI,Mobile App,Delhi
+ORD001910,CUST0429,2023-04-09,Cancelled,Cash on Delivery,Mobile App,Delhi
+ORD001911,CUST0430,2023-06-08,Delivered,Credit Card,Mobile App,Kolkata
+ORD001912,CUST0430,2023-06-01,Delivered,Credit Card,Mobile App,Kolkata
+ORD001913,CUST0430,2023-09-09,Delivered,Debit Card,Mobile App,Kolkata
+ORD001914,CUST0430,2023-06-02,Returned,Credit Card,Website,Kolkata
+ORD001915,CUST0430,2023-08-19,Delivered,Net Banking,Mobile App,Kolkata
+ORD001916,CUST0430,2023-11-24,Delivered,Cash on Delivery,Website,Kolkata
+ORD001917,CUST0431,2023-08-20,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001918,CUST0431,2023-05-01,Delivered,Net Banking,Store,Bengaluru
+ORD001919,CUST0432,2023-12-24,Delivered,Net Banking,Mobile App,Bengaluru
+ORD001920,CUST0432,2023-12-04,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001921,CUST0432,2023-05-27,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001922,CUST0432,2023-06-16,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001923,CUST0432,2023-09-03,Delivered,Net Banking,Mobile App,Bengaluru
+ORD001924,CUST0432,2023-11-21,Cancelled,Credit Card,Mobile App,Bengaluru
+ORD001925,CUST0433,2023-05-02,Delivered,UPI,Store,Pune
+ORD001926,CUST0433,2023-12-18,Delivered,UPI,Website,Pune
+ORD001927,CUST0433,2023-03-03,Delivered,Credit Card,Website,Pune
+ORD001928,CUST0433,2023-04-21,Delivered,UPI,Website,Pune
+ORD001929,CUST0433,2023-08-25,Delivered,Debit Card,Website,Pune
+ORD001930,CUST0433,2023-07-04,Returned,Net Banking,Website,Pune
+ORD001931,CUST0433,2023-07-24,Cancelled,Credit Card,Website,Pune
+ORD001932,CUST0433,2023-08-20,Delivered,Credit Card,Website,Pune
+ORD001933,CUST0433,2023-06-01,Delivered,Cash on Delivery,Website,Pune
+ORD001934,CUST0433,2023-07-10,Delivered,Cash on Delivery,Website,Pune
+ORD001935,CUST0434,2023-12-21,Delivered,Debit Card,Store,Kolkata
+ORD001936,CUST0434,2023-09-12,Delivered,Cash on Delivery,Store,Kolkata
+ORD001937,CUST0434,2023-05-21,Delivered,Debit Card,Store,Kolkata
+ORD001938,CUST0435,2023-03-16,Cancelled,Debit Card,Mobile App,Hyderabad
+ORD001939,CUST0435,2023-07-06,Delivered,Debit Card,Mobile App,Hyderabad
+ORD001940,CUST0435,2023-06-14,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001941,CUST0436,2023-11-05,Delivered,UPI,Website,Kolkata
+ORD001942,CUST0436,2023-12-06,Cancelled,Credit Card,Website,Kolkata
+ORD001943,CUST0437,2023-11-07,Delivered,Credit Card,Mobile App,Bengaluru
+ORD001944,CUST0437,2023-11-09,Delivered,Debit Card,Mobile App,Bengaluru
+ORD001945,CUST0437,2023-09-03,Returned,Credit Card,Mobile App,Bengaluru
+ORD001946,CUST0438,2023-09-17,Delivered,Credit Card,Mobile App,Delhi
+ORD001947,CUST0438,2023-03-14,Delivered,Net Banking,Mobile App,Delhi
+ORD001948,CUST0438,2023-12-05,Delivered,Net Banking,Mobile App,Delhi
+ORD001949,CUST0438,2023-04-25,Delivered,Credit Card,Mobile App,Delhi
+ORD001950,CUST0438,2023-11-19,Cancelled,Cash on Delivery,Mobile App,Delhi
+ORD001951,CUST0439,2023-04-24,Returned,Cash on Delivery,Mobile App,Kolkata
+ORD001952,CUST0439,2023-08-17,Delivered,Debit Card,Mobile App,Kolkata
+ORD001953,CUST0439,2023-09-27,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD001954,CUST0439,2023-10-29,Delivered,Net Banking,Mobile App,Kolkata
+ORD001955,CUST0439,2023-10-28,Delivered,Credit Card,Mobile App,Kolkata
+ORD001956,CUST0439,2023-12-14,Returned,Credit Card,Mobile App,Kolkata
+ORD001957,CUST0439,2023-10-01,Cancelled,Debit Card,Mobile App,Kolkata
+ORD001958,CUST0439,2023-08-09,Delivered,Credit Card,Mobile App,Kolkata
+ORD001959,CUST0439,2023-12-05,Cancelled,Credit Card,Mobile App,Kolkata
+ORD001960,CUST0440,2023-06-02,Cancelled,Credit Card,Mobile App,Kolkata
+ORD001961,CUST0440,2023-07-19,Delivered,Credit Card,Mobile App,Kolkata
+ORD001962,CUST0440,2023-12-27,Returned,UPI,Mobile App,Kolkata
+ORD001963,CUST0441,2023-10-02,Delivered,UPI,Website,Kolkata
+ORD001964,CUST0441,2023-10-06,Delivered,Debit Card,Mobile App,Kolkata
+ORD001965,CUST0441,2023-10-19,Cancelled,Net Banking,Mobile App,Kolkata
+ORD001966,CUST0441,2023-10-13,Cancelled,UPI,Mobile App,Kolkata
+ORD001967,CUST0442,2023-04-30,Delivered,Credit Card,Store,Ahmedabad
+ORD001968,CUST0442,2023-10-15,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD001969,CUST0442,2023-09-05,Delivered,Credit Card,Mobile App,Ahmedabad
+ORD001970,CUST0442,2023-09-22,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD001971,CUST0443,2023-10-30,Returned,UPI,Store,Hyderabad
+ORD001972,CUST0443,2023-12-02,Delivered,UPI,Website,Hyderabad
+ORD001973,CUST0443,2023-12-23,Delivered,UPI,Mobile App,Hyderabad
+ORD001974,CUST0443,2023-12-09,Delivered,Cash on Delivery,Website,Hyderabad
+ORD001975,CUST0443,2023-10-13,Returned,UPI,Store,Hyderabad
+ORD001976,CUST0443,2023-11-11,Returned,Credit Card,Mobile App,Hyderabad
+ORD001977,CUST0443,2023-12-10,Delivered,Cash on Delivery,Store,Hyderabad
+ORD001978,CUST0443,2023-12-19,Delivered,Cash on Delivery,Store,Hyderabad
+ORD001979,CUST0443,2023-12-13,Delivered,Cash on Delivery,Store,Hyderabad
+ORD001980,CUST0443,2023-10-17,Delivered,UPI,Store,Hyderabad
+ORD001981,CUST0443,2023-11-02,Delivered,Credit Card,Store,Hyderabad
+ORD001982,CUST0444,2023-05-28,Delivered,Credit Card,Mobile App,Delhi
+ORD001983,CUST0444,2023-11-20,Delivered,UPI,Website,Delhi
+ORD001984,CUST0444,2023-04-30,Returned,Credit Card,Mobile App,Delhi
+ORD001985,CUST0445,2023-01-22,Delivered,Debit Card,Mobile App,Chennai
+ORD001986,CUST0445,2023-05-11,Delivered,Net Banking,Mobile App,Chennai
+ORD001987,CUST0445,2023-12-04,Delivered,Credit Card,Mobile App,Chennai
+ORD001988,CUST0445,2023-11-08,Delivered,Net Banking,Mobile App,Chennai
+ORD001989,CUST0445,2023-06-24,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD001990,CUST0445,2023-06-27,Delivered,UPI,Mobile App,Chennai
+ORD001991,CUST0445,2023-09-21,Delivered,UPI,Mobile App,Chennai
+ORD001992,CUST0446,2023-11-15,Cancelled,UPI,Store,Chennai
+ORD001993,CUST0446,2023-12-23,Returned,Net Banking,Store,Chennai
+ORD001994,CUST0446,2023-12-12,Returned,Credit Card,Store,Chennai
+ORD001995,CUST0447,2023-03-03,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD001996,CUST0447,2023-11-24,Delivered,Credit Card,Mobile App,Hyderabad
+ORD001997,CUST0447,2023-09-13,Cancelled,Debit Card,Mobile App,Hyderabad
+ORD001998,CUST0447,2023-03-29,Cancelled,Net Banking,Website,Hyderabad
+ORD001999,CUST0448,2023-11-08,Delivered,Net Banking,Mobile App,Pune
+ORD002000,CUST0448,2023-06-04,Delivered,UPI,Store,Pune
+ORD002001,CUST0449,2023-11-04,Delivered,Net Banking,Mobile App,Bengaluru
+ORD002002,CUST0449,2023-11-09,Cancelled,Cash on Delivery,Mobile App,Bengaluru
+ORD002003,CUST0449,2023-11-20,Delivered,Debit Card,Store,Bengaluru
+ORD002004,CUST0449,2023-12-15,Delivered,Debit Card,Store,Bengaluru
+ORD002005,CUST0450,2023-08-11,Delivered,Net Banking,Website,Chennai
+ORD002006,CUST0450,2023-09-30,Delivered,UPI,Website,Chennai
+ORD002007,CUST0450,2023-04-27,Delivered,Cash on Delivery,Website,Chennai
+ORD002008,CUST0450,2023-05-07,Returned,Cash on Delivery,Mobile App,Chennai
+ORD002009,CUST0450,2023-08-19,Delivered,Credit Card,Website,Chennai
+ORD002010,CUST0450,2023-04-08,Returned,Cash on Delivery,Website,Chennai
+ORD002011,CUST0451,2023-07-05,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD002012,CUST0451,2023-08-21,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD002013,CUST0451,2023-12-06,Delivered,Debit Card,Mobile App,Kolkata
+ORD002014,CUST0452,2023-08-05,Returned,Cash on Delivery,Mobile App,Mumbai
+ORD002015,CUST0452,2023-07-04,Delivered,Cash on Delivery,Mobile App,Mumbai
+ORD002016,CUST0452,2023-09-15,Returned,Credit Card,Mobile App,Mumbai
+ORD002017,CUST0453,2023-10-01,Delivered,Net Banking,Mobile App,Hyderabad
+ORD002018,CUST0453,2023-11-24,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD002019,CUST0453,2023-09-01,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD002020,CUST0454,2023-04-18,Delivered,Debit Card,Store,Pune
+ORD002021,CUST0454,2023-05-12,Delivered,Debit Card,Mobile App,Pune
+ORD002022,CUST0454,2023-04-10,Delivered,UPI,Mobile App,Pune
+ORD002023,CUST0454,2023-08-27,Delivered,Credit Card,Store,Pune
+ORD002024,CUST0454,2023-08-22,Delivered,Debit Card,Mobile App,Pune
+ORD002025,CUST0454,2023-09-27,Delivered,Net Banking,Mobile App,Pune
+ORD002026,CUST0455,2023-10-13,Delivered,Debit Card,Mobile App,Mumbai
+ORD002027,CUST0456,2023-05-06,Delivered,Cash on Delivery,Mobile App,Pune
+ORD002028,CUST0457,2023-12-23,Returned,Cash on Delivery,Store,Ahmedabad
+ORD002029,CUST0457,2023-12-06,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD002030,CUST0458,2023-07-14,Delivered,Net Banking,Website,Kolkata
+ORD002031,CUST0459,2023-11-21,Delivered,Cash on Delivery,Website,Pune
+ORD002032,CUST0459,2023-10-11,Delivered,Debit Card,Store,Pune
+ORD002033,CUST0459,2023-09-29,Returned,Debit Card,Store,Pune
+ORD002034,CUST0459,2023-10-20,Delivered,Credit Card,Store,Pune
+ORD002035,CUST0459,2023-12-21,Cancelled,Debit Card,Store,Pune
+ORD002036,CUST0459,2023-12-07,Delivered,UPI,Mobile App,Pune
+ORD002037,CUST0459,2023-10-08,Delivered,UPI,Store,Pune
+ORD002038,CUST0460,2023-12-07,Cancelled,Debit Card,Website,Kolkata
+ORD002039,CUST0460,2023-07-12,Delivered,Net Banking,Website,Kolkata
+ORD002040,CUST0460,2023-09-23,Delivered,Debit Card,Mobile App,Kolkata
+ORD002041,CUST0460,2023-08-13,Delivered,Net Banking,Website,Kolkata
+ORD002042,CUST0460,2023-09-12,Returned,Net Banking,Website,Kolkata
+ORD002043,CUST0461,2023-11-27,Delivered,Credit Card,Mobile App,Bengaluru
+ORD002044,CUST0461,2023-12-05,Delivered,Net Banking,Mobile App,Bengaluru
+ORD002045,CUST0461,2023-10-11,Delivered,Net Banking,Store,Bengaluru
+ORD002046,CUST0462,2023-11-07,Delivered,Cash on Delivery,Website,Bengaluru
+ORD002047,CUST0462,2023-09-02,Cancelled,Cash on Delivery,Website,Bengaluru
+ORD002048,CUST0462,2023-10-09,Delivered,Net Banking,Store,Bengaluru
+ORD002049,CUST0463,2023-12-10,Delivered,UPI,Mobile App,Mumbai
+ORD002050,CUST0463,2023-12-20,Delivered,Credit Card,Website,Mumbai
+ORD002051,CUST0463,2023-12-25,Cancelled,Cash on Delivery,Website,Mumbai
+ORD002052,CUST0464,2023-10-22,Delivered,Credit Card,Store,Pune
+ORD002053,CUST0464,2023-12-16,Returned,Cash on Delivery,Mobile App,Pune
+ORD002054,CUST0464,2023-11-05,Returned,Net Banking,Store,Pune
+ORD002055,CUST0464,2023-10-31,Cancelled,Credit Card,Mobile App,Pune
+ORD002056,CUST0464,2023-11-14,Delivered,Credit Card,Mobile App,Pune
+ORD002057,CUST0464,2023-11-08,Delivered,Cash on Delivery,Mobile App,Pune
+ORD002058,CUST0464,2023-10-21,Delivered,Credit Card,Store,Pune
+ORD002059,CUST0465,2023-09-06,Delivered,Net Banking,Store,Bengaluru
+ORD002060,CUST0465,2023-05-30,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD002061,CUST0465,2023-11-20,Delivered,UPI,Website,Bengaluru
+ORD002062,CUST0465,2023-08-26,Delivered,Debit Card,Store,Bengaluru
+ORD002063,CUST0465,2023-07-31,Delivered,UPI,Store,Bengaluru
+ORD002064,CUST0466,2023-10-01,Cancelled,UPI,Website,Kolkata
+ORD002065,CUST0466,2023-12-15,Cancelled,UPI,Website,Kolkata
+ORD002066,CUST0466,2023-11-06,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD002067,CUST0466,2023-12-12,Delivered,Credit Card,Website,Kolkata
+ORD002068,CUST0466,2023-11-03,Delivered,Cash on Delivery,Store,Kolkata
+ORD002069,CUST0466,2023-11-07,Delivered,Net Banking,Website,Kolkata
+ORD002070,CUST0466,2023-11-05,Delivered,Cash on Delivery,Mobile App,Kolkata
+ORD002071,CUST0466,2023-11-14,Cancelled,Debit Card,Mobile App,Kolkata
+ORD002072,CUST0466,2023-10-03,Returned,Cash on Delivery,Mobile App,Kolkata
+ORD002073,CUST0466,2023-10-07,Delivered,Debit Card,Store,Kolkata
+ORD002074,CUST0466,2023-11-21,Delivered,Debit Card,Mobile App,Kolkata
+ORD002075,CUST0467,2023-10-04,Returned,UPI,Website,Hyderabad
+ORD002076,CUST0467,2023-12-29,Returned,UPI,Mobile App,Hyderabad
+ORD002077,CUST0468,2023-07-06,Returned,Credit Card,Mobile App,Ahmedabad
+ORD002078,CUST0468,2023-08-01,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD002079,CUST0469,2023-10-11,Delivered,Net Banking,Website,Delhi
+ORD002080,CUST0469,2023-08-31,Delivered,Credit Card,Website,Delhi
+ORD002081,CUST0469,2023-12-15,Delivered,Debit Card,Website,Delhi
+ORD002082,CUST0469,2023-09-23,Delivered,Net Banking,Mobile App,Delhi
+ORD002083,CUST0469,2023-08-02,Cancelled,Debit Card,Website,Delhi
+ORD002084,CUST0469,2023-11-19,Delivered,Credit Card,Website,Delhi
+ORD002085,CUST0470,2023-07-25,Delivered,Debit Card,Mobile App,Delhi
+ORD002086,CUST0470,2023-05-29,Returned,UPI,Mobile App,Delhi
+ORD002087,CUST0470,2023-06-02,Delivered,UPI,Mobile App,Delhi
+ORD002088,CUST0470,2023-12-15,Delivered,Cash on Delivery,Mobile App,Delhi
+ORD002089,CUST0471,2023-11-25,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD002090,CUST0471,2023-09-15,Returned,Debit Card,Mobile App,Bengaluru
+ORD002091,CUST0471,2023-12-23,Returned,Net Banking,Store,Bengaluru
+ORD002092,CUST0471,2023-11-01,Delivered,Debit Card,Mobile App,Bengaluru
+ORD002093,CUST0472,2023-05-08,Delivered,Debit Card,Website,Mumbai
+ORD002094,CUST0472,2023-09-03,Delivered,UPI,Website,Mumbai
+ORD002095,CUST0472,2023-12-12,Returned,Net Banking,Website,Mumbai
+ORD002096,CUST0472,2023-06-01,Returned,Net Banking,Website,Mumbai
+ORD002097,CUST0472,2023-09-07,Cancelled,Net Banking,Mobile App,Mumbai
+ORD002098,CUST0472,2023-05-16,Delivered,UPI,Mobile App,Mumbai
+ORD002099,CUST0472,2023-12-15,Delivered,UPI,Website,Mumbai
+ORD002100,CUST0473,2023-10-19,Delivered,Net Banking,Store,Hyderabad
+ORD002101,CUST0473,2023-11-17,Delivered,Debit Card,Mobile App,Hyderabad
+ORD002102,CUST0473,2023-12-30,Delivered,Credit Card,Mobile App,Hyderabad
+ORD002103,CUST0473,2023-10-25,Cancelled,UPI,Mobile App,Hyderabad
+ORD002104,CUST0473,2023-07-27,Delivered,Credit Card,Mobile App,Hyderabad
+ORD002105,CUST0473,2023-09-05,Delivered,UPI,Website,Hyderabad
+ORD002106,CUST0474,2023-07-12,Returned,Credit Card,Website,Pune
+ORD002107,CUST0474,2023-06-13,Delivered,Net Banking,Website,Pune
+ORD002108,CUST0474,2023-12-22,Returned,Credit Card,Website,Pune
+ORD002109,CUST0474,2023-07-07,Delivered,Credit Card,Website,Pune
+ORD002110,CUST0474,2023-08-24,Delivered,Net Banking,Website,Pune
+ORD002111,CUST0475,2023-10-13,Delivered,Credit Card,Mobile App,Pune
+ORD002112,CUST0475,2023-12-10,Cancelled,UPI,Mobile App,Pune
+ORD002113,CUST0475,2023-09-29,Delivered,UPI,Mobile App,Pune
+ORD002114,CUST0475,2023-08-05,Delivered,Cash on Delivery,Mobile App,Pune
+ORD002115,CUST0475,2023-09-18,Delivered,Credit Card,Mobile App,Pune
+ORD002116,CUST0475,2023-10-01,Cancelled,Cash on Delivery,Mobile App,Pune
+ORD002117,CUST0476,2023-11-21,Returned,Cash on Delivery,Website,Delhi
+ORD002118,CUST0476,2023-11-30,Delivered,Net Banking,Website,Delhi
+ORD002119,CUST0477,2023-10-09,Delivered,UPI,Mobile App,Delhi
+ORD002120,CUST0477,2023-11-10,Delivered,Debit Card,Website,Delhi
+ORD002121,CUST0477,2023-09-01,Returned,Credit Card,Mobile App,Delhi
+ORD002122,CUST0478,2023-05-13,Delivered,UPI,Website,Chennai
+ORD002123,CUST0478,2023-09-01,Delivered,Net Banking,Website,Chennai
+ORD002124,CUST0478,2023-05-19,Delivered,Cash on Delivery,Mobile App,Chennai
+ORD002125,CUST0478,2023-10-26,Delivered,Net Banking,Website,Chennai
+ORD002126,CUST0478,2023-04-12,Delivered,Credit Card,Website,Chennai
+ORD002127,CUST0479,2023-10-09,Delivered,UPI,Store,Pune
+ORD002128,CUST0479,2023-09-10,Delivered,Net Banking,Store,Pune
+ORD002129,CUST0479,2023-08-30,Delivered,Debit Card,Mobile App,Pune
+ORD002130,CUST0479,2023-12-26,Delivered,Debit Card,Store,Pune
+ORD002131,CUST0480,2023-12-02,Cancelled,Cash on Delivery,Website,Ahmedabad
+ORD002132,CUST0480,2023-04-26,Delivered,UPI,Store,Ahmedabad
+ORD002133,CUST0480,2023-07-24,Returned,Credit Card,Website,Ahmedabad
+ORD002134,CUST0480,2023-06-09,Delivered,UPI,Website,Ahmedabad
+ORD002135,CUST0480,2023-08-21,Delivered,Debit Card,Website,Ahmedabad
+ORD002136,CUST0480,2023-10-02,Returned,Net Banking,Store,Ahmedabad
+ORD002137,CUST0481,2023-09-12,Delivered,UPI,Store,Ahmedabad
+ORD002138,CUST0481,2023-09-29,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD002139,CUST0481,2023-10-07,Delivered,Cash on Delivery,Mobile App,Ahmedabad
+ORD002140,CUST0482,2023-08-30,Returned,Cash on Delivery,Mobile App,Hyderabad
+ORD002141,CUST0482,2023-08-25,Delivered,Credit Card,Mobile App,Hyderabad
+ORD002142,CUST0482,2023-08-04,Delivered,Debit Card,Mobile App,Hyderabad
+ORD002143,CUST0482,2023-09-07,Delivered,Debit Card,Mobile App,Hyderabad
+ORD002144,CUST0483,2023-10-16,Delivered,Net Banking,Store,Delhi
+ORD002145,CUST0483,2023-12-13,Delivered,Debit Card,Store,Delhi
+ORD002146,CUST0483,2023-10-29,Delivered,Net Banking,Mobile App,Delhi
+ORD002147,CUST0484,2023-11-29,Delivered,UPI,Mobile App,Bengaluru
+ORD002148,CUST0484,2023-11-11,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD002149,CUST0484,2023-10-11,Delivered,Debit Card,Website,Bengaluru
+ORD002150,CUST0484,2023-07-08,Delivered,Cash on Delivery,Mobile App,Bengaluru
+ORD002151,CUST0485,2023-11-26,Returned,Net Banking,Mobile App,Ahmedabad
+ORD002152,CUST0485,2023-07-21,Delivered,Net Banking,Mobile App,Ahmedabad
+ORD002153,CUST0485,2023-07-31,Delivered,Debit Card,Mobile App,Ahmedabad
+ORD002154,CUST0486,2023-05-04,Delivered,Credit Card,Store,Hyderabad
+ORD002155,CUST0486,2023-07-24,Delivered,Debit Card,Mobile App,Hyderabad
+ORD002156,CUST0486,2023-11-09,Delivered,Debit Card,Mobile App,Hyderabad
+ORD002157,CUST0486,2023-06-13,Delivered,Cash on Delivery,Mobile App,Hyderabad
+ORD002158,CUST0486,2023-12-09,Delivered,Debit Card,Mobile App,Hyderabad
+ORD002159,CUST0486,2023-05-28,Delivered,Net Banking,Mobile App,Hyderabad
+ORD002160,CUST0486,2023-10-03,Delivered,Net Banking,Mobile App,Hyderabad
+ORD002161,CUST0486,2023-09-10,Delivered,Debit Card,Website,Hyderabad
+ORD002162,CUST0486,2023-04-17,Returned,Net Banking,Website,Hyderabad
+ORD002163,CUST0486,2023-11-26,Cancelled,Debit Card,Mobile App,Hyderabad
+ORD002164,CUST0487,2023-10-09,Delivered,Net Banking,Store,Ahmedabad
+ORD002165,CUST0487,2023-08-05,Delivered,Cash on Delivery,Store,Ahmedabad
+ORD002166,CUST0488,2023-11-03,Delivered,Debit Card,Store,Pune
+ORD002167,CUST0488,2023-10-28,Delivered,Debit Card,Website,Pune
+ORD002168,CUST0488,2023-11-20,Delivered,Net Banking,Mobile App,Pune
+ORD002169,CUST0488,2023-12-07,Cancelled,Debit Card,Website,Pune
+ORD002170,CUST0488,2023-11-10,Delivered,Credit Card,Store,Pune
+ORD002171,CUST0488,2023-10-29,Delivered,Credit Card,Website,Pune
+ORD002172,CUST0488,2023-11-02,Delivered,Net Banking,Website,Pune
+ORD002173,CUST0488,2023-10-10,Cancelled,Credit Card,Website,Pune
+ORD002174,CUST0488,2023-11-16,Delivered,Net Banking,Website,Pune
+ORD002175,CUST0488,2023-10-09,Delivered,Net Banking,Website,Pune
+ORD002176,CUST0489,2023-11-11,Delivered,Debit Card,Store,Chennai
+ORD002177,CUST0489,2023-10-29,Delivered,Cash on Delivery,Store,Chennai
+ORD002178,CUST0489,2023-09-25,Delivered,UPI,Store,Chennai
+ORD002179,CUST0489,2023-12-15,Delivered,Net Banking,Store,Chennai
+ORD002180,CUST0490,2023-05-05,Delivered,UPI,Website,Mumbai
+ORD002181,CUST0490,2023-12-30,Delivered,Debit Card,Website,Mumbai
+ORD002182,CUST0491,2023-12-25,Delivered,Net Banking,Mobile App,Chennai
+ORD002183,CUST0491,2023-10-20,Delivered,Credit Card,Mobile App,Chennai
+ORD002184,CUST0491,2023-12-10,Delivered,UPI,Mobile App,Chennai
+ORD002185,CUST0491,2023-11-20,Cancelled,Net Banking,Mobile App,Chennai
+ORD002186,CUST0491,2023-10-20,Delivered,Credit Card,Mobile App,Chennai
+ORD002187,CUST0492,2023-06-30,Cancelled,Debit Card,Mobile App,Hyderabad
+ORD002188,CUST0492,2023-09-05,Returned,Cash on Delivery,Store,Hyderabad
+ORD002189,CUST0493,2023-07-19,Delivered,UPI,Mobile App,Kolkata
+ORD002190,CUST0494,2023-07-15,Delivered,Debit Card,Mobile App,Delhi
+ORD002191,CUST0495,2023-12-09,Delivered,Debit Card,Website,Delhi
+ORD002192,CUST0495,2023-10-14,Delivered,Net Banking,Mobile App,Delhi
+ORD002193,CUST0496,2023-10-09,Delivered,Cash on Delivery,Website,Pune
+ORD002194,CUST0496,2023-10-24,Delivered,UPI,Mobile App,Pune
+ORD002195,CUST0497,2023-09-17,Delivered,Debit Card,Mobile App,Pune
+ORD002196,CUST0497,2023-09-13,Delivered,Net Banking,Mobile App,Pune
+ORD002197,CUST0498,2023-12-09,Delivered,Debit Card,Mobile App,Kolkata
+ORD002198,CUST0498,2023-05-17,Delivered,Net Banking,Mobile App,Kolkata
+ORD002199,CUST0498,2023-10-27,Delivered,Credit Card,Mobile App,Kolkata
+ORD002200,CUST0498,2023-11-16,Delivered,Credit Card,Mobile App,Kolkata
+ORD002201,CUST0498,2023-02-25,Delivered,Cash on Delivery,Website,Kolkata
+ORD002202,CUST0498,2023-04-12,Delivered,Debit Card,Mobile App,Kolkata
+ORD002203,CUST0499,2023-12-11,Delivered,Credit Card,Website,Chennai
+ORD002204,CUST0499,2023-06-22,Delivered,Net Banking,Store,Chennai
+ORD002205,CUST0499,2023-10-12,Delivered,Credit Card,Mobile App,Chennai
+ORD002206,CUST0499,2023-11-22,Delivered,Credit Card,Mobile App,Chennai
+ORD002207,CUST0499,2023-09-30,Delivered,Debit Card,Mobile App,Chennai
+ORD002208,CUST0499,2023-10-31,Delivered,UPI,Mobile App,Chennai
+ORD002209,CUST0499,2023-12-13,Returned,Cash on Delivery,Website,Chennai
+ORD002210,CUST0500,2023-11-01,Delivered,Credit Card,Website,Hyderabad
+ORD002211,CUST0500,2023-04-29,Delivered,Net Banking,Website,Hyderabad
+ORD002212,CUST0500,2023-05-24,Delivered,Credit Card,Website,Hyderabad

@@ -1,0 +1,114 @@
+product_id,product_name,category,price,cost_price
+PROD0001,Electronics Item 1,Electronics,42569.0,28776.0
+PROD0002,Electronics Item 2,Electronics,37380.0,19001.0
+PROD0003,Electronics Item 3,Electronics,2208.0,1243.0
+PROD0004,Electronics Item 4,Electronics,3593.0,2480.0
+PROD0005,Electronics Item 5,Electronics,1162.0,617.0
+PROD0006,Electronics Item 6,Electronics,9786.0,4437.0
+PROD0007,Electronics Item 7,Electronics,22859.0,10721.0
+PROD0008,Electronics Item 8,Electronics,40577.0,25235.0
+PROD0009,Electronics Item 9,Electronics,17154.0,11328.0
+PROD0010,Electronics Item 10,Electronics,36021.0,19149.0
+PROD0011,Electronics Item 11,Electronics,38247.0,26098.0
+PROD0012,Electronics Item 12,Electronics,28199.0,15170.0
+PROD0013,Electronics Item 13,Electronics,40606.0,27844.0
+PROD0014,Electronics Item 14,Electronics,16150.0,7616.0
+PROD0015,Clothing Item 1,Clothing,4365.0,2690.0
+PROD0016,Clothing Item 2,Clothing,1314.0,778.0
+PROD0017,Clothing Item 3,Clothing,1679.0,1141.0
+PROD0018,Clothing Item 4,Clothing,1842.0,919.0
+PROD0019,Clothing Item 5,Clothing,407.0,218.0
+PROD0020,Clothing Item 6,Clothing,4949.0,2497.0
+PROD0021,Clothing Item 7,Clothing,2399.0,1663.0
+PROD0022,Clothing Item 8,Clothing,232.0,122.0
+PROD0023,Clothing Item 9,Clothing,4142.0,1963.0
+PROD0024,Clothing Item 10,Clothing,4656.0,3067.0
+PROD0025,Clothing Item 11,Clothing,887.0,531.0
+PROD0026,Clothing Item 12,Clothing,2866.0,1787.0
+PROD0027,Clothing Item 13,Clothing,1673.0,914.0
+PROD0028,Clothing Item 14,Clothing,1356.0,709.0
+PROD0029,Clothing Item 15,Clothing,1043.0,705.0
+PROD0030,Clothing Item 16,Clothing,4460.0,2408.0
+PROD0031,Grocery Item 1,Grocery,418.0,217.0
+PROD0032,Grocery Item 2,Grocery,312.0,216.0
+PROD0033,Grocery Item 3,Grocery,306.0,182.0
+PROD0034,Grocery Item 4,Grocery,759.0,398.0
+PROD0035,Grocery Item 5,Grocery,657.0,314.0
+PROD0036,Grocery Item 6,Grocery,600.0,391.0
+PROD0037,Grocery Item 7,Grocery,678.0,470.0
+PROD0038,Grocery Item 8,Grocery,583.0,405.0
+PROD0039,Grocery Item 9,Grocery,259.0,150.0
+PROD0040,Grocery Item 10,Grocery,211.0,99.0
+PROD0041,Grocery Item 11,Grocery,379.0,239.0
+PROD0042,Grocery Item 12,Grocery,634.0,288.0
+PROD0043,Home & Kitchen Item 1,Home & Kitchen,4723.0,2417.0
+PROD0044,Home & Kitchen Item 2,Home & Kitchen,1603.0,1055.0
+PROD0045,Home & Kitchen Item 3,Home & Kitchen,4492.0,2848.0
+PROD0046,Home & Kitchen Item 4,Home & Kitchen,1798.0,1017.0
+PROD0047,Home & Kitchen Item 5,Home & Kitchen,4206.0,2268.0
+PROD0048,Home & Kitchen Item 6,Home & Kitchen,4065.0,2624.0
+PROD0049,Home & Kitchen Item 7,Home & Kitchen,2450.0,1652.0
+PROD0050,Home & Kitchen Item 8,Home & Kitchen,2046.0,1304.0
+PROD0051,Home & Kitchen Item 9,Home & Kitchen,3271.0,1743.0
+PROD0052,Home & Kitchen Item 10,Home & Kitchen,2753.0,1656.0
+PROD0053,Home & Kitchen Item 11,Home & Kitchen,2777.0,1327.0
+PROD0054,Home & Kitchen Item 12,Home & Kitchen,4959.0,3430.0
+PROD0055,Home & Kitchen Item 13,Home & Kitchen,380.0,261.0
+PROD0056,Home & Kitchen Item 14,Home & Kitchen,2751.0,1324.0
+PROD0057,Sports Item 1,Sports,2278.0,1431.0
+PROD0058,Sports Item 2,Sports,4171.0,2438.0
+PROD0059,Sports Item 3,Sports,438.0,287.0
+PROD0060,Sports Item 4,Sports,3531.0,2392.0
+PROD0061,Sports Item 5,Sports,1497.0,968.0
+PROD0062,Sports Item 6,Sports,4391.0,2366.0
+PROD0063,Sports Item 7,Sports,2169.0,1157.0
+PROD0064,Sports Item 8,Sports,227.0,115.0
+PROD0065,Sports Item 9,Sports,1791.0,854.0
+PROD0066,Sports Item 10,Sports,3875.0,2157.0
+PROD0067,Sports Item 11,Sports,2927.0,1525.0
+PROD0068,Sports Item 12,Sports,1930.0,1232.0
+PROD0069,Sports Item 13,Sports,2455.0,1471.0
+PROD0070,Sports Item 14,Sports,2229.0,1313.0
+PROD0071,Sports Item 15,Sports,4507.0,2329.0
+PROD0072,Sports Item 16,Sports,2691.0,1673.0
+PROD0073,Books Item 1,Books,215.0,148.0
+PROD0074,Books Item 2,Books,524.0,268.0
+PROD0075,Books Item 3,Books,720.0,471.0
+PROD0076,Books Item 4,Books,623.0,423.0
+PROD0077,Books Item 5,Books,217.0,126.0
+PROD0078,Books Item 6,Books,707.0,480.0
+PROD0079,Books Item 7,Books,631.0,379.0
+PROD0080,Books Item 8,Books,441.0,261.0
+PROD0081,Books Item 9,Books,566.0,383.0
+PROD0082,Books Item 10,Books,770.0,488.0
+PROD0083,Books Item 11,Books,843.0,393.0
+PROD0084,Books Item 12,Books,727.0,411.0
+PROD0085,Books Item 13,Books,714.0,374.0
+PROD0086,Books Item 14,Books,501.0,329.0
+PROD0087,Books Item 15,Books,176.0,92.0
+PROD0088,Books Item 16,Books,516.0,342.0
+PROD0089,Beauty Item 1,Beauty,4151.0,2122.0
+PROD0090,Beauty Item 2,Beauty,1655.0,974.0
+PROD0091,Beauty Item 3,Beauty,3339.0,2237.0
+PROD0092,Beauty Item 4,Beauty,4421.0,2266.0
+PROD0093,Beauty Item 5,Beauty,3779.0,2300.0
+PROD0094,Beauty Item 6,Beauty,2053.0,1322.0
+PROD0095,Beauty Item 7,Beauty,4508.0,2569.0
+PROD0096,Beauty Item 8,Beauty,4597.0,2215.0
+PROD0097,Beauty Item 9,Beauty,998.0,640.0
+PROD0098,Beauty Item 10,Beauty,1667.0,994.0
+PROD0099,Beauty Item 11,Beauty,2586.0,1258.0
+PROD0100,Beauty Item 12,Beauty,3820.0,2427.0
+PROD0101,Beauty Item 13,Beauty,897.0,462.0
+PROD0102,Beauty Item 14,Beauty,4043.0,2741.0
+PROD0103,Beauty Item 15,Beauty,4376.0,2518.0
+PROD0104,Toys Item 1,Toys,1963.0,1102.0
+PROD0105,Toys Item 2,Toys,1047.0,601.0
+PROD0106,Toys Item 3,Toys,1308.0,642.0
+PROD0107,Toys Item 4,Toys,2027.0,945.0
+PROD0108,Toys Item 5,Toys,2458.0,1534.0
+PROD0109,Toys Item 6,Toys,3327.0,2308.0
+PROD0110,Toys Item 7,Toys,4452.0,2709.0
+PROD0111,Toys Item 8,Toys,4509.0,2530.0
+PROD0112,Toys Item 9,Toys,4035.0,2103.0
+PROD0113,Toys Item 10,Toys,2728.0,1896.0
